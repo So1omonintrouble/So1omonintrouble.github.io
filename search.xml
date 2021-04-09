@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title></title>
+    <url>/2021/04/09/schedule/</url>
+    <content><![CDATA[<h1 id="头脑风暴"><a href="#头脑风暴" class="headerlink" title="头脑风暴"></a>头脑风暴</h1><h2 id="想完成什么"><a href="#想完成什么" class="headerlink" title="想完成什么"></a>想完成什么</h2><ol>
+<li>美剧无障碍观影，先从有英文字幕开始</li>
+<li>专业课学习超出考试</li>
+<li>锻炼跑步</li>
+</ol>
+<h2 id="感兴趣的东西"><a href="#感兴趣的东西" class="headerlink" title="感兴趣的东西"></a>感兴趣的东西</h2><ol>
+<li>&lt;教父&gt;</li>
+<li>python爬虫-最感兴趣的！！！</li>
+<li>专业课（怎么说呢，其实不是很感兴趣，但可以先从试题入手）</li>
+</ol>
+<h2 id="怎么做"><a href="#怎么做" class="headerlink" title="怎么做"></a>怎么做</h2><ol>
+<li>早上在图书馆那边找教室（4教）有课就走，及时止损</li>
+<li>早上英语单词，有课就晚上学（8：00-12：00）</li>
+<li>中午专业课（2：30-6：00）不回宿舍，在朝阳吃</li>
+<li>晚上python爬虫（7：30-9：30）跑步（9：50-10：30）</li>
+</ol>
+<h2 id="2021-4-8进度"><a href="#2021-4-8进度" class="headerlink" title="2021.4.8进度"></a>2021.4.8进度</h2><ol>
+<li>python爬虫p18 中间</li>
+<li>开始远动学习</li>
+<li>完成英语单词</li>
+</ol>
+<h2 id="2021-4-9进度"><a href="#2021-4-9进度" class="headerlink" title="2021.4.9进度"></a>2021.4.9进度</h2><ol>
+<li>完成英语单词</li>
+<li>完成英语口语背诵</li>
+<li>看了一会&lt;教父&gt;，但觉得其他比较短的剧更适合，比如&lt;摩登家庭&gt;</li>
+<li>还没开始电力工程基础学习</li>
+<li>plc作业完成</li>
+<li>python爬虫</li>
+<li>跑步</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>About</title>
     <url>/2021/01/13/index/</url>
     <content><![CDATA[<h2 id="作者介绍"><a href="#作者介绍" class="headerlink" title="作者介绍"></a>作者介绍</h2><p>学生，现就读于兰州交通大学电气工程及其自动化专业本科，对计算机的学习有着浓厚的兴趣。</p>
@@ -40,6 +75,64 @@
       </categories>
       <tags>
         <tag>music</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>电力系统变电站</title>
+    <url>/2021/04/05/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%8F%98%E7%94%B5%E6%89%80/</url>
+    <content><![CDATA[<h1 id="电力系统变电站分类"><a href="#电力系统变电站分类" class="headerlink" title="电力系统变电站分类"></a>电力系统变电站分类</h1><h2 id="按地位分"><a href="#按地位分" class="headerlink" title="按地位分"></a>按地位分</h2><h4 id="配图"><a href="#配图" class="headerlink" title="配图"></a>配图</h4><p><img src="/2021/04/05/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%8F%98%E7%94%B5%E6%89%80/p1.jpeg" alt="p1"></p>
+<h3 id="枢纽变电所"><a href="#枢纽变电所" class="headerlink" title="枢纽变电所"></a>枢纽变电所</h3><h4 id="作用"><a href="#作用" class="headerlink" title="作用"></a>作用</h4><p>枢纽变电所电压等级高，供电范围广，在系统中处于举足轻重的地位，全所停电后，将引起系统解列，造成大区域停电，甚至造成电力系统瓦解，使社会的运行处于瘫痪状态。</p>
+<h4 id="所处位置"><a href="#所处位置" class="headerlink" title="所处位置"></a>所处位置</h4><p>位于电力系统的枢纽点，连接电力系统中的高压和中压的几个部分， 汇集多个电源。</p>
+<h4 id="常用电压等级"><a href="#常用电压等级" class="headerlink" title="常用电压等级"></a>常用电压等级</h4><p>220kV及以上</p>
+<hr>
+<h3 id="中间变电所"><a href="#中间变电所" class="headerlink" title="中间变电所"></a>中间变电所</h3><h4 id="作用-1"><a href="#作用-1" class="headerlink" title="作用"></a>作用</h4><p>该变电所以交换潮流为主，起系统功率交换的作用，或使长距离输电 线路分段， 一般汇集 2～3 个电源， 同时有降压给当地用户供电， 这样的变电所全所停电后， 将引起区域网络的解列，造成大面积停电。</p>
+<h4 id="所处位置-1"><a href="#所处位置-1" class="headerlink" title="所处位置"></a>所处位置</h4><p>位于系统主干环行线路或系统主要干线的接口处。</p>
+<h4 id="常用电压等级-1"><a href="#常用电压等级-1" class="headerlink" title="常用电压等级"></a>常用电压等级</h4><p>电压等级一般为330～220kV</p>
+<hr>
+<h3 id="地区变电所"><a href="#地区变电所" class="headerlink" title="地区变电所"></a>地区变电所</h3><h4 id="作用-2"><a href="#作用-2" class="headerlink" title="作用"></a>作用</h4><p>高压侧一般为 220~110 干伏，它是对地区用户供电为主的变电所，全所停电后，将使地区中断电源。</p>
+<h4 id="所处位置-2"><a href="#所处位置-2" class="headerlink" title="所处位置"></a>所处位置</h4><p>将远处的高压电力转送到较远的负荷中心，还同时降压后向当地和邻近地区供电。在电网高电压的变电站中，除少数地区为枢纽变电站外，其余均为区域变电站。</p>
+<h4 id="常用电压等级-2"><a href="#常用电压等级-2" class="headerlink" title="常用电压等级"></a>常用电压等级</h4><p>35kV及以上330kV以下</p>
+<hr>
+<h3 id="终端变电所"><a href="#终端变电所" class="headerlink" title="终端变电所"></a>终端变电所</h3><h4 id="作用-3"><a href="#作用-3" class="headerlink" title="作用"></a>作用</h4><p>经降压后直接给用户供电。终端变电所全所停电后，将使用户中断电源。终端变电站是单独建造的终端变电所，是用电单位或者用户前端的第一个变电站，终端变电站出来的电直接供给用户用电设备使用，而不需再次经过变电站变压。</p>
+<h4 id="所处位置-3"><a href="#所处位置-3" class="headerlink" title="所处位置"></a>所处位置</h4><p>处于输电线路的终端，接近负荷点。</p>
+<h4 id="常用电压等级-3"><a href="#常用电压等级-3" class="headerlink" title="常用电压等级"></a>常用电压等级</h4><p>高压侧一般为 35~110 kV，10kV/0.4kV的变压器并不算终端变电站，其属于配电变压器。</p>
+<hr>
+<h2 id="工厂企业内部的车间变电所"><a href="#工厂企业内部的车间变电所" class="headerlink" title="工厂企业内部的车间变电所"></a>工厂企业内部的车间变电所</h2><h4 id="配图-1"><a href="#配图-1" class="headerlink" title="配图"></a>配图</h4><p><img src="/2021/04/05/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%8F%98%E7%94%B5%E6%89%80/p2.png" alt="p2"></p>
+<h4 id="露天变电所"><a href="#露天变电所" class="headerlink" title="露天变电所"></a>露天变电所</h4><p>变压器位于露天地面之上的变电所</p>
+<h4 id="半露天变电所"><a href="#半露天变电所" class="headerlink" title="半露天变电所"></a>半露天变电所</h4><p>变压器位于露天地面之上的变电所，但变压器上方有顶板或挑檐</p>
+<h4 id="附设变电所"><a href="#附设变电所" class="headerlink" title="附设变电所"></a>附设变电所</h4><p>变电所的一面或数面墙与建筑物的墙共用，且变压器室的门和通风窗向建筑物外开</p>
+<h4 id="车间内变电所"><a href="#车间内变电所" class="headerlink" title="车间内变电所"></a>车间内变电所</h4><p>位于车间内部的变电所，且变压器室的门向车间内开</p>
+<h4 id="独立变电所"><a href="#独立变电所" class="headerlink" title="独立变电所"></a>独立变电所</h4><p>为一独立建筑物</p>
+<h4 id="室内变电所"><a href="#室内变电所" class="headerlink" title="室内变电所"></a>室内变电所</h4><p>附设变电所，独立变电所和车间内变电所的总称</p>
+<h2 id="按照用途分"><a href="#按照用途分" class="headerlink" title="按照用途分"></a>按照用途分</h2><ol>
+<li>升压变电所</li>
+<li>降压变电所</li>
+</ol>
+<hr>
+<h2 id="按照控制操作方式分"><a href="#按照控制操作方式分" class="headerlink" title="按照控制操作方式分"></a>按照控制操作方式分</h2><ol>
+<li>有人值班变电所</li>
+<li>无人值班变电所</li>
+</ol>
+<hr>
+<h2 id="按照结构形式分"><a href="#按照结构形式分" class="headerlink" title="按照结构形式分"></a>按照结构形式分</h2><ol>
+<li><p>室外变电所</p>
+</li>
+<li><p>室内变电所</p>
+</li>
+<li><p>箱式变电所</p>
+<hr>
+</li>
+</ol>
+<h2 id="按照地理条件分"><a href="#按照地理条件分" class="headerlink" title="按照地理条件分"></a>按照地理条件分</h2><ol>
+<li>地上变电所</li>
+<li>地下变电所</li>
+</ol>
+]]></content>
+      <categories>
+        <category>专业课</category>
+      </categories>
+      <tags>
+        <tag>电力工程基础</tag>
       </tags>
   </entry>
   <entry>
@@ -130,64 +223,6 @@ easypeasy!</script><hr>
       </categories>
       <tags>
         <tag>python</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>电力系统变电站</title>
-    <url>/2021/04/05/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%8F%98%E7%94%B5%E6%89%80/</url>
-    <content><![CDATA[<h1 id="电力系统变电站分类"><a href="#电力系统变电站分类" class="headerlink" title="电力系统变电站分类"></a>电力系统变电站分类</h1><h2 id="按地位分"><a href="#按地位分" class="headerlink" title="按地位分"></a>按地位分</h2><h4 id="配图"><a href="#配图" class="headerlink" title="配图"></a>配图</h4><p><img src="/2021/04/05/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%8F%98%E7%94%B5%E6%89%80/p1.jpeg" alt="p1"></p>
-<h3 id="枢纽变电所"><a href="#枢纽变电所" class="headerlink" title="枢纽变电所"></a>枢纽变电所</h3><h4 id="作用"><a href="#作用" class="headerlink" title="作用"></a>作用</h4><p>枢纽变电所电压等级高，供电范围广，在系统中处于举足轻重的地位，全所停电后，将引起系统解列，造成大区域停电，甚至造成电力系统瓦解，使社会的运行处于瘫痪状态。</p>
-<h4 id="所处位置"><a href="#所处位置" class="headerlink" title="所处位置"></a>所处位置</h4><p>位于电力系统的枢纽点，连接电力系统中的高压和中压的几个部分， 汇集多个电源。</p>
-<h4 id="常用电压等级"><a href="#常用电压等级" class="headerlink" title="常用电压等级"></a>常用电压等级</h4><p>220kV及以上</p>
-<hr>
-<h3 id="中间变电所"><a href="#中间变电所" class="headerlink" title="中间变电所"></a>中间变电所</h3><h4 id="作用-1"><a href="#作用-1" class="headerlink" title="作用"></a>作用</h4><p>该变电所以交换潮流为主，起系统功率交换的作用，或使长距离输电 线路分段， 一般汇集 2～3 个电源， 同时有降压给当地用户供电， 这样的变电所全所停电后， 将引起区域网络的解列，造成大面积停电。</p>
-<h4 id="所处位置-1"><a href="#所处位置-1" class="headerlink" title="所处位置"></a>所处位置</h4><p>位于系统主干环行线路或系统主要干线的接口处。</p>
-<h4 id="常用电压等级-1"><a href="#常用电压等级-1" class="headerlink" title="常用电压等级"></a>常用电压等级</h4><p>电压等级一般为330～220kV</p>
-<hr>
-<h3 id="地区变电所"><a href="#地区变电所" class="headerlink" title="地区变电所"></a>地区变电所</h3><h4 id="作用-2"><a href="#作用-2" class="headerlink" title="作用"></a>作用</h4><p>高压侧一般为 220~110 干伏，它是对地区用户供电为主的变电所，全所停电后，将使地区中断电源。</p>
-<h4 id="所处位置-2"><a href="#所处位置-2" class="headerlink" title="所处位置"></a>所处位置</h4><p>将远处的高压电力转送到较远的负荷中心，还同时降压后向当地和邻近地区供电。在电网高电压的变电站中，除少数地区为枢纽变电站外，其余均为区域变电站。</p>
-<h4 id="常用电压等级-2"><a href="#常用电压等级-2" class="headerlink" title="常用电压等级"></a>常用电压等级</h4><p>35kV及以上330kV以下</p>
-<hr>
-<h3 id="终端变电所"><a href="#终端变电所" class="headerlink" title="终端变电所"></a>终端变电所</h3><h4 id="作用-3"><a href="#作用-3" class="headerlink" title="作用"></a>作用</h4><p>经降压后直接给用户供电。终端变电所全所停电后，将使用户中断电源。终端变电站是单独建造的终端变电所，是用电单位或者用户前端的第一个变电站，终端变电站出来的电直接供给用户用电设备使用，而不需再次经过变电站变压。</p>
-<h4 id="所处位置-3"><a href="#所处位置-3" class="headerlink" title="所处位置"></a>所处位置</h4><p>处于输电线路的终端，接近负荷点。</p>
-<h4 id="常用电压等级-3"><a href="#常用电压等级-3" class="headerlink" title="常用电压等级"></a>常用电压等级</h4><p>高压侧一般为 35~110 kV，10kV/0.4kV的变压器并不算终端变电站，其属于配电变压器。</p>
-<hr>
-<h2 id="工厂企业内部的车间变电所"><a href="#工厂企业内部的车间变电所" class="headerlink" title="工厂企业内部的车间变电所"></a>工厂企业内部的车间变电所</h2><h4 id="配图-1"><a href="#配图-1" class="headerlink" title="配图"></a>配图</h4><p><img src="/2021/04/05/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%8F%98%E7%94%B5%E6%89%80/p2.png" alt="p2"></p>
-<h4 id="露天变电所"><a href="#露天变电所" class="headerlink" title="露天变电所"></a>露天变电所</h4><p>变压器位于露天地面之上的变电所</p>
-<h4 id="半露天变电所"><a href="#半露天变电所" class="headerlink" title="半露天变电所"></a>半露天变电所</h4><p>变压器位于露天地面之上的变电所，但变压器上方有顶板或挑檐</p>
-<h4 id="附设变电所"><a href="#附设变电所" class="headerlink" title="附设变电所"></a>附设变电所</h4><p>变电所的一面或数面墙与建筑物的墙共用，且变压器室的门和通风窗向建筑物外开</p>
-<h4 id="车间内变电所"><a href="#车间内变电所" class="headerlink" title="车间内变电所"></a>车间内变电所</h4><p>位于车间内部的变电所，且变压器室的门向车间内开</p>
-<h4 id="独立变电所"><a href="#独立变电所" class="headerlink" title="独立变电所"></a>独立变电所</h4><p>为一独立建筑物</p>
-<h4 id="室内变电所"><a href="#室内变电所" class="headerlink" title="室内变电所"></a>室内变电所</h4><p>附设变电所，独立变电所和车间内变电所的总称</p>
-<h2 id="按照用途分"><a href="#按照用途分" class="headerlink" title="按照用途分"></a>按照用途分</h2><ol>
-<li>升压变电所</li>
-<li>降压变电所</li>
-</ol>
-<hr>
-<h2 id="按照控制操作方式分"><a href="#按照控制操作方式分" class="headerlink" title="按照控制操作方式分"></a>按照控制操作方式分</h2><ol>
-<li>有人值班变电所</li>
-<li>无人值班变电所</li>
-</ol>
-<hr>
-<h2 id="按照结构形式分"><a href="#按照结构形式分" class="headerlink" title="按照结构形式分"></a>按照结构形式分</h2><ol>
-<li><p>室外变电所</p>
-</li>
-<li><p>室内变电所</p>
-</li>
-<li><p>箱式变电所</p>
-<hr>
-</li>
-</ol>
-<h2 id="按照地理条件分"><a href="#按照地理条件分" class="headerlink" title="按照地理条件分"></a>按照地理条件分</h2><ol>
-<li>地上变电所</li>
-<li>地下变电所</li>
-</ol>
-]]></content>
-      <categories>
-        <category>专业课</category>
-      </categories>
-      <tags>
-        <tag>电力工程基础</tag>
       </tags>
   </entry>
 </search>
