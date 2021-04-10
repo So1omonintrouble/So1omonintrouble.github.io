@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>About</title>
+    <url>/2021/01/13/index/</url>
+    <content><![CDATA[<h2 id="作者介绍"><a class="header-anchor" href="#作者介绍">¶</a>作者介绍</h2>
+<p>学生，现就读于兰州交通大学电气工程及其自动化专业本科，对计算机的学习有着浓厚的兴趣。</p>
+<h2 id="创建目的"><a class="header-anchor" href="#创建目的">¶</a>创建目的</h2>
+<ol>
+<li><strong>为更深刻的学习</strong><br>
+笔者认为学习知识不能使单方面的由老师教授，学生接受，而是应有学生在接受过老师的讲授之后，再由自己亲身地去输出传达的知识，以使自己对知识本身有着更深刻的了解（即相当于学生本身也成为了老师）</li>
+<li><strong>为个人的坚持</strong><br>
+笔者虽对电脑学习有着比较高昂的兴趣，类似于爬虫，机器学习，python，matlab算法等等，网上学习的复杂性使得笔者很难搞清楚自己究竟想要哪一个方面的学习，而dota2，csgo的“学习”又让笔者耗费了大量的时间，故想尝试通过自己输出知识来强迫自己坚持学习</li>
+<li><strong>为知识的共享</strong><br>
+就拿专业课知识来讲，现在的，近一学期的专业课知识，对笔者来讲，有太多的知识点在baidu，在Google是找不到的，多数情况下出现问题，只能通过问老师，问学长学姐，论坛等待回答等这些比较不容易快速得到答案的方式来解决问题，而如果我们建立自己专业课的常见或日常问题在各个搜索引擎上的索引，是不是就可以更方便的帮助到他人，帮助当自己呢？</li>
+</ol>
+<h2 id="对未来的期望"><a class="header-anchor" href="#对未来的期望">¶</a>对未来的期望</h2>
+<p>目前的网页只是暂时的，希望过不了多久，我的网页也可以像网上那些大牛一样，先把头像做出来，评论，对话框，背景，动态什么的一一都有，那样的话，也就差不多成型了。</p>
+]]></content>
+  </entry>
+  <entry>
     <title></title>
     <url>/2021/04/09/schedule/</url>
     <content><![CDATA[<h1>头脑风暴</h1>
@@ -42,26 +60,9 @@
 <h2 id="2021-4-10进度"><a class="header-anchor" href="#2021-4-10进度">¶</a>2021.4.10进度</h2>
 <ol>
 <li>完成英语单词</li>
-<li>python爬虫</li>
+<li>python爬虫完成从网站获取数据到提取有用数据过程，接下来开始导出到excel表及数据库以便进行数据分析</li>
+<li>rainy day</li>
 </ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>About</title>
-    <url>/2021/01/13/index/</url>
-    <content><![CDATA[<h2 id="作者介绍"><a class="header-anchor" href="#作者介绍">¶</a>作者介绍</h2>
-<p>学生，现就读于兰州交通大学电气工程及其自动化专业本科，对计算机的学习有着浓厚的兴趣。</p>
-<h2 id="创建目的"><a class="header-anchor" href="#创建目的">¶</a>创建目的</h2>
-<ol>
-<li><strong>为更深刻的学习</strong><br>
-笔者认为学习知识不能使单方面的由老师教授，学生接受，而是应有学生在接受过老师的讲授之后，再由自己亲身地去输出传达的知识，以使自己对知识本身有着更深刻的了解（即相当于学生本身也成为了老师）</li>
-<li><strong>为个人的坚持</strong><br>
-笔者虽对电脑学习有着比较高昂的兴趣，类似于爬虫，机器学习，python，matlab算法等等，网上学习的复杂性使得笔者很难搞清楚自己究竟想要哪一个方面的学习，而dota2，csgo的“学习”又让笔者耗费了大量的时间，故想尝试通过自己输出知识来强迫自己坚持学习</li>
-<li><strong>为知识的共享</strong><br>
-就拿专业课知识来讲，现在的，近一学期的专业课知识，对笔者来讲，有太多的知识点在baidu，在Google是找不到的，多数情况下出现问题，只能通过问老师，问学长学姐，论坛等待回答等这些比较不容易快速得到答案的方式来解决问题，而如果我们建立自己专业课的常见或日常问题在各个搜索引擎上的索引，是不是就可以更方便的帮助到他人，帮助当自己呢？</li>
-</ol>
-<h2 id="对未来的期望"><a class="header-anchor" href="#对未来的期望">¶</a>对未来的期望</h2>
-<p>目前的网页只是暂时的，希望过不了多久，我的网页也可以像网上那些大牛一样，先把头像做出来，评论，对话框，背景，动态什么的一一都有，那样的话，也就差不多成型了。</p>
 ]]></content>
   </entry>
   <entry>
@@ -199,58 +200,6 @@
       </tags>
   </entry>
   <entry>
-    <title>第一天复习python</title>
-    <url>/2021/01/16/%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%A4%8D%E4%B9%A0python/</url>
-    <content><![CDATA[<h3 id="重新下载pycharm"><a class="header-anchor" href="#重新下载pycharm">¶</a>重新下载pycharm</h3>
-<p>对pycharm进行一些设置</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># -*- coding =utf-8 -*-</span></span><br><span class="line"><span class="comment"># @time : 2021/1/16 1:51</span></span><br><span class="line"><span class="comment"># @Author : Rov</span></span><br><span class="line"><span class="comment"># @File : co1.py</span></span><br><span class="line"><span class="comment"># @Software : PyCharm</span></span><br></pre></td></tr></table></figure>
-<h3 id="简单输出"><a class="header-anchor" href="#简单输出">¶</a>简单输出</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;hello world!&quot;</span>)</span><br><span class="line">a = <span class="number">10</span></span><br><span class="line">print(<span class="string">&quot;这是一个变量&quot;</span>,a)</span><br></pre></td></tr></table></figure>
-<h3 id="关键字"><a class="header-anchor" href="#关键字">¶</a>关键字</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">keyword.kwlist</span><br><span class="line">[<span class="string">&#x27;False&#x27;</span>, <span class="string">&#x27;None&#x27;</span>, <span class="string">&#x27;True&#x27;</span>, <span class="string">&#x27;__peg_parser__&#x27;</span>, <span class="string">&#x27;and&#x27;</span>, <span class="string">&#x27;as&#x27;</span>, <span class="string">&#x27;assert&#x27;</span>, <span class="string">&#x27;async&#x27;</span>, <span class="string">&#x27;await&#x27;</span>, <span class="string">&#x27;break&#x27;</span>, <span class="string">&#x27;class&#x27;</span>, <span class="string">&#x27;continue&#x27;</span>, <span class="string">&#x27;def&#x27;</span>, <span class="string">&#x27;del&#x27;</span>, <span class="string">&#x27;elif&#x27;</span>, <span class="string">&#x27;else&#x27;</span>, <span class="string">&#x27;except&#x27;</span>, <span class="string">&#x27;finally&#x27;</span>, <span class="string">&#x27;for&#x27;</span>, <span class="string">&#x27;from&#x27;</span>, <span class="string">&#x27;global&#x27;</span>, <span class="string">&#x27;if&#x27;</span>, <span class="string">&#x27;import&#x27;</span>, <span class="string">&#x27;in&#x27;</span>, <span class="string">&#x27;is&#x27;</span>, <span class="string">&#x27;lambda&#x27;</span>, <span class="string">&#x27;nonlocal&#x27;</span>, <span class="string">&#x27;not&#x27;</span>, <span class="string">&#x27;or&#x27;</span>, <span class="string">&#x27;pass&#x27;</span>, <span class="string">&#x27;raise&#x27;</span>, <span class="string">&#x27;return&#x27;</span>, <span class="string">&#x27;try&#x27;</span>, <span class="string">&#x27;while&#x27;</span>, <span class="string">&#x27;with&#x27;</span>, <span class="string">&#x27;yield&#x27;</span>]</span><br></pre></td></tr></table></figure>
-<h3 id="输出传值"><a class="header-anchor" href="#输出传值">¶</a>输出传值</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">age = <span class="number">18</span></span><br><span class="line">print(<span class="string">&quot;我的年纪是:%d岁&quot;</span>%age)</span><br></pre></td></tr></table></figure>
-<p>%d %s很关键（s是字符串）</p>
-<h3 id="格式化输出"><a class="header-anchor" href="#格式化输出">¶</a>格式化输出</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;我的名字是%s,我的国籍是%s&quot;</span>%(<span class="string">&quot;小张&quot;</span>,<span class="string">&quot;中国&quot;</span>))</span><br></pre></td></tr></table></figure>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;www&quot;</span>,<span class="string">&quot;baidu&quot;</span>,<span class="string">&quot;com&quot;</span>,sep=<span class="string">&quot;.&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;hello&quot;</span>,end=<span class="string">&quot;&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;world&quot;</span>,end=<span class="string">&quot;\t&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;python&quot;</span>,end=<span class="string">&quot;\n&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;end&quot;</span>)</span><br></pre></td></tr></table></figure>
-<h3 id="输入"><a class="header-anchor" href="#输入">¶</a>输入</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a=<span class="built_in">input</span>(<span class="string">&quot;输入：&quot;</span>)</span><br><span class="line">print(<span class="built_in">type</span>(a))</span><br></pre></td></tr></table></figure>
-<p>无论是什么都是字符串</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">&lt;<span class="class"><span class="keyword">class</span> &#x27;<span class="title">str</span>&#x27;&gt;</span></span><br></pre></td></tr></table></figure>
-<h3 id="转化"><a class="header-anchor" href="#转化">¶</a>转化</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a=<span class="built_in">int</span>(<span class="string">&quot;123&quot;</span>)</span><br><span class="line">b=a+<span class="number">100</span></span><br><span class="line">print(b)</span><br></pre></td></tr></table></figure>
-<h3 id="运算符"><a class="header-anchor" href="#运算符">¶</a>运算符</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">+ - * / %</span><br><span class="line">== %等于</span><br><span class="line">!= %不等</span><br></pre></td></tr></table></figure>
-<h3 id="逻辑运算符"><a class="header-anchor" href="#逻辑运算符">¶</a>逻辑运算符</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">and</span> <span class="keyword">or</span> <span class="keyword">not</span> </span><br><span class="line"><span class="keyword">in</span> /<span class="keyword">not</span> <span class="keyword">in</span> </span><br></pre></td></tr></table></figure>
-<h3 id="判断语句"><a class="header-anchor" href="#判断语句">¶</a>判断语句</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> 判断条件<span class="number">1</span> :</span><br><span class="line">	执行语句<span class="number">1</span></span><br><span class="line"><span class="keyword">elif</span> 判断语句<span class="number">2</span> :</span><br><span class="line">	执行语句<span class="number">2</span></span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">	执行语句<span class="number">3</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>
-<p><em><strong>后面的冒号很关键!!!</strong></em></p>
-<blockquote>
-<p>ezpz</p>
-</blockquote>
-<h3 id="随机数"><a class="header-anchor" href="#随机数">¶</a>随机数</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> random</span><br><span class="line"></span><br><span class="line">x= random.randint(<span class="number">0</span>,<span class="number">2</span>)</span><br><span class="line">print(x)</span><br><span class="line">print(random.uniform(<span class="number">0</span>,<span class="number">2</span>))</span><br></pre></td></tr></table></figure>
-<p>randint：整数</p>
-<p>uniform：小数</p>
-<h3 id="循环语句"><a class="header-anchor" href="#循环语句">¶</a>循环语句</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">5</span>):</span><br><span class="line">	print(i)</span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">0</span>,<span class="number">10</span>,<span class="number">3</span>):</span><br><span class="line">	print(i)</span><br></pre></td></tr></table></figure>
-<p>如果是</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(a,b)</span><br><span class="line">	print(i)</span><br></pre></td></tr></table></figure>
-<p>则其范围为a~b-1</p>
-<p><strong>对于字符串</strong></p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">name =<span class="string">&quot;be nice&quot;</span></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> name:</span><br><span class="line">    print(i,end=<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
-<p><strong>while</strong></p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">while</span> i&lt;<span class="number">5</span>:</span><br><span class="line">    print(<span class="string">&quot;nice play!&quot;</span>)</span><br><span class="line">    print(<span class="string">&quot;i=%d&quot;</span>%i)</span><br><span class="line">    i+=<span class="number">1</span></span><br><span class="line">print(<span class="string">&quot;pass&quot;</span>)</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>爬虫</category>
-      </categories>
-      <tags>
-        <tag>python</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>第二天复习python</title>
     <url>/2021/01/17/%E7%AC%AC%E4%BA%8C%E5%A4%A9%E5%A4%8D%E4%B9%A0python/</url>
     <content><![CDATA[<h2 id="字符串"><a class="header-anchor" href="#字符串">¶</a>字符串</h2>
@@ -318,6 +267,58 @@ $$</p>
 <p>否则会出现TypeError: not all arguments converted during string formatting的低级问题</p>
 </blockquote>
 ]]></content>
+      <categories>
+        <category>爬虫</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第一天复习python</title>
+    <url>/2021/01/16/%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%A4%8D%E4%B9%A0python/</url>
+    <content><![CDATA[<h3 id="重新下载pycharm"><a class="header-anchor" href="#重新下载pycharm">¶</a>重新下载pycharm</h3>
+<p>对pycharm进行一些设置</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># -*- coding =utf-8 -*-</span></span><br><span class="line"><span class="comment"># @time : 2021/1/16 1:51</span></span><br><span class="line"><span class="comment"># @Author : Rov</span></span><br><span class="line"><span class="comment"># @File : co1.py</span></span><br><span class="line"><span class="comment"># @Software : PyCharm</span></span><br></pre></td></tr></table></figure>
+<h3 id="简单输出"><a class="header-anchor" href="#简单输出">¶</a>简单输出</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;hello world!&quot;</span>)</span><br><span class="line">a = <span class="number">10</span></span><br><span class="line">print(<span class="string">&quot;这是一个变量&quot;</span>,a)</span><br></pre></td></tr></table></figure>
+<h3 id="关键字"><a class="header-anchor" href="#关键字">¶</a>关键字</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">keyword.kwlist</span><br><span class="line">[<span class="string">&#x27;False&#x27;</span>, <span class="string">&#x27;None&#x27;</span>, <span class="string">&#x27;True&#x27;</span>, <span class="string">&#x27;__peg_parser__&#x27;</span>, <span class="string">&#x27;and&#x27;</span>, <span class="string">&#x27;as&#x27;</span>, <span class="string">&#x27;assert&#x27;</span>, <span class="string">&#x27;async&#x27;</span>, <span class="string">&#x27;await&#x27;</span>, <span class="string">&#x27;break&#x27;</span>, <span class="string">&#x27;class&#x27;</span>, <span class="string">&#x27;continue&#x27;</span>, <span class="string">&#x27;def&#x27;</span>, <span class="string">&#x27;del&#x27;</span>, <span class="string">&#x27;elif&#x27;</span>, <span class="string">&#x27;else&#x27;</span>, <span class="string">&#x27;except&#x27;</span>, <span class="string">&#x27;finally&#x27;</span>, <span class="string">&#x27;for&#x27;</span>, <span class="string">&#x27;from&#x27;</span>, <span class="string">&#x27;global&#x27;</span>, <span class="string">&#x27;if&#x27;</span>, <span class="string">&#x27;import&#x27;</span>, <span class="string">&#x27;in&#x27;</span>, <span class="string">&#x27;is&#x27;</span>, <span class="string">&#x27;lambda&#x27;</span>, <span class="string">&#x27;nonlocal&#x27;</span>, <span class="string">&#x27;not&#x27;</span>, <span class="string">&#x27;or&#x27;</span>, <span class="string">&#x27;pass&#x27;</span>, <span class="string">&#x27;raise&#x27;</span>, <span class="string">&#x27;return&#x27;</span>, <span class="string">&#x27;try&#x27;</span>, <span class="string">&#x27;while&#x27;</span>, <span class="string">&#x27;with&#x27;</span>, <span class="string">&#x27;yield&#x27;</span>]</span><br></pre></td></tr></table></figure>
+<h3 id="输出传值"><a class="header-anchor" href="#输出传值">¶</a>输出传值</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">age = <span class="number">18</span></span><br><span class="line">print(<span class="string">&quot;我的年纪是:%d岁&quot;</span>%age)</span><br></pre></td></tr></table></figure>
+<p>%d %s很关键（s是字符串）</p>
+<h3 id="格式化输出"><a class="header-anchor" href="#格式化输出">¶</a>格式化输出</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;我的名字是%s,我的国籍是%s&quot;</span>%(<span class="string">&quot;小张&quot;</span>,<span class="string">&quot;中国&quot;</span>))</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;www&quot;</span>,<span class="string">&quot;baidu&quot;</span>,<span class="string">&quot;com&quot;</span>,sep=<span class="string">&quot;.&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;hello&quot;</span>,end=<span class="string">&quot;&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;world&quot;</span>,end=<span class="string">&quot;\t&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;python&quot;</span>,end=<span class="string">&quot;\n&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;end&quot;</span>)</span><br></pre></td></tr></table></figure>
+<h3 id="输入"><a class="header-anchor" href="#输入">¶</a>输入</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a=<span class="built_in">input</span>(<span class="string">&quot;输入：&quot;</span>)</span><br><span class="line">print(<span class="built_in">type</span>(a))</span><br></pre></td></tr></table></figure>
+<p>无论是什么都是字符串</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">&lt;<span class="class"><span class="keyword">class</span> &#x27;<span class="title">str</span>&#x27;&gt;</span></span><br></pre></td></tr></table></figure>
+<h3 id="转化"><a class="header-anchor" href="#转化">¶</a>转化</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a=<span class="built_in">int</span>(<span class="string">&quot;123&quot;</span>)</span><br><span class="line">b=a+<span class="number">100</span></span><br><span class="line">print(b)</span><br></pre></td></tr></table></figure>
+<h3 id="运算符"><a class="header-anchor" href="#运算符">¶</a>运算符</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">+ - * / %</span><br><span class="line">== %等于</span><br><span class="line">!= %不等</span><br></pre></td></tr></table></figure>
+<h3 id="逻辑运算符"><a class="header-anchor" href="#逻辑运算符">¶</a>逻辑运算符</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">and</span> <span class="keyword">or</span> <span class="keyword">not</span> </span><br><span class="line"><span class="keyword">in</span> /<span class="keyword">not</span> <span class="keyword">in</span> </span><br></pre></td></tr></table></figure>
+<h3 id="判断语句"><a class="header-anchor" href="#判断语句">¶</a>判断语句</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> 判断条件<span class="number">1</span> :</span><br><span class="line">	执行语句<span class="number">1</span></span><br><span class="line"><span class="keyword">elif</span> 判断语句<span class="number">2</span> :</span><br><span class="line">	执行语句<span class="number">2</span></span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">	执行语句<span class="number">3</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p><em><strong>后面的冒号很关键!!!</strong></em></p>
+<blockquote>
+<p>ezpz</p>
+</blockquote>
+<h3 id="随机数"><a class="header-anchor" href="#随机数">¶</a>随机数</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> random</span><br><span class="line"></span><br><span class="line">x= random.randint(<span class="number">0</span>,<span class="number">2</span>)</span><br><span class="line">print(x)</span><br><span class="line">print(random.uniform(<span class="number">0</span>,<span class="number">2</span>))</span><br></pre></td></tr></table></figure>
+<p>randint：整数</p>
+<p>uniform：小数</p>
+<h3 id="循环语句"><a class="header-anchor" href="#循环语句">¶</a>循环语句</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">5</span>):</span><br><span class="line">	print(i)</span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">0</span>,<span class="number">10</span>,<span class="number">3</span>):</span><br><span class="line">	print(i)</span><br></pre></td></tr></table></figure>
+<p>如果是</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(a,b)</span><br><span class="line">	print(i)</span><br></pre></td></tr></table></figure>
+<p>则其范围为a~b-1</p>
+<p><strong>对于字符串</strong></p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">name =<span class="string">&quot;be nice&quot;</span></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> name:</span><br><span class="line">    print(i,end=<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
+<p><strong>while</strong></p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">while</span> i&lt;<span class="number">5</span>:</span><br><span class="line">    print(<span class="string">&quot;nice play!&quot;</span>)</span><br><span class="line">    print(<span class="string">&quot;i=%d&quot;</span>%i)</span><br><span class="line">    i+=<span class="number">1</span></span><br><span class="line">print(<span class="string">&quot;pass&quot;</span>)</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>爬虫</category>
       </categories>
