@@ -1,83 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>About</title>
-    <url>/2021/01/13/index/</url>
-    <content><![CDATA[<h2 id="作者介绍"><a class="header-anchor" href="#作者介绍">¶</a>作者介绍</h2>
-<p>学生，现就读于兰州交通大学电气工程及其自动化专业本科，对计算机的学习有着浓厚的兴趣。</p>
-<h2 id="创建目的"><a class="header-anchor" href="#创建目的">¶</a>创建目的</h2>
-<ol>
-<li><strong>为更深刻的学习</strong><br>
-笔者认为学习知识不能使单方面的由老师教授，学生接受，而是应有学生在接受过老师的讲授之后，再由自己亲身地去输出传达的知识，以使自己对知识本身有着更深刻的了解（即相当于学生本身也成为了老师）</li>
-<li><strong>为个人的坚持</strong><br>
-笔者虽对电脑学习有着比较高昂的兴趣，类似于爬虫，机器学习，python，matlab算法等等，网上学习的复杂性使得笔者很难搞清楚自己究竟想要哪一个方面的学习，而dota2，csgo的“学习”又让笔者耗费了大量的时间，故想尝试通过自己输出知识来强迫自己坚持学习</li>
-<li><strong>为知识的共享</strong><br>
-就拿专业课知识来讲，现在的，近一学期的专业课知识，对笔者来讲，有太多的知识点在baidu，在Google是找不到的，多数情况下出现问题，只能通过问老师，问学长学姐，论坛等待回答等这些比较不容易快速得到答案的方式来解决问题，而如果我们建立自己专业课的常见或日常问题在各个搜索引擎上的索引，是不是就可以更方便的帮助到他人，帮助当自己呢？</li>
-</ol>
-<h2 id="对未来的期望"><a class="header-anchor" href="#对未来的期望">¶</a>对未来的期望</h2>
-<p>目前的网页只是暂时的，希望过不了多久，我的网页也可以像网上那些大牛一样，先把头像做出来，评论，对话框，背景，动态什么的一一都有，那样的话，也就差不多成型了。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>实时更新记录</title>
-    <url>/2021/04/13/schedule/</url>
-    <content><![CDATA[<h1>头脑风暴</h1>
-<h2 id="想完成什么"><a class="header-anchor" href="#想完成什么">¶</a>想完成什么</h2>
-<ol>
-<li>美剧无障碍观影，先从有英文字幕开始</li>
-<li>专业课学习超出考试</li>
-<li>锻炼跑步</li>
-</ol>
-<h2 id="感兴趣的东西"><a class="header-anchor" href="#感兴趣的东西">¶</a>感兴趣的东西</h2>
-<ol>
-<li>&lt;教父&gt;</li>
-<li>python爬虫-最感兴趣的！！！</li>
-<li>专业课（怎么说呢，其实不是很感兴趣，但可以先从试题入手）</li>
-</ol>
-<h2 id="怎么做"><a class="header-anchor" href="#怎么做">¶</a>怎么做</h2>
-<ol>
-<li>早上在图书馆那边找教室（4教）有课就走，及时止损</li>
-<li>早上英语单词，有课就晚上学（8：00-12：00）</li>
-<li>中午专业课（2：30-6：00）不回宿舍，在朝阳吃</li>
-<li>晚上python爬虫（7：30-9：30）跑步（9：50-10：30）</li>
-</ol>
-<h2 id="2021-4-8进度"><a class="header-anchor" href="#2021-4-8进度">¶</a>2021.4.8进度</h2>
-<ol>
-<li>python爬虫p18 中间</li>
-<li>开始远动学习</li>
-<li>完成英语单词</li>
-</ol>
-<h2 id="2021-4-9进度"><a class="header-anchor" href="#2021-4-9进度">¶</a>2021.4.9进度</h2>
-<ol>
-<li>完成英语单词</li>
-<li>完成英语口语背诵</li>
-<li>看了一会&lt;教父&gt;，但觉得其他比较短的剧更适合，比如&lt;摩登家庭&gt;</li>
-<li>还没开始电力工程基础学习</li>
-<li>plc作业完成</li>
-<li>python爬虫p22中间</li>
-<li>完成跑步</li>
-</ol>
-<h2 id="2021-4-10进度"><a class="header-anchor" href="#2021-4-10进度">¶</a>2021.4.10进度</h2>
-<ol>
-<li>完成英语单词</li>
-<li>python爬虫完成从网站获取数据到提取有用数据过程，接下来开始导出到excel表及数据库以便进行数据分析p25</li>
-<li>rainy day</li>
-</ol>
-<h2 id="2021-4-11进度"><a class="header-anchor" href="#2021-4-11进度">¶</a>2021.4.11进度</h2>
-<ol>
-<li>完成英语单词</li>
-<li>python爬虫在excel中实现p27，在数据库中遇到障碍，接着先往下看Flask</li>
-<li>reported rainy but not</li>
-</ol>
-<h2 id="2021-4-12进度"><a class="header-anchor" href="#2021-4-12进度">¶</a>2021.4.12进度</h2>
-<ol>
-<li>完成英语单词</li>
-<li>听一TED演讲两遍</li>
-<li>python爬虫p31，简单搭建网页</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>专业英语unit8翻译(部分)</title>
     <url>/2021/04/13/translate_unit8/</url>
     <content><![CDATA[<h1>Railway Electric Power Feeding Systems（尚未完整）</h1>
@@ -201,6 +124,65 @@ feeding systems.</p>
       </tags>
   </entry>
   <entry>
+    <title>实时更新记录</title>
+    <url>/2021/04/13/schedule/</url>
+    <content><![CDATA[<h1>头脑风暴</h1>
+<h2 id="想完成什么"><a class="header-anchor" href="#想完成什么">¶</a>想完成什么</h2>
+<ol>
+<li>美剧无障碍观影，先从有英文字幕开始</li>
+<li>专业课学习超出考试</li>
+<li>锻炼跑步</li>
+</ol>
+<h2 id="感兴趣的东西"><a class="header-anchor" href="#感兴趣的东西">¶</a>感兴趣的东西</h2>
+<ol>
+<li>&lt;教父&gt;</li>
+<li>python爬虫-最感兴趣的！！！</li>
+<li>专业课（怎么说呢，其实不是很感兴趣，但可以先从试题入手）</li>
+</ol>
+<h2 id="怎么做"><a class="header-anchor" href="#怎么做">¶</a>怎么做</h2>
+<ol>
+<li>早上在图书馆那边找教室（4教）有课就走，及时止损</li>
+<li>早上英语单词，有课就晚上学（8：00-12：00）</li>
+<li>中午专业课（2：30-6：00）不回宿舍，在朝阳吃</li>
+<li>晚上python爬虫（7：30-9：30）跑步（9：50-10：30）</li>
+</ol>
+<h2 id="2021-4-8进度"><a class="header-anchor" href="#2021-4-8进度">¶</a>2021.4.8进度</h2>
+<ol>
+<li>python爬虫p18 中间</li>
+<li>开始远动学习</li>
+<li>完成英语单词</li>
+</ol>
+<h2 id="2021-4-9进度"><a class="header-anchor" href="#2021-4-9进度">¶</a>2021.4.9进度</h2>
+<ol>
+<li>完成英语单词</li>
+<li>完成英语口语背诵</li>
+<li>看了一会&lt;教父&gt;，但觉得其他比较短的剧更适合，比如&lt;摩登家庭&gt;</li>
+<li>还没开始电力工程基础学习</li>
+<li>plc作业完成</li>
+<li>python爬虫p22中间</li>
+<li>完成跑步</li>
+</ol>
+<h2 id="2021-4-10进度"><a class="header-anchor" href="#2021-4-10进度">¶</a>2021.4.10进度</h2>
+<ol>
+<li>完成英语单词</li>
+<li>python爬虫完成从网站获取数据到提取有用数据过程，接下来开始导出到excel表及数据库以便进行数据分析p25</li>
+<li>rainy day</li>
+</ol>
+<h2 id="2021-4-11进度"><a class="header-anchor" href="#2021-4-11进度">¶</a>2021.4.11进度</h2>
+<ol>
+<li>完成英语单词</li>
+<li>python爬虫在excel中实现p27，在数据库中遇到障碍，接着先往下看Flask</li>
+<li>reported rainy but not</li>
+</ol>
+<h2 id="2021-4-12进度"><a class="header-anchor" href="#2021-4-12进度">¶</a>2021.4.12进度</h2>
+<ol>
+<li>完成英语单词</li>
+<li>听一TED演讲两遍</li>
+<li>python爬虫p31，简单搭建网页</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>日常在ios/ipados上播放本地音乐(脱离在线播放器)</title>
     <url>/2021/01/30/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8/</url>
     <content><![CDATA[<h1>前言</h1>
@@ -241,6 +223,24 @@ feeding systems.</p>
       <tags>
         <tag>music</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>About</title>
+    <url>/2021/01/13/index/</url>
+    <content><![CDATA[<h2 id="作者介绍"><a class="header-anchor" href="#作者介绍">¶</a>作者介绍</h2>
+<p>学生，现就读于兰州交通大学电气工程及其自动化专业本科，对计算机的学习有着浓厚的兴趣。</p>
+<h2 id="创建目的"><a class="header-anchor" href="#创建目的">¶</a>创建目的</h2>
+<ol>
+<li><strong>为更深刻的学习</strong><br>
+笔者认为学习知识不能使单方面的由老师教授，学生接受，而是应有学生在接受过老师的讲授之后，再由自己亲身地去输出传达的知识，以使自己对知识本身有着更深刻的了解（即相当于学生本身也成为了老师）</li>
+<li><strong>为个人的坚持</strong><br>
+笔者虽对电脑学习有着比较高昂的兴趣，类似于爬虫，机器学习，python，matlab算法等等，网上学习的复杂性使得笔者很难搞清楚自己究竟想要哪一个方面的学习，而dota2，csgo的“学习”又让笔者耗费了大量的时间，故想尝试通过自己输出知识来强迫自己坚持学习</li>
+<li><strong>为知识的共享</strong><br>
+就拿专业课知识来讲，现在的，近一学期的专业课知识，对笔者来讲，有太多的知识点在baidu，在Google是找不到的，多数情况下出现问题，只能通过问老师，问学长学姐，论坛等待回答等这些比较不容易快速得到答案的方式来解决问题，而如果我们建立自己专业课的常见或日常问题在各个搜索引擎上的索引，是不是就可以更方便的帮助到他人，帮助当自己呢？</li>
+</ol>
+<h2 id="对未来的期望"><a class="header-anchor" href="#对未来的期望">¶</a>对未来的期望</h2>
+<p>目前的网页只是暂时的，希望过不了多久，我的网页也可以像网上那些大牛一样，先把头像做出来，评论，对话框，背景，动态什么的一一都有，那样的话，也就差不多成型了。</p>
+]]></content>
   </entry>
   <entry>
     <title>电力系统变电站</title>
