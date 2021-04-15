@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>About</title>
-    <url>/2021/01/13/index/</url>
-    <content><![CDATA[<h2 id="作者介绍"><a class="header-anchor" href="#作者介绍">¶</a>作者介绍</h2>
-<p>学生，现就读于兰州交通大学电气工程及其自动化专业本科，对计算机的学习有着浓厚的兴趣。</p>
-<h2 id="创建目的"><a class="header-anchor" href="#创建目的">¶</a>创建目的</h2>
-<ol>
-<li><strong>为更深刻的学习</strong><br>
-笔者认为学习知识不能使单方面的由老师教授，学生接受，而是应有学生在接受过老师的讲授之后，再由自己亲身地去输出传达的知识，以使自己对知识本身有着更深刻的了解（即相当于学生本身也成为了老师）</li>
-<li><strong>为个人的坚持</strong><br>
-笔者虽对电脑学习有着比较高昂的兴趣，类似于爬虫，机器学习，python，matlab算法等等，网上学习的复杂性使得笔者很难搞清楚自己究竟想要哪一个方面的学习，而dota2，csgo的“学习”又让笔者耗费了大量的时间，故想尝试通过自己输出知识来强迫自己坚持学习</li>
-<li><strong>为知识的共享</strong><br>
-就拿专业课知识来讲，现在的，近一学期的专业课知识，对笔者来讲，有太多的知识点在baidu，在Google是找不到的，多数情况下出现问题，只能通过问老师，问学长学姐，论坛等待回答等这些比较不容易快速得到答案的方式来解决问题，而如果我们建立自己专业课的常见或日常问题在各个搜索引擎上的索引，是不是就可以更方便的帮助到他人，帮助当自己呢？</li>
-</ol>
-<h2 id="对未来的期望"><a class="header-anchor" href="#对未来的期望">¶</a>对未来的期望</h2>
-<p>目前的网页只是暂时的，希望过不了多久，我的网页也可以像网上那些大牛一样，先把头像做出来，评论，对话框，背景，动态什么的一一都有，那样的话，也就差不多成型了。</p>
-]]></content>
-  </entry>
-  <entry>
     <title>实时更新记录</title>
     <url>/2021/04/14/schedule_/</url>
     <content><![CDATA[<h1>头脑风暴</h1>
@@ -230,6 +212,24 @@ feeding systems.</p>
       </tags>
   </entry>
   <entry>
+    <title>About</title>
+    <url>/2021/01/13/index/</url>
+    <content><![CDATA[<h2 id="作者介绍"><a class="header-anchor" href="#作者介绍">¶</a>作者介绍</h2>
+<p>学生，现就读于兰州交通大学电气工程及其自动化专业本科，对计算机的学习有着浓厚的兴趣。</p>
+<h2 id="创建目的"><a class="header-anchor" href="#创建目的">¶</a>创建目的</h2>
+<ol>
+<li><strong>为更深刻的学习</strong><br>
+笔者认为学习知识不能使单方面的由老师教授，学生接受，而是应有学生在接受过老师的讲授之后，再由自己亲身地去输出传达的知识，以使自己对知识本身有着更深刻的了解（即相当于学生本身也成为了老师）</li>
+<li><strong>为个人的坚持</strong><br>
+笔者虽对电脑学习有着比较高昂的兴趣，类似于爬虫，机器学习，python，matlab算法等等，网上学习的复杂性使得笔者很难搞清楚自己究竟想要哪一个方面的学习，而dota2，csgo的“学习”又让笔者耗费了大量的时间，故想尝试通过自己输出知识来强迫自己坚持学习</li>
+<li><strong>为知识的共享</strong><br>
+就拿专业课知识来讲，现在的，近一学期的专业课知识，对笔者来讲，有太多的知识点在baidu，在Google是找不到的，多数情况下出现问题，只能通过问老师，问学长学姐，论坛等待回答等这些比较不容易快速得到答案的方式来解决问题，而如果我们建立自己专业课的常见或日常问题在各个搜索引擎上的索引，是不是就可以更方便的帮助到他人，帮助当自己呢？</li>
+</ol>
+<h2 id="对未来的期望"><a class="header-anchor" href="#对未来的期望">¶</a>对未来的期望</h2>
+<p>目前的网页只是暂时的，希望过不了多久，我的网页也可以像网上那些大牛一样，先把头像做出来，评论，对话框，背景，动态什么的一一都有，那样的话，也就差不多成型了。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>日常在ios/ipados上播放本地音乐(脱离在线播放器)</title>
     <url>/2021/01/30/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8/</url>
     <content><![CDATA[<h1>前言</h1>
@@ -256,11 +256,11 @@ feeding systems.</p>
 <p>有三种上传方式分别是使用电脑iTunes文件共享，AirDrop隔空投送，以及我们接下来单推的Wi-Fi传输。</p>
 <ol>
 <li>在ever play 软体中进入设置Wi-Fi传输<br>
-<img src="/2021/01/30/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8%5Cp1.png" alt="p1"></li>
+<img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p1.1jnd4h68d0bk.png" alt="p1"></li>
 <li>在同一WiFi的前提下，使用windows浏览器输入以下地址<br>
-<img src="/2021/01/30/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8%5Cp2.png" alt="p2"></li>
+<img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p2.3s3dynv303c0.png" alt="p2"></li>
 <li>进入网页后<br>
-<img src="/2021/01/30/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8%5Cp3.png" alt="p3"></li>
+<img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p3.372owt8v7bs0.png" alt="p3"></li>
 <li>上传成功之后即可在ios/ipados端听歌了</li>
 </ol>
 ]]></content>
@@ -277,7 +277,7 @@ feeding systems.</p>
     <content><![CDATA[<h1>电力系统变电站分类</h1>
 <h2 id="按地位分"><a class="header-anchor" href="#按地位分">¶</a>按地位分</h2>
 <h4 id="配图"><a class="header-anchor" href="#配图">¶</a>配图</h4>
-<p><img src="/2021/04/05/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%8F%98%E7%94%B5%E6%89%80/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%8F%98%E7%94%B5%E6%89%80%5Cp1.jpeg" alt="p1"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p1.5cphsl4rhrc0.jpeg" alt="p1"></p>
 <h3 id="枢纽变电所"><a class="header-anchor" href="#枢纽变电所">¶</a>枢纽变电所</h3>
 <h4 id="作用"><a class="header-anchor" href="#作用">¶</a>作用</h4>
 <p>枢纽变电所电压等级高，供电范围广，在系统中处于举足轻重的地位，全所停电后，将引起系统解列，造成大区域停电，甚至造成电力系统瓦解，使社会的运行处于瘫痪状态。</p>
@@ -312,7 +312,7 @@ feeding systems.</p>
 <hr>
 <h2 id="工厂企业内部的车间变电所"><a class="header-anchor" href="#工厂企业内部的车间变电所">¶</a>工厂企业内部的车间变电所</h2>
 <h4 id="配图-v2"><a class="header-anchor" href="#配图-v2">¶</a>配图</h4>
-<p><img src="/2021/04/05/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%8F%98%E7%94%B5%E6%89%80/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%8F%98%E7%94%B5%E6%89%80%5Cp2.png" alt="p2"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p2.7hpint4z9cg.png" alt="p2"></p>
 <h4 id="露天变电所"><a class="header-anchor" href="#露天变电所">¶</a>露天变电所</h4>
 <p>变压器位于露天地面之上的变电所</p>
 <h4 id="半露天变电所"><a class="header-anchor" href="#半露天变电所">¶</a>半露天变电所</h4>
