@@ -1,6 +1,206 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>日常在ios/ipados上播放本地音乐(脱离在线播放器)</title>
+    <url>/2021/01/30/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8/</url>
+    <content><![CDATA[<h1>前言</h1>
+<p>音乐作为现代娱乐生活中的一个部分，在我看来相当重要，而音乐播放软体的选择则令人大费周折，笔者用过网易云，qq音乐，酷狗音乐，apple music， 还有spotify。也经历了从mp3听歌到后来的手机、平板听歌的转变，由于考虑到各方面的因素，首先是歌曲的版权，笔者发现以上播放器的版权无一可以满足笔者对自己喜欢歌曲的需求，尤其是梦想的声音综艺节目上的歌曲在网易云，apple music ，spotify 上均无，而在其他软体上又难以找到笔者已购的独立游戏soundtrack，其次在价格上，国内软体又普遍需要二次购买最新的数字专辑，同样价格也不菲，让本来就不富裕的家庭更是雪上加霜😭。</p>
+<p>故而，我选择了先在本地下载然后使用本地播放器的方式进行播放。</p>
+<h1>简述</h1>
+<p>下载通过酷我音乐破解版windows，上传和播放通过ios/ipados生态下的ever play，即可实现免费听任意歌曲。</p>
+<h1>详细内容</h1>
+<h2 id="音乐下载器"><a class="header-anchor" href="#音乐下载器">¶</a>音乐下载器</h2>
+<p>酷我音乐破解版windows下载地址：	链接：<a class="link" href="https://pan.baidu.com/s/1MXIpspEHOtW46rbIAeKnmA">https://pan.baidu.com/s/1MXIpspEHOtW46rbIAeKnmA<i class="fas fa-external-link-alt"></i></a><br>
+提取码：solo</p>
+<p>下载完之后安装打开搜索自己喜欢的音乐即可完全免费下载（无需登录）</p>
+<h2 id="音乐播放器"><a class="header-anchor" href="#音乐播放器">¶</a>音乐播放器</h2>
+<h3 id="下载"><a class="header-anchor" href="#下载">¶</a>下载</h3>
+<p>ever play下载地址（ios/ipados生态）：链接：<a class="link" href="https://apps.apple.com/cn/app/id1202642773">https://apps.apple.com/cn/app/id1202642773<i class="fas fa-external-link-alt"></i></a></p>
+<h3 id="介绍"><a class="header-anchor" href="#介绍">¶</a>介绍</h3>
+<p>ever play是一款免费使用的本地音乐播放软体，其包含付费功能总结就是</p>
+<ol>
+<li>可以播放高清音乐文件（目前还没有使用过该功能，下载的最高音质歌曲也是无法达到该水平的）</li>
+<li>音乐可视化（可以试用，个人感受一般）</li>
+<li>更改专辑封面图片（强迫症可能需要，就像我用过的网易云那样）</li>
+</ol>
+<h3 id="歌曲上传"><a class="header-anchor" href="#歌曲上传">¶</a>歌曲上传</h3>
+<p>有三种上传方式分别是使用电脑iTunes文件共享，AirDrop隔空投送，以及我们接下来单推的Wi-Fi传输。</p>
+<ol>
+<li>在ever play 软体中进入设置Wi-Fi传输<br>
+<img src="/2021/01/30/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8%5Cp1.png" alt="p1"></li>
+<li>在同一WiFi的前提下，使用windows浏览器输入以下地址<br>
+<img src="/2021/01/30/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8%5Cp2.png" alt="p2"></li>
+<li>进入网页后<br>
+<img src="/2021/01/30/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8%5Cp3.png" alt="p3"></li>
+<li>上传成功之后即可在ios/ipados端听歌了</li>
+</ol>
+]]></content>
+      <categories>
+        <category>practice</category>
+      </categories>
+      <tags>
+        <tag>music</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>About</title>
+    <url>/2021/01/13/index/</url>
+    <content><![CDATA[<h2 id="作者介绍"><a class="header-anchor" href="#作者介绍">¶</a>作者介绍</h2>
+<p>学生，现就读于兰州交通大学电气工程及其自动化专业本科，对计算机的学习有着浓厚的兴趣。</p>
+<h2 id="创建目的"><a class="header-anchor" href="#创建目的">¶</a>创建目的</h2>
+<ol>
+<li><strong>为更深刻的学习</strong><br>
+笔者认为学习知识不能使单方面的由老师教授，学生接受，而是应有学生在接受过老师的讲授之后，再由自己亲身地去输出传达的知识，以使自己对知识本身有着更深刻的了解（即相当于学生本身也成为了老师）</li>
+<li><strong>为个人的坚持</strong><br>
+笔者虽对电脑学习有着比较高昂的兴趣，类似于爬虫，机器学习，python，matlab算法等等，网上学习的复杂性使得笔者很难搞清楚自己究竟想要哪一个方面的学习，而dota2，csgo的“学习”又让笔者耗费了大量的时间，故想尝试通过自己输出知识来强迫自己坚持学习</li>
+<li><strong>为知识的共享</strong><br>
+就拿专业课知识来讲，现在的，近一学期的专业课知识，对笔者来讲，有太多的知识点在baidu，在Google是找不到的，多数情况下出现问题，只能通过问老师，问学长学姐，论坛等待回答等这些比较不容易快速得到答案的方式来解决问题，而如果我们建立自己专业课的常见或日常问题在各个搜索引擎上的索引，是不是就可以更方便的帮助到他人，帮助当自己呢？</li>
+</ol>
+<h2 id="对未来的期望"><a class="header-anchor" href="#对未来的期望">¶</a>对未来的期望</h2>
+<p>目前的网页只是暂时的，希望过不了多久，我的网页也可以像网上那些大牛一样，先把头像做出来，评论，对话框，背景，动态什么的一一都有，那样的话，也就差不多成型了。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>第一天复习python</title>
+    <url>/2021/01/16/%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%A4%8D%E4%B9%A0python/</url>
+    <content><![CDATA[<h3 id="重新下载pycharm"><a class="header-anchor" href="#重新下载pycharm">¶</a>重新下载pycharm</h3>
+<p>对pycharm进行一些设置</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># -*- coding =utf-8 -*-</span></span><br><span class="line"><span class="comment"># @time : 2021/1/16 1:51</span></span><br><span class="line"><span class="comment"># @Author : Rov</span></span><br><span class="line"><span class="comment"># @File : co1.py</span></span><br><span class="line"><span class="comment"># @Software : PyCharm</span></span><br></pre></td></tr></table></figure>
+<h3 id="简单输出"><a class="header-anchor" href="#简单输出">¶</a>简单输出</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;hello world!&quot;</span>)</span><br><span class="line">a = <span class="number">10</span></span><br><span class="line">print(<span class="string">&quot;这是一个变量&quot;</span>,a)</span><br></pre></td></tr></table></figure>
+<h3 id="关键字"><a class="header-anchor" href="#关键字">¶</a>关键字</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">keyword.kwlist</span><br><span class="line">[<span class="string">&#x27;False&#x27;</span>, <span class="string">&#x27;None&#x27;</span>, <span class="string">&#x27;True&#x27;</span>, <span class="string">&#x27;__peg_parser__&#x27;</span>, <span class="string">&#x27;and&#x27;</span>, <span class="string">&#x27;as&#x27;</span>, <span class="string">&#x27;assert&#x27;</span>, <span class="string">&#x27;async&#x27;</span>, <span class="string">&#x27;await&#x27;</span>, <span class="string">&#x27;break&#x27;</span>, <span class="string">&#x27;class&#x27;</span>, <span class="string">&#x27;continue&#x27;</span>, <span class="string">&#x27;def&#x27;</span>, <span class="string">&#x27;del&#x27;</span>, <span class="string">&#x27;elif&#x27;</span>, <span class="string">&#x27;else&#x27;</span>, <span class="string">&#x27;except&#x27;</span>, <span class="string">&#x27;finally&#x27;</span>, <span class="string">&#x27;for&#x27;</span>, <span class="string">&#x27;from&#x27;</span>, <span class="string">&#x27;global&#x27;</span>, <span class="string">&#x27;if&#x27;</span>, <span class="string">&#x27;import&#x27;</span>, <span class="string">&#x27;in&#x27;</span>, <span class="string">&#x27;is&#x27;</span>, <span class="string">&#x27;lambda&#x27;</span>, <span class="string">&#x27;nonlocal&#x27;</span>, <span class="string">&#x27;not&#x27;</span>, <span class="string">&#x27;or&#x27;</span>, <span class="string">&#x27;pass&#x27;</span>, <span class="string">&#x27;raise&#x27;</span>, <span class="string">&#x27;return&#x27;</span>, <span class="string">&#x27;try&#x27;</span>, <span class="string">&#x27;while&#x27;</span>, <span class="string">&#x27;with&#x27;</span>, <span class="string">&#x27;yield&#x27;</span>]</span><br></pre></td></tr></table></figure>
+<h3 id="输出传值"><a class="header-anchor" href="#输出传值">¶</a>输出传值</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">age = <span class="number">18</span></span><br><span class="line">print(<span class="string">&quot;我的年纪是:%d岁&quot;</span>%age)</span><br></pre></td></tr></table></figure>
+<p>%d %s很关键（s是字符串）</p>
+<h3 id="格式化输出"><a class="header-anchor" href="#格式化输出">¶</a>格式化输出</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;我的名字是%s,我的国籍是%s&quot;</span>%(<span class="string">&quot;小张&quot;</span>,<span class="string">&quot;中国&quot;</span>))</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;www&quot;</span>,<span class="string">&quot;baidu&quot;</span>,<span class="string">&quot;com&quot;</span>,sep=<span class="string">&quot;.&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;hello&quot;</span>,end=<span class="string">&quot;&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;world&quot;</span>,end=<span class="string">&quot;\t&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;python&quot;</span>,end=<span class="string">&quot;\n&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;end&quot;</span>)</span><br></pre></td></tr></table></figure>
+<h3 id="输入"><a class="header-anchor" href="#输入">¶</a>输入</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a=<span class="built_in">input</span>(<span class="string">&quot;输入：&quot;</span>)</span><br><span class="line">print(<span class="built_in">type</span>(a))</span><br></pre></td></tr></table></figure>
+<p>无论是什么都是字符串</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">&lt;<span class="class"><span class="keyword">class</span> &#x27;<span class="title">str</span>&#x27;&gt;</span></span><br></pre></td></tr></table></figure>
+<h3 id="转化"><a class="header-anchor" href="#转化">¶</a>转化</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a=<span class="built_in">int</span>(<span class="string">&quot;123&quot;</span>)</span><br><span class="line">b=a+<span class="number">100</span></span><br><span class="line">print(b)</span><br></pre></td></tr></table></figure>
+<h3 id="运算符"><a class="header-anchor" href="#运算符">¶</a>运算符</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">+ - * / %</span><br><span class="line">== %等于</span><br><span class="line">!= %不等</span><br></pre></td></tr></table></figure>
+<h3 id="逻辑运算符"><a class="header-anchor" href="#逻辑运算符">¶</a>逻辑运算符</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">and</span> <span class="keyword">or</span> <span class="keyword">not</span> </span><br><span class="line"><span class="keyword">in</span> /<span class="keyword">not</span> <span class="keyword">in</span> </span><br></pre></td></tr></table></figure>
+<h3 id="判断语句"><a class="header-anchor" href="#判断语句">¶</a>判断语句</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> 判断条件<span class="number">1</span> :</span><br><span class="line">	执行语句<span class="number">1</span></span><br><span class="line"><span class="keyword">elif</span> 判断语句<span class="number">2</span> :</span><br><span class="line">	执行语句<span class="number">2</span></span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">	执行语句<span class="number">3</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p><em><strong>后面的冒号很关键!!!</strong></em></p>
+<blockquote>
+<p>ezpz</p>
+</blockquote>
+<h3 id="随机数"><a class="header-anchor" href="#随机数">¶</a>随机数</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> random</span><br><span class="line"></span><br><span class="line">x= random.randint(<span class="number">0</span>,<span class="number">2</span>)</span><br><span class="line">print(x)</span><br><span class="line">print(random.uniform(<span class="number">0</span>,<span class="number">2</span>))</span><br></pre></td></tr></table></figure>
+<p>randint：整数</p>
+<p>uniform：小数</p>
+<h3 id="循环语句"><a class="header-anchor" href="#循环语句">¶</a>循环语句</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">5</span>):</span><br><span class="line">	print(i)</span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">0</span>,<span class="number">10</span>,<span class="number">3</span>):</span><br><span class="line">	print(i)</span><br></pre></td></tr></table></figure>
+<p>如果是</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(a,b)</span><br><span class="line">	print(i)</span><br></pre></td></tr></table></figure>
+<p>则其范围为a~b-1</p>
+<p><strong>对于字符串</strong></p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">name =<span class="string">&quot;be nice&quot;</span></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> name:</span><br><span class="line">    print(i,end=<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
+<p><strong>while</strong></p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">while</span> i&lt;<span class="number">5</span>:</span><br><span class="line">    print(<span class="string">&quot;nice play!&quot;</span>)</span><br><span class="line">    print(<span class="string">&quot;i=%d&quot;</span>%i)</span><br><span class="line">    i+=<span class="number">1</span></span><br><span class="line">print(<span class="string">&quot;pass&quot;</span>)</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>爬虫</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>实时更新记录</title>
+    <url>/2021/04/14/schedule_/</url>
+    <content><![CDATA[<h1>头脑风暴</h1>
+<h2 id="想完成什么"><a class="header-anchor" href="#想完成什么">¶</a>想完成什么</h2>
+<ol>
+<li>美剧无障碍观影，先从有英文字幕开始</li>
+<li>专业课学习超出考试</li>
+<li>锻炼跑步</li>
+</ol>
+<h2 id="感兴趣的东西"><a class="header-anchor" href="#感兴趣的东西">¶</a>感兴趣的东西</h2>
+<ol>
+<li>&lt;教父&gt;</li>
+<li>python爬虫-最感兴趣的！！！</li>
+<li>专业课（怎么说呢，其实不是很感兴趣，但可以先从试题入手）</li>
+</ol>
+<h2 id="怎么做"><a class="header-anchor" href="#怎么做">¶</a>怎么做</h2>
+<ol>
+<li>早上在图书馆那边找教室（4教）有课就走，及时止损</li>
+<li>早上英语单词，有课就晚上学（8：00-12：00）</li>
+<li>中午专业课（2：30-6：00）不回宿舍，在朝阳吃</li>
+<li>晚上python爬虫（7：30-9：30）跑步（9：50-10：30）</li>
+</ol>
+<h2 id="2021-4-8进度"><a class="header-anchor" href="#2021-4-8进度">¶</a>2021.4.8进度</h2>
+<ol>
+<li>python爬虫p18 中间</li>
+<li>开始远动学习</li>
+<li>完成英语单词</li>
+</ol>
+<h2 id="2021-4-9进度"><a class="header-anchor" href="#2021-4-9进度">¶</a>2021.4.9进度</h2>
+<ol>
+<li>完成英语单词</li>
+<li>完成英语口语背诵</li>
+<li>看了一会&lt;教父&gt;，但觉得其他比较短的剧更适合，比如&lt;摩登家庭&gt;</li>
+<li>还没开始电力工程基础学习</li>
+<li>plc作业完成</li>
+<li>python爬虫p22中间</li>
+<li>完成跑步</li>
+</ol>
+<h2 id="2021-4-10进度"><a class="header-anchor" href="#2021-4-10进度">¶</a>2021.4.10进度</h2>
+<ol>
+<li>完成英语单词</li>
+<li>python爬虫完成从网站获取数据到提取有用数据过程，接下来开始导出到excel表及数据库以便进行数据分析p25</li>
+<li>rainy day</li>
+</ol>
+<h2 id="2021-4-11进度"><a class="header-anchor" href="#2021-4-11进度">¶</a>2021.4.11进度</h2>
+<ol>
+<li>完成英语单词</li>
+<li>python爬虫在excel中实现p27，在数据库中遇到障碍，接着先往下看Flask</li>
+<li>reported rainy but not</li>
+</ol>
+<h2 id="2021-4-12进度"><a class="header-anchor" href="#2021-4-12进度">¶</a>2021.4.12进度</h2>
+<ol>
+<li>完成英语单词</li>
+<li>听一TED演讲两遍</li>
+<li>python爬虫p31，简单搭建网页</li>
+</ol>
+<h2 id="2021-4-13进度"><a class="header-anchor" href="#2021-4-13进度">¶</a>2021.4.13进度</h2>
+<ol>
+<li>完成英语单词</li>
+<li>听了一个即兴 Ted演讲（演讲人不知道接下来ppt的内容，但仍然要按照自己设计好的主题来进行），挺有意思</li>
+<li>远程监控技术预习帧同步位同步预习完成</li>
+<li>专业英语unit8部分翻译完成</li>
+<li>&lt;嫌疑人X的现身&gt;看到石神自首差不多83%</li>
+</ol>
+<h2 id="2021-4-14进度"><a class="header-anchor" href="#2021-4-14进度">¶</a>2021.4.14进度</h2>
+<ol>
+<li>
+<p>完成英语单词</p>
+</li>
+<li>
+<p>听了一个口味比较重的意在宣传环保的Ted演讲（鱼类）</p>
+</li>
+<li>
+<p>plc地址基本掌握，但仍有些不理解，打算明天去答疑</p>
+</li>
+<li>
+<p>学会使用word模板进行论文的简单排版</p>
+</li>
+<li>
+<p>开始看一部关于极简主义的记录片</p>
+<blockquote>
+<p>They want us to believe that you really need these things.</p>
+</blockquote>
+</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>专业英语unit8翻译(部分)</title>
     <url>/2021/04/13/translate_unit8/</url>
     <content><![CDATA[<h1>Railway Electric Power Feeding Systems（尚未完整）</h1>
@@ -124,112 +324,6 @@ feeding systems.</p>
       </tags>
   </entry>
   <entry>
-    <title>About</title>
-    <url>/2021/01/13/index/</url>
-    <content><![CDATA[<h2 id="作者介绍"><a class="header-anchor" href="#作者介绍">¶</a>作者介绍</h2>
-<p>学生，现就读于兰州交通大学电气工程及其自动化专业本科，对计算机的学习有着浓厚的兴趣。</p>
-<h2 id="创建目的"><a class="header-anchor" href="#创建目的">¶</a>创建目的</h2>
-<ol>
-<li><strong>为更深刻的学习</strong><br>
-笔者认为学习知识不能使单方面的由老师教授，学生接受，而是应有学生在接受过老师的讲授之后，再由自己亲身地去输出传达的知识，以使自己对知识本身有着更深刻的了解（即相当于学生本身也成为了老师）</li>
-<li><strong>为个人的坚持</strong><br>
-笔者虽对电脑学习有着比较高昂的兴趣，类似于爬虫，机器学习，python，matlab算法等等，网上学习的复杂性使得笔者很难搞清楚自己究竟想要哪一个方面的学习，而dota2，csgo的“学习”又让笔者耗费了大量的时间，故想尝试通过自己输出知识来强迫自己坚持学习</li>
-<li><strong>为知识的共享</strong><br>
-就拿专业课知识来讲，现在的，近一学期的专业课知识，对笔者来讲，有太多的知识点在baidu，在Google是找不到的，多数情况下出现问题，只能通过问老师，问学长学姐，论坛等待回答等这些比较不容易快速得到答案的方式来解决问题，而如果我们建立自己专业课的常见或日常问题在各个搜索引擎上的索引，是不是就可以更方便的帮助到他人，帮助当自己呢？</li>
-</ol>
-<h2 id="对未来的期望"><a class="header-anchor" href="#对未来的期望">¶</a>对未来的期望</h2>
-<p>目前的网页只是暂时的，希望过不了多久，我的网页也可以像网上那些大牛一样，先把头像做出来，评论，对话框，背景，动态什么的一一都有，那样的话，也就差不多成型了。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>实时更新记录</title>
-    <url>/2021/04/14/schedule_/</url>
-    <content><![CDATA[<h1>头脑风暴</h1>
-<h2 id="想完成什么"><a class="header-anchor" href="#想完成什么">¶</a>想完成什么</h2>
-<ol>
-<li>美剧无障碍观影，先从有英文字幕开始</li>
-<li>专业课学习超出考试</li>
-<li>锻炼跑步</li>
-</ol>
-<h2 id="感兴趣的东西"><a class="header-anchor" href="#感兴趣的东西">¶</a>感兴趣的东西</h2>
-<ol>
-<li>&lt;教父&gt;</li>
-<li>python爬虫-最感兴趣的！！！</li>
-<li>专业课（怎么说呢，其实不是很感兴趣，但可以先从试题入手）</li>
-</ol>
-<h2 id="怎么做"><a class="header-anchor" href="#怎么做">¶</a>怎么做</h2>
-<ol>
-<li>早上在图书馆那边找教室（4教）有课就走，及时止损</li>
-<li>早上英语单词，有课就晚上学（8：00-12：00）</li>
-<li>中午专业课（2：30-6：00）不回宿舍，在朝阳吃</li>
-<li>晚上python爬虫（7：30-9：30）跑步（9：50-10：30）</li>
-</ol>
-<h2 id="2021-4-8进度"><a class="header-anchor" href="#2021-4-8进度">¶</a>2021.4.8进度</h2>
-<ol>
-<li>python爬虫p18 中间</li>
-<li>开始远动学习</li>
-<li>完成英语单词</li>
-</ol>
-<h2 id="2021-4-9进度"><a class="header-anchor" href="#2021-4-9进度">¶</a>2021.4.9进度</h2>
-<ol>
-<li>完成英语单词</li>
-<li>完成英语口语背诵</li>
-<li>看了一会&lt;教父&gt;，但觉得其他比较短的剧更适合，比如&lt;摩登家庭&gt;</li>
-<li>还没开始电力工程基础学习</li>
-<li>plc作业完成</li>
-<li>python爬虫p22中间</li>
-<li>完成跑步</li>
-</ol>
-<h2 id="2021-4-10进度"><a class="header-anchor" href="#2021-4-10进度">¶</a>2021.4.10进度</h2>
-<ol>
-<li>完成英语单词</li>
-<li>python爬虫完成从网站获取数据到提取有用数据过程，接下来开始导出到excel表及数据库以便进行数据分析p25</li>
-<li>rainy day</li>
-</ol>
-<h2 id="2021-4-11进度"><a class="header-anchor" href="#2021-4-11进度">¶</a>2021.4.11进度</h2>
-<ol>
-<li>完成英语单词</li>
-<li>python爬虫在excel中实现p27，在数据库中遇到障碍，接着先往下看Flask</li>
-<li>reported rainy but not</li>
-</ol>
-<h2 id="2021-4-12进度"><a class="header-anchor" href="#2021-4-12进度">¶</a>2021.4.12进度</h2>
-<ol>
-<li>完成英语单词</li>
-<li>听一TED演讲两遍</li>
-<li>python爬虫p31，简单搭建网页</li>
-</ol>
-<h2 id="2021-4-13进度"><a class="header-anchor" href="#2021-4-13进度">¶</a>2021.4.13进度</h2>
-<ol>
-<li>完成英语单词</li>
-<li>听了一个即兴 Ted演讲（演讲人不知道接下来ppt的内容，但仍然要按照自己设计好的主题来进行），挺有意思</li>
-<li>远程监控技术预习帧同步位同步预习完成</li>
-<li>专业英语unit8部分翻译完成</li>
-<li>&lt;嫌疑人X的现身&gt;看到石神自首差不多83%</li>
-</ol>
-<h2 id="2021-4-14进度"><a class="header-anchor" href="#2021-4-14进度">¶</a>2021.4.14进度</h2>
-<ol>
-<li>
-<p>完成英语单词</p>
-</li>
-<li>
-<p>听了一个口味比较重的意在宣传环保的Ted演讲（鱼类）</p>
-</li>
-<li>
-<p>plc地址基本掌握，但仍有些不理解，打算明天去答疑</p>
-</li>
-<li>
-<p>学会使用word模板进行论文的简单排版</p>
-</li>
-<li>
-<p>开始看一部关于极简主义的记录片</p>
-<blockquote>
-<p>They want us to believe that you really need these things.</p>
-</blockquote>
-</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>电力系统变电站</title>
     <url>/2021/04/05/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%8F%98%E7%94%B5%E6%89%80/</url>
     <content><![CDATA[<h1>电力系统变电站分类</h1>
@@ -319,100 +413,6 @@ feeding systems.</p>
       </categories>
       <tags>
         <tag>电力工程基础</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>日常在ios/ipados上播放本地音乐(脱离在线播放器)</title>
-    <url>/2021/01/30/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8/</url>
-    <content><![CDATA[<h1>前言</h1>
-<p>音乐作为现代娱乐生活中的一个部分，在我看来相当重要，而音乐播放软体的选择则令人大费周折，笔者用过网易云，qq音乐，酷狗音乐，apple music， 还有spotify。也经历了从mp3听歌到后来的手机、平板听歌的转变，由于考虑到各方面的因素，首先是歌曲的版权，笔者发现以上播放器的版权无一可以满足笔者对自己喜欢歌曲的需求，尤其是梦想的声音综艺节目上的歌曲在网易云，apple music ，spotify 上均无，而在其他软体上又难以找到笔者已购的独立游戏soundtrack，其次在价格上，国内软体又普遍需要二次购买最新的数字专辑，同样价格也不菲，让本来就不富裕的家庭更是雪上加霜😭。</p>
-<p>故而，我选择了先在本地下载然后使用本地播放器的方式进行播放。</p>
-<h1>简述</h1>
-<p>下载通过酷我音乐破解版windows，上传和播放通过ios/ipados生态下的ever play，即可实现免费听任意歌曲。</p>
-<h1>详细内容</h1>
-<h2 id="音乐下载器"><a class="header-anchor" href="#音乐下载器">¶</a>音乐下载器</h2>
-<p>酷我音乐破解版windows下载地址：	链接：<a href="https://pan.baidu.com/s/1MXIpspEHOtW46rbIAeKnmA">https://pan.baidu.com/s/1MXIpspEHOtW46rbIAeKnmA</a><br>
-提取码：solo</p>
-<p>下载完之后安装打开搜索自己喜欢的音乐即可完全免费下载（无需登录）</p>
-<h2 id="音乐播放器"><a class="header-anchor" href="#音乐播放器">¶</a>音乐播放器</h2>
-<h3 id="下载"><a class="header-anchor" href="#下载">¶</a>下载</h3>
-<p>ever play下载地址（ios/ipados生态）：链接：<a href="https://apps.apple.com/cn/app/id1202642773">https://apps.apple.com/cn/app/id1202642773</a></p>
-<h3 id="介绍"><a class="header-anchor" href="#介绍">¶</a>介绍</h3>
-<p>ever play是一款免费使用的本地音乐播放软体，其包含付费功能总结就是</p>
-<ol>
-<li>可以播放高清音乐文件（目前还没有使用过该功能，下载的最高音质歌曲也是无法达到该水平的）</li>
-<li>音乐可视化（可以试用，个人感受一般）</li>
-<li>更改专辑封面图片（强迫症可能需要，就像我用过的网易云那样）</li>
-</ol>
-<h3 id="歌曲上传"><a class="header-anchor" href="#歌曲上传">¶</a>歌曲上传</h3>
-<p>有三种上传方式分别是使用电脑iTunes文件共享，AirDrop隔空投送，以及我们接下来单推的Wi-Fi传输。</p>
-<ol>
-<li>在ever play 软体中进入设置Wi-Fi传输<br>
-<img src="/2021/01/30/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8%5Cp1.png" alt="p1"></li>
-<li>在同一WiFi的前提下，使用windows浏览器输入以下地址<br>
-<img src="/2021/01/30/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8%5Cp2.png" alt="p2"></li>
-<li>进入网页后<br>
-<img src="/2021/01/30/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8%5Cp3.png" alt="p3"></li>
-<li>上传成功之后即可在ios/ipados端听歌了</li>
-</ol>
-]]></content>
-      <categories>
-        <category>practice</category>
-      </categories>
-      <tags>
-        <tag>music</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>第一天复习python</title>
-    <url>/2021/01/16/%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%A4%8D%E4%B9%A0python/</url>
-    <content><![CDATA[<h3 id="重新下载pycharm"><a class="header-anchor" href="#重新下载pycharm">¶</a>重新下载pycharm</h3>
-<p>对pycharm进行一些设置</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># -*- coding =utf-8 -*-</span></span><br><span class="line"><span class="comment"># @time : 2021/1/16 1:51</span></span><br><span class="line"><span class="comment"># @Author : Rov</span></span><br><span class="line"><span class="comment"># @File : co1.py</span></span><br><span class="line"><span class="comment"># @Software : PyCharm</span></span><br></pre></td></tr></table></figure>
-<h3 id="简单输出"><a class="header-anchor" href="#简单输出">¶</a>简单输出</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;hello world!&quot;</span>)</span><br><span class="line">a = <span class="number">10</span></span><br><span class="line">print(<span class="string">&quot;这是一个变量&quot;</span>,a)</span><br></pre></td></tr></table></figure>
-<h3 id="关键字"><a class="header-anchor" href="#关键字">¶</a>关键字</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">keyword.kwlist</span><br><span class="line">[<span class="string">&#x27;False&#x27;</span>, <span class="string">&#x27;None&#x27;</span>, <span class="string">&#x27;True&#x27;</span>, <span class="string">&#x27;__peg_parser__&#x27;</span>, <span class="string">&#x27;and&#x27;</span>, <span class="string">&#x27;as&#x27;</span>, <span class="string">&#x27;assert&#x27;</span>, <span class="string">&#x27;async&#x27;</span>, <span class="string">&#x27;await&#x27;</span>, <span class="string">&#x27;break&#x27;</span>, <span class="string">&#x27;class&#x27;</span>, <span class="string">&#x27;continue&#x27;</span>, <span class="string">&#x27;def&#x27;</span>, <span class="string">&#x27;del&#x27;</span>, <span class="string">&#x27;elif&#x27;</span>, <span class="string">&#x27;else&#x27;</span>, <span class="string">&#x27;except&#x27;</span>, <span class="string">&#x27;finally&#x27;</span>, <span class="string">&#x27;for&#x27;</span>, <span class="string">&#x27;from&#x27;</span>, <span class="string">&#x27;global&#x27;</span>, <span class="string">&#x27;if&#x27;</span>, <span class="string">&#x27;import&#x27;</span>, <span class="string">&#x27;in&#x27;</span>, <span class="string">&#x27;is&#x27;</span>, <span class="string">&#x27;lambda&#x27;</span>, <span class="string">&#x27;nonlocal&#x27;</span>, <span class="string">&#x27;not&#x27;</span>, <span class="string">&#x27;or&#x27;</span>, <span class="string">&#x27;pass&#x27;</span>, <span class="string">&#x27;raise&#x27;</span>, <span class="string">&#x27;return&#x27;</span>, <span class="string">&#x27;try&#x27;</span>, <span class="string">&#x27;while&#x27;</span>, <span class="string">&#x27;with&#x27;</span>, <span class="string">&#x27;yield&#x27;</span>]</span><br></pre></td></tr></table></figure>
-<h3 id="输出传值"><a class="header-anchor" href="#输出传值">¶</a>输出传值</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">age = <span class="number">18</span></span><br><span class="line">print(<span class="string">&quot;我的年纪是:%d岁&quot;</span>%age)</span><br></pre></td></tr></table></figure>
-<p>%d %s很关键（s是字符串）</p>
-<h3 id="格式化输出"><a class="header-anchor" href="#格式化输出">¶</a>格式化输出</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;我的名字是%s,我的国籍是%s&quot;</span>%(<span class="string">&quot;小张&quot;</span>,<span class="string">&quot;中国&quot;</span>))</span><br></pre></td></tr></table></figure>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;www&quot;</span>,<span class="string">&quot;baidu&quot;</span>,<span class="string">&quot;com&quot;</span>,sep=<span class="string">&quot;.&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;hello&quot;</span>,end=<span class="string">&quot;&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;world&quot;</span>,end=<span class="string">&quot;\t&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;python&quot;</span>,end=<span class="string">&quot;\n&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;end&quot;</span>)</span><br></pre></td></tr></table></figure>
-<h3 id="输入"><a class="header-anchor" href="#输入">¶</a>输入</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a=<span class="built_in">input</span>(<span class="string">&quot;输入：&quot;</span>)</span><br><span class="line">print(<span class="built_in">type</span>(a))</span><br></pre></td></tr></table></figure>
-<p>无论是什么都是字符串</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">&lt;<span class="class"><span class="keyword">class</span> &#x27;<span class="title">str</span>&#x27;&gt;</span></span><br></pre></td></tr></table></figure>
-<h3 id="转化"><a class="header-anchor" href="#转化">¶</a>转化</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a=<span class="built_in">int</span>(<span class="string">&quot;123&quot;</span>)</span><br><span class="line">b=a+<span class="number">100</span></span><br><span class="line">print(b)</span><br></pre></td></tr></table></figure>
-<h3 id="运算符"><a class="header-anchor" href="#运算符">¶</a>运算符</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">+ - * / %</span><br><span class="line">== %等于</span><br><span class="line">!= %不等</span><br></pre></td></tr></table></figure>
-<h3 id="逻辑运算符"><a class="header-anchor" href="#逻辑运算符">¶</a>逻辑运算符</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">and</span> <span class="keyword">or</span> <span class="keyword">not</span> </span><br><span class="line"><span class="keyword">in</span> /<span class="keyword">not</span> <span class="keyword">in</span> </span><br></pre></td></tr></table></figure>
-<h3 id="判断语句"><a class="header-anchor" href="#判断语句">¶</a>判断语句</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> 判断条件<span class="number">1</span> :</span><br><span class="line">	执行语句<span class="number">1</span></span><br><span class="line"><span class="keyword">elif</span> 判断语句<span class="number">2</span> :</span><br><span class="line">	执行语句<span class="number">2</span></span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">	执行语句<span class="number">3</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>
-<p><em><strong>后面的冒号很关键!!!</strong></em></p>
-<blockquote>
-<p>ezpz</p>
-</blockquote>
-<h3 id="随机数"><a class="header-anchor" href="#随机数">¶</a>随机数</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> random</span><br><span class="line"></span><br><span class="line">x= random.randint(<span class="number">0</span>,<span class="number">2</span>)</span><br><span class="line">print(x)</span><br><span class="line">print(random.uniform(<span class="number">0</span>,<span class="number">2</span>))</span><br></pre></td></tr></table></figure>
-<p>randint：整数</p>
-<p>uniform：小数</p>
-<h3 id="循环语句"><a class="header-anchor" href="#循环语句">¶</a>循环语句</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">5</span>):</span><br><span class="line">	print(i)</span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">0</span>,<span class="number">10</span>,<span class="number">3</span>):</span><br><span class="line">	print(i)</span><br></pre></td></tr></table></figure>
-<p>如果是</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(a,b)</span><br><span class="line">	print(i)</span><br></pre></td></tr></table></figure>
-<p>则其范围为a~b-1</p>
-<p><strong>对于字符串</strong></p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">name =<span class="string">&quot;be nice&quot;</span></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> name:</span><br><span class="line">    print(i,end=<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
-<p><strong>while</strong></p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">while</span> i&lt;<span class="number">5</span>:</span><br><span class="line">    print(<span class="string">&quot;nice play!&quot;</span>)</span><br><span class="line">    print(<span class="string">&quot;i=%d&quot;</span>%i)</span><br><span class="line">    i+=<span class="number">1</span></span><br><span class="line">print(<span class="string">&quot;pass&quot;</span>)</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>爬虫</category>
-      </categories>
-      <tags>
-        <tag>python</tag>
       </tags>
   </entry>
   <entry>
