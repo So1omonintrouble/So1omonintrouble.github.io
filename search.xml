@@ -3,40 +3,52 @@
   <entry>
     <title>About</title>
     <url>/2021/01/13/index/</url>
-    <content><![CDATA[<h2 id="作者介绍"><a href="#作者介绍" class="headerlink" title="作者介绍"></a>作者介绍</h2><p>学生，现就读于兰州交通大学电气工程及其自动化专业本科，对计算机的学习有着浓厚的兴趣。</p>
-<h2 id="创建目的"><a href="#创建目的" class="headerlink" title="创建目的"></a>创建目的</h2><ol>
-<li><strong>为更深刻的学习</strong><br> 笔者认为学习知识不能使单方面的由老师教授，学生接受，而是应有学生在接受过老师的讲授之后，再由自己亲身地去输出传达的知识，以使自己对知识本身有着更深刻的了解（即相当于学生本身也成为了老师）</li>
-<li><strong>为个人的坚持</strong><br> 笔者虽对电脑学习有着比较高昂的兴趣，类似于爬虫，机器学习，python，matlab算法等等，网上学习的复杂性使得笔者很难搞清楚自己究竟想要哪一个方面的学习，而dota2，csgo的“学习”又让笔者耗费了大量的时间，故想尝试通过自己输出知识来强迫自己坚持学习</li>
-<li><strong>为知识的共享</strong><br> 就拿专业课知识来讲，现在的，近一学期的专业课知识，对笔者来讲，有太多的知识点在baidu，在Google是找不到的，多数情况下出现问题，只能通过问老师，问学长学姐，论坛等待回答等这些比较不容易快速得到答案的方式来解决问题，而如果我们建立自己专业课的常见或日常问题在各个搜索引擎上的索引，是不是就可以更方便的帮助到他人，帮助当自己呢？</li>
+    <content><![CDATA[<h2 id="作者介绍"><a class="header-anchor" href="#作者介绍">¶</a>作者介绍</h2>
+<p>学生，现就读于兰州交通大学电气工程及其自动化专业本科，对计算机的学习有着浓厚的兴趣。</p>
+<h2 id="创建目的"><a class="header-anchor" href="#创建目的">¶</a>创建目的</h2>
+<ol>
+<li><strong>为更深刻的学习</strong><br>
+笔者认为学习知识不能使单方面的由老师教授，学生接受，而是应有学生在接受过老师的讲授之后，再由自己亲身地去输出传达的知识，以使自己对知识本身有着更深刻的了解（即相当于学生本身也成为了老师）</li>
+<li><strong>为个人的坚持</strong><br>
+笔者虽对电脑学习有着比较高昂的兴趣，类似于爬虫，机器学习，python，matlab算法等等，网上学习的复杂性使得笔者很难搞清楚自己究竟想要哪一个方面的学习，而dota2，csgo的“学习”又让笔者耗费了大量的时间，故想尝试通过自己输出知识来强迫自己坚持学习</li>
+<li><strong>为知识的共享</strong><br>
+就拿专业课知识来讲，现在的，近一学期的专业课知识，对笔者来讲，有太多的知识点在baidu，在Google是找不到的，多数情况下出现问题，只能通过问老师，问学长学姐，论坛等待回答等这些比较不容易快速得到答案的方式来解决问题，而如果我们建立自己专业课的常见或日常问题在各个搜索引擎上的索引，是不是就可以更方便的帮助到他人，帮助当自己呢？</li>
 </ol>
-<h2 id="对未来的期望"><a href="#对未来的期望" class="headerlink" title="对未来的期望"></a>对未来的期望</h2><p>目前的网页只是暂时的，希望过不了多久，我的网页也可以像网上那些大牛一样，先把头像做出来，评论，对话框，背景，动态什么的一一都有，那样的话，也就差不多成型了。</p>
+<h2 id="对未来的期望"><a class="header-anchor" href="#对未来的期望">¶</a>对未来的期望</h2>
+<p>目前的网页只是暂时的，希望过不了多久，我的网页也可以像网上那些大牛一样，先把头像做出来，评论，对话框，背景，动态什么的一一都有，那样的话，也就差不多成型了。</p>
 ]]></content>
   </entry>
   <entry>
     <title>实时更新记录</title>
     <url>/2021/04/19/schedule_/</url>
-    <content><![CDATA[<h1 id="头脑风暴"><a href="#头脑风暴" class="headerlink" title="头脑风暴"></a>头脑风暴</h1><h2 id="想完成什么"><a href="#想完成什么" class="headerlink" title="想完成什么"></a>想完成什么</h2><ol>
+    <content><![CDATA[<h1>头脑风暴</h1>
+<h2 id="想完成什么"><a class="header-anchor" href="#想完成什么">¶</a>想完成什么</h2>
+<ol>
 <li>美剧无障碍观影，先从有英文字幕开始</li>
 <li>专业课学习超出考试</li>
 <li>锻炼跑步</li>
 </ol>
-<h2 id="感兴趣的东西"><a href="#感兴趣的东西" class="headerlink" title="感兴趣的东西"></a>感兴趣的东西</h2><ol>
+<h2 id="感兴趣的东西"><a class="header-anchor" href="#感兴趣的东西">¶</a>感兴趣的东西</h2>
+<ol>
 <li>&lt;教父&gt;</li>
 <li>python爬虫-最感兴趣的！！！</li>
 <li>专业课（怎么说呢，其实不是很感兴趣，但可以先从试题入手）</li>
 </ol>
-<h2 id="怎么做"><a href="#怎么做" class="headerlink" title="怎么做"></a>怎么做</h2><ol>
+<h2 id="怎么做"><a class="header-anchor" href="#怎么做">¶</a>怎么做</h2>
+<ol>
 <li>早上在图书馆那边找教室（4教）有课就走，及时止损</li>
 <li>早上英语单词，有课就晚上学（8：00-12：00）</li>
 <li>中午专业课（2：30-6：00）不回宿舍，在朝阳吃</li>
 <li>晚上python爬虫（7：30-9：30）跑步（9：50-10：30）</li>
 </ol>
-<h2 id="2021-4-8进度"><a href="#2021-4-8进度" class="headerlink" title="2021.4.8进度"></a>2021.4.8进度</h2><ol>
+<h2 id="2021-4-8进度"><a class="header-anchor" href="#2021-4-8进度">¶</a>2021.4.8进度</h2>
+<ol>
 <li>python爬虫p18 中间</li>
 <li>开始远动学习</li>
 <li>完成英语单词</li>
 </ol>
-<h2 id="2021-4-9进度"><a href="#2021-4-9进度" class="headerlink" title="2021.4.9进度"></a>2021.4.9进度</h2><ol>
+<h2 id="2021-4-9进度"><a class="header-anchor" href="#2021-4-9进度">¶</a>2021.4.9进度</h2>
+<ol>
 <li>完成英语单词</li>
 <li>完成英语口语背诵</li>
 <li>看了一会&lt;教父&gt;，但觉得其他比较短的剧更适合，比如&lt;摩登家庭&gt;</li>
@@ -45,77 +57,101 @@
 <li>python爬虫p22中间</li>
 <li>完成跑步</li>
 </ol>
-<h2 id="2021-4-10进度"><a href="#2021-4-10进度" class="headerlink" title="2021.4.10进度"></a>2021.4.10进度</h2><ol>
+<h2 id="2021-4-10进度"><a class="header-anchor" href="#2021-4-10进度">¶</a>2021.4.10进度</h2>
+<ol>
 <li>完成英语单词</li>
 <li>python爬虫完成从网站获取数据到提取有用数据过程，接下来开始导出到excel表及数据库以便进行数据分析p25</li>
 <li>rainy day</li>
 </ol>
-<h2 id="2021-4-11进度"><a href="#2021-4-11进度" class="headerlink" title="2021.4.11进度"></a>2021.4.11进度</h2><ol>
+<h2 id="2021-4-11进度"><a class="header-anchor" href="#2021-4-11进度">¶</a>2021.4.11进度</h2>
+<ol>
 <li>完成英语单词</li>
 <li>python爬虫在excel中实现p27，在数据库中遇到障碍，接着先往下看Flask</li>
 <li>reported rainy but not</li>
 </ol>
-<h2 id="2021-4-12进度"><a href="#2021-4-12进度" class="headerlink" title="2021.4.12进度"></a>2021.4.12进度</h2><ol>
+<h2 id="2021-4-12进度"><a class="header-anchor" href="#2021-4-12进度">¶</a>2021.4.12进度</h2>
+<ol>
 <li>完成英语单词</li>
 <li>听一TED演讲两遍</li>
 <li>python爬虫p31，简单搭建网页</li>
 </ol>
-<h2 id="2021-4-13进度"><a href="#2021-4-13进度" class="headerlink" title="2021.4.13进度"></a>2021.4.13进度</h2><ol>
+<h2 id="2021-4-13进度"><a class="header-anchor" href="#2021-4-13进度">¶</a>2021.4.13进度</h2>
+<ol>
 <li>完成英语单词</li>
 <li>听了一个即兴 Ted演讲（演讲人不知道接下来ppt的内容，但仍然要按照自己设计好的主题来进行），挺有意思</li>
 <li>远程监控技术预习帧同步位同步预习完成</li>
 <li>专业英语unit8部分翻译完成</li>
 <li>&lt;嫌疑人X的现身&gt;看到石神自首差不多83%</li>
 </ol>
-<h2 id="2021-4-14进度"><a href="#2021-4-14进度" class="headerlink" title="2021.4.14进度"></a>2021.4.14进度</h2><ol>
-<li><p>完成英语单词</p>
+<h2 id="2021-4-14进度"><a class="header-anchor" href="#2021-4-14进度">¶</a>2021.4.14进度</h2>
+<ol>
+<li>
+<p>完成英语单词</p>
 </li>
-<li><p>听了一个口味比较重的意在宣传环保的Ted演讲（鱼类）</p>
+<li>
+<p>听了一个口味比较重的意在宣传环保的Ted演讲（鱼类）</p>
 </li>
-<li><p>plc地址基本掌握，但仍有些不理解，打算明天去答疑</p>
+<li>
+<p>plc地址基本掌握，但仍有些不理解，打算明天去答疑</p>
 </li>
-<li><p>学会使用word模板进行论文的简单排版</p>
+<li>
+<p>学会使用word模板进行论文的简单排版</p>
 </li>
-<li><p>开始看一部关于极简主义的记录片</p>
+<li>
+<p>开始看一部关于极简主义的记录片</p>
 <blockquote>
 <p>They want us to believe that you really need these things.</p>
 </blockquote>
 </li>
 </ol>
-<h2 id="2021-4-15进度"><a href="#2021-4-15进度" class="headerlink" title="2021.4.15进度"></a>2021.4.15进度</h2><ol>
-<li><p>完成英语单词</p>
+<h2 id="2021-4-15进度"><a class="header-anchor" href="#2021-4-15进度">¶</a>2021.4.15进度</h2>
+<ol>
+<li>
+<p>完成英语单词</p>
 </li>
-<li><p>完成博客配置的进一步完善，添加了about，categories，tags以及个人图片的上传功能，学会使用图床</p>
+<li>
+<p>完成博客配置的进一步完善，添加了about，categories，tags以及个人图片的上传功能，学会使用图床</p>
 </li>
-<li><p>完成跑步</p>
+<li>
+<p>完成跑步</p>
 </li>
-<li><p>youtube上一个短片，<this one habit will motivate you to do anything>，which means imaging that everyday is your last day, what would you do ? 有点thick的味道，不是很爽</this></p>
+<li>
+<p>youtube上一个短片，<this one habit will motivate you to do anything>，which means imaging that everyday is your last day, what would you do ? 有点thick的味道，不是很爽</this></p>
 </li>
-<li><p>今天凌晨1点读完&lt;嫌疑人X的现身&gt;，读这本书的最后一天，我才明白，本以为是以上帝视角观看的这场数学家犯人与物理学家教授之间的交锋，最后结局竟是这样一种出乎意料的扭转，而之前判案中的悬疑之处全部就在那一刻如庖丁解牛一般，一一化解。给人感受就是：</p>
+<li>
+<p>今天凌晨1点读完&lt;嫌疑人X的现身&gt;，读这本书的最后一天，我才明白，本以为是以上帝视角观看的这场数学家犯人与物理学家教授之间的交锋，最后结局竟是这样一种出乎意料的扭转，而之前判案中的悬疑之处全部就在那一刻如庖丁解牛一般，一一化解。给人感受就是：</p>
 <blockquote>
 <p>提刀而立，為之四顧，為之躊躇滿志，善刀而藏之</p>
 </blockquote>
 </li>
 </ol>
-<h2 id="2021-4-16进度"><a href="#2021-4-16进度" class="headerlink" title="2021.4.16进度"></a>2021.4.16进度</h2><ol>
-<li><p>完成英语单词</p>
+<h2 id="2021-4-16进度"><a class="header-anchor" href="#2021-4-16进度">¶</a>2021.4.16进度</h2>
+<ol>
+<li>
+<p>完成英语单词</p>
 </li>
-<li><p>完成旅行挑战今天是挑战随机上公交，开哪去哪的一天。</p>
+<li>
+<p>完成旅行挑战今天是挑战随机上公交，开哪去哪的一天。</p>
 <p>先是阴差阳错到了五泉山，沿着健身步道一路前行，到了玻璃栈道就以为到山顶了！好在有上山师傅告诉我那儿只有山顶的四分之一，但下面的阿姨却跟我说玻璃栈道是山顶的一半路程，那。。不妨去中间值八分之三吧，算是一场浅尝辄止的登山体验吧。p1心有余悸；p2灰头土脸</p>
 <p>下山时搭话了个正在拍五泉山池塘全景相片的小哥，和第一个陌生人交流成功！！但忘了加下他的联系方式，偷一下他的全景图。。p3“分布式发电”</p>
 <p>吃完饭就又开始新一轮随机公交车搭乘，这次车上挺多穿着校服的男生女生，本来想搭个话，问下附近哪有好玩的地方，但还是放弃了（克服社交恐惧失败，也可能是在公车上怕尴尬。。）这是今天一个大失败，导致在那辆公交车停留的站牌附近找不到什么好玩的地方，唉~~之后直接去了西关什字(算是比较熟悉的地方)。</p>
 <p>在西站什字，遇到一个十分热心的发传单的小姐姐，她告诉我哪里好玩还发我导航信息，可惜我这路痴，一路往前竟到了小西湖。</p>
 <p>最后一站就是兰州中心了，点杯咖啡并编辑今天这一天。</p>
 </li>
-<li><p>开始阅读&lt;数学女孩&gt;，一系列讲数学知识从易到难进行阐述的书，当然不乏青春小说背景</p>
+<li>
+<p>开始阅读&lt;数学女孩&gt;，一系列讲数学知识从易到难进行阐述的书，当然不乏青春小说背景</p>
 </li>
 </ol>
-<h2 id="2021-4-17进度"><a href="#2021-4-17进度" class="headerlink" title="2021.4.17进度"></a>2021.4.17进度</h2><ol>
-<li><p>完成英语单词</p>
+<h2 id="2021-4-17进度"><a class="header-anchor" href="#2021-4-17进度">¶</a>2021.4.17进度</h2>
+<ol>
+<li>
+<p>完成英语单词</p>
 </li>
-<li><p>完成远动大作业，总结IEC61850，集齐百度百科，维基百科，知乎论坛，Electric Energy Online，South East Asia，以及一篇电网技术期刊论文的相关内容，同时第一次选择使用4.14做好的word的论文模板</p>
+<li>
+<p>完成远动大作业，总结IEC61850，集齐百度百科，维基百科，知乎论坛，Electric Energy Online，South East Asia，以及一篇电网技术期刊论文的相关内容，同时第一次选择使用4.14做好的word的论文模板</p>
 </li>
-<li><p>关于论文写作工具的选择：</p>
+<li>
+<p>关于论文写作工具的选择：</p>
 <p>本来想着既然学了又用了那么多次的LaTeX，感觉比word好用太多，尤其是排版和数学公式方面，但看到知乎上对LaTeX褒贬不一的评价，以及结合自己使用过程中遇到的一些问题：</p>
 <ol>
 <li>对于图表位置的把握，浮动体的某些处理并不理想</li>
@@ -130,10 +166,12 @@
 </ol>
 </li>
 </ol>
-<h2 id="2021-4-18进度"><a href="#2021-4-18进度" class="headerlink" title="2021.4.18进度"></a>2021.4.18进度</h2><ol>
+<h2 id="2021-4-18进度"><a class="header-anchor" href="#2021-4-18进度">¶</a>2021.4.18进度</h2>
+<ol>
 <li>完成英语单词</li>
 <li>完成远动小作业，内容尽量多，排版尽量整齐，带缩进什么的都有，感觉可以算上内卷了吧</li>
-<li>内卷初体验：<ol>
+<li>内卷初体验：
+<ol>
 <li>感觉还挺爽</li>
 <li>作业字数越多，排版越整齐，页数越夸张，书写越认真给人一种成就感</li>
 <li>使用论文格式完成大作业更是如此</li>
@@ -142,16 +180,19 @@
 </li>
 <li>爬虫学习到p33，以后就是echarts和wordcloud的学习，这种数据分析的学习了，接着就是补充的学习，完了就基本学完了，获益匪浅！！</li>
 </ol>
-<h2 id="2021-4-19进度"><a href="#2021-4-19进度" class="headerlink" title="2021.4.19进度"></a>2021.4.19进度</h2><ol>
+<h2 id="2021-4-19进度"><a class="header-anchor" href="#2021-4-19进度">¶</a>2021.4.19进度</h2>
+<ol>
 <li>完成英语单词</li>
 <li>听了一个隔夜的Ted演讲，to be honest ，没听懂，且没看明白，总结就是，非裔演员（眼熟）的大道理</li>
-<li>爬虫看到echarts的一半，实在是提不起兴趣，原因有：<ol>
+<li>爬虫看到echarts的一半，实在是提不起兴趣，原因有：
+<ol>
 <li>全是前端的知识，什么html，js，sql等等一系列我不是很感兴趣的知识</li>
 <li>偏应用，不用教自己差不多就会操作的东西</li>
 <li>我并不需要太多搭建网站的知识</li>
 </ol>
 </li>
-<li>在电气控制与plc课上解决了我的诸多作业以及课堂疑问：<ol>
+<li>在电气控制与plc课上解决了我的诸多作业以及课堂疑问：
+<ol>
 <li>中间继电器成功完成电机正转的手动自动点动连续控制事例</li>
 <li>时间继电器无需自锁理论</li>
 <li>单中间继电器辅助开关当总开关，以达到酣畅淋漓的电气设计观点</li>
@@ -165,20 +206,25 @@
   <entry>
     <title>最近规划</title>
     <url>/2021/04/20/schedule_2/</url>
-    <content><![CDATA[<h1 id="最近规划"><a href="#最近规划" class="headerlink" title="最近规划"></a>最近规划</h1><h2 id="想完成什么"><a href="#想完成什么" class="headerlink" title="想完成什么"></a>想完成什么</h2><ol>
+    <content><![CDATA[<h1>最近规划</h1>
+<h2 id="想完成什么"><a class="header-anchor" href="#想完成什么">¶</a>想完成什么</h2>
+<ol>
 <li>提高词汇量，英语论文的阅读能力，作文写作水平</li>
 <li>专业知识掌握：电力系统远动，电力工程基础，电气控制与plc</li>
 <li>写作水平的提升</li>
 </ol>
-<h2 id="感兴趣的东西"><a href="#感兴趣的东西" class="headerlink" title="感兴趣的东西"></a>感兴趣的东西</h2><ol>
+<h2 id="感兴趣的东西"><a class="header-anchor" href="#感兴趣的东西">¶</a>感兴趣的东西</h2>
+<ol>
 <li>&lt;越狱&gt;，b站怪味爆米花，天天追，而且还耗时短</li>
 <li>经济学人里面的内容吧，有些句子翻译着翻译着就想大致读读全篇文章，了解一下</li>
 <li>电气控制这门课的电气控制考试内容会出什么电路，要不要把行程开关，速度继电器，电压电压继电器这些感觉比较冷门的器件学学</li>
 <li>想整个可以在批量下载mooc课件的爬虫，但不知道从何下手</li>
 </ol>
-<h2 id="2021-4-20"><a href="#2021-4-20" class="headerlink" title="2021.4.20"></a>2021.4.20</h2><ol>
+<h2 id="2021-4-20"><a class="header-anchor" href="#2021-4-20">¶</a>2021.4.20</h2>
+<ol>
 <li>完成英语单词</li>
-<li>精读经济学人10句话，一个想法：<ol>
+<li>精读经济学人10句话，一个想法：
+<ol>
 <li>我的notability里面有好多经济学人杂志却都没怎么看过</li>
 <li>背单词时想找个比较典型的例句来加深理解</li>
 <li>于是，啪！两者结合在了一起</li>
@@ -195,8 +241,10 @@
   <entry>
     <title>专业英语unit8翻译(部分)</title>
     <url>/2021/04/13/translate_unit8/</url>
-    <content><![CDATA[<h1 id="Railway-Electric-Power-Feeding-Systems（尚未完整）"><a href="#Railway-Electric-Power-Feeding-Systems（尚未完整）" class="headerlink" title="Railway Electric Power Feeding Systems（尚未完整）"></a>Railway Electric Power Feeding Systems（尚未完整）</h1><p><del>铁路供电系统</del> 牵引供电系统</p>
-<h2 id="8-1-introduction"><a href="#8-1-introduction" class="headerlink" title="8.1 introduction"></a>8.1 introduction</h2><p>介绍</p>
+    <content><![CDATA[<h1>Railway Electric Power Feeding Systems（尚未完整）</h1>
+<p><s>铁路供电系统</s> 牵引供电系统</p>
+<h2 id="8-1-introduction"><a class="header-anchor" href="#8-1-introduction">¶</a>8.1 introduction</h2>
+<p>介绍</p>
 <p>Electric power technology in the railway industry refers to the means of  supplying good-quality electric power to the electric motors.</p>
 <p>铁路行业的电力技术是指向电动机提供高质量电力的手段。</p>
 <p>It primarily consists of power conversion technology at sub-stations, feeding  circuits for DC and AC feeding systems, and the structure, materials,  measurement, and maintenance of the electric overhead lines.</p>
@@ -213,12 +261,22 @@
 <p>This article discusses all aspects of electric power supply systems for  railways, ranging from the history of electrification of Japanese railways to  today’s sophisticated power supply facilities.</p>
 <p>本文讨论了牵引供电系统的各个方面，从日本铁路电气化的历史到今天复杂的供电设施。</p>
 <p>sophisticated：复杂的</p>
-<p>adj. 复杂的；精致的；久经世故的；富有经验的<br>v. 使变得世故；使迷惑；篡改（sophisticate的过去分词形式）<br>【词形变化】[ 比较级  more sophisticated 最高级 most sophisticated ]<br>【同近义词】<br>adj.  复杂的；精致的；久经世故的；富有经验的<br>complicated experienced involved detailed exquisite<br>v.  使变得世故；使迷惑；篡改（sophisticate的过去分词形式）<br>mystified </p>
-<h2 id="8-2-World-Railway-Electrification-Systems"><a href="#8-2-World-Railway-Electrification-Systems" class="headerlink" title="8.2 World Railway Electrification Systems"></a>8.2 World Railway Electrification Systems</h2><p>世界铁路电气化系统</p>
+<p>adj. 复杂的；精致的；久经世故的；富有经验的<br>
+v. 使变得世故；使迷惑；篡改（sophisticate的过去分词形式）<br>
+【词形变化】[ 比较级  more sophisticated 最高级 most sophisticated ]<br>
+【同近义词】<br>
+adj.  复杂的；精致的；久经世故的；富有经验的<br>
+complicated experienced involved detailed exquisite<br>
+v.  使变得世故；使迷惑；篡改（sophisticate的过去分词形式）<br>
+mystified</p>
+<h2 id="8-2-World-Railway-Electrification-Systems"><a class="header-anchor" href="#8-2-World-Railway-Electrification-Systems">¶</a>8.2 World Railway Electrification Systems</h2>
+<p>世界铁路电气化系统</p>
 <p>Table 1 shows various feeding systems around the world and the electrification  distances.</p>
 <p>表1显示了世界各地的各种供电系统和电气化距离。</p>
-<h2 id="8-4-Various-Feeding-Systems"><a href="#8-4-Various-Feeding-Systems" class="headerlink" title="8.4 Various Feeding Systems"></a>8.4 Various Feeding Systems</h2><p>各种供电系统</p>
-<h3 id="8-4-1-From-power-station-to-railway-sub-station"><a href="#8-4-1-From-power-station-to-railway-sub-station" class="headerlink" title="8.4.1 From power station to railway sub-station"></a>8.4.1 From power station to railway sub-station</h3><p>从发电站到铁路分局</p>
+<h2 id="8-4-Various-Feeding-Systems"><a class="header-anchor" href="#8-4-Various-Feeding-Systems">¶</a>8.4 Various Feeding Systems</h2>
+<p>各种供电系统</p>
+<h3 id="8-4-1-From-power-station-to-railway-sub-station"><a class="header-anchor" href="#8-4-1-From-power-station-to-railway-sub-station">¶</a>8.4.1 From power station to railway sub-station</h3>
+<p>从发电站到铁路分局</p>
 <p>The electric power generated by power stations is carried to electric railway  substations by transmission lines.</p>
 <p>发电站产生的电力通过输电线路输送到电气化铁路变电站。</p>
 <p>transmission lines ：输电线路</p>
@@ -241,7 +299,8 @@
 <p>新干线使用77、154、220或275千伏的接收电压。</p>
 <p>The conventional railways use a feeding voltage of 20 kV , and the shinkansen  use single phase at 25 kV .</p>
 <p>传统铁路使用20千伏的供电电压，新干线使用25千伏的单相供电电压。</p>
-<h3 id="8-4-2-DC-feeding-system"><a href="#8-4-2-DC-feeding-system" class="headerlink" title="8.4.2 DC feeding system"></a>8.4.2 DC feeding system</h3><p>直流供电系统</p>
+<h3 id="8-4-2-DC-feeding-system"><a class="header-anchor" href="#8-4-2-DC-feeding-system">¶</a>8.4.2 DC feeding system</h3>
+<p>直流供电系统</p>
 <p>A direct-current feeding system features a three-phase bridged silicon rectifier  for conversion from alternating to direct current.</p>
 <p>直流供电系统的特点是有一个三相桥式硅整流器，用于从交流电转换为直流电。</p>
 <p>Since the three-phase rectifier uses a 6-pulse system, it causes lower harmonics  in the AC side and distortion in the voltage waveform, lowering the power  quality.</p>
@@ -268,7 +327,8 @@
 <p>deceleration ： 减速</p>
 <p>However, the regenerated power would be wasted if there are no cars in the  section to use it.</p>
 <p>但是，如果该路段没有汽车使用，则再生电力将被浪费。</p>
-<p>This loss can be prevented by thyristor rectifiers, thyristor inverters,  thyristor chopper resistors, or simultaneous up and down track<br> feeding systems.</p>
+<p>This loss can be prevented by thyristor rectifiers, thyristor inverters,  thyristor chopper resistors, or simultaneous up and down track<br>
+feeding systems.</p>
 <p>这种损耗可以通过晶闸管整流器、晶闸管逆变器、晶闸管斩波电阻或上下轨道同步供电系统来避免。</p>
 <p>thyristor：晶闸管</p>
 <p>inverter：逆变器</p>
@@ -277,7 +337,8 @@
 <p>这种装置用于某些路段；图4显示了晶闸管逆变器的一个例子。</p>
 <p>In this system, the motive power is supplied from a rectifier, and when the  regenerative power exceeds the motive power requirement, the inverter is  activated automatically to supply power to stations, etc.</p>
 <p>在该系统中，动力由整流器提供，当再生功率超过动力需求时，逆变器自动启动，向电站等供电。</p>
-<h3 id="8-4-3-AC-feeding-system"><a href="#8-4-3-AC-feeding-system" class="headerlink" title="8.4.3 AC feeding system"></a>8.4.3 AC feeding system</h3><p>交流供电系统</p>
+<h3 id="8-4-3-AC-feeding-system"><a class="header-anchor" href="#8-4-3-AC-feeding-system">¶</a>8.4.3 AC feeding system</h3>
+<p>交流供电系统</p>
 <p>Since three-phase power from the power utility is converted to two single  phases, to ensure that the current is as close as possible to the three lines of  the threephase side, one separate phase is fed to each of the overhead up and  down tracks. Various methods can be used to connect the feeding transformers.</p>
 <p>由于来自电力公司的三相电力被转换成两个单相，为了确保电流尽可能接近三相侧的三条线路，一个单独的相被馈送到每个架空轨道的上行和下行。可以使用各种方法连接供电变压器。</p>
 <p>Today, the Scott connected transformer (Fig. 5) is used to receive extra-high  tension, and the modified wood-bridge connected transformer (Fig. 6) is used to  receive extra-high voltage, with the neutral point directly grounded.</p>
@@ -287,11 +348,12 @@
 <p>图7显示了交流供电电路的组成。</p>
 <p>It includes feeding AC sub-stations, sectioning posts for feed sectioning, and  sub-sectioning posts for limited sectioning, all located along the tracks.</p>
 <p>它包括进给交流子站、用于给分段供电的分段站和用于有限切片的子切片柱，所有这些都位于轨道上。（这个不明白！！！）</p>
-<p>The feeding sub-stations feed the two single phases converted from the  three-phase source by a feeding transformer in the opposite track directions,  with a 90° phase offset. </p>
+<p>The feeding sub-stations feed the two single phases converted from the  three-phase source by a feeding transformer in the opposite track directions,  with a 90° phase offset.</p>
 <p>供电子站在相反的轨道方向上通过供电变压器给三相电源转换过的两个相位差为90°的单相电源进行供电。</p>
 <p>Table 2 shows the feeding voltages and the distances between sub-stations of  various AC feeding systems in Japan.</p>
 <p>表2显示了日本各种交流供电系统的供电电压和子站之间的距离。</p>
-<h3 id="8-4-4-BT-feeding-system"><a href="#8-4-4-BT-feeding-system" class="headerlink" title="8.4.4 BT feeding system"></a>8.4.4 BT feeding system</h3>]]></content>
+<h3 id="8-4-4-BT-feeding-system"><a class="header-anchor" href="#8-4-4-BT-feeding-system">¶</a>8.4.4 BT feeding system</h3>
+]]></content>
       <categories>
         <category>英语</category>
       </categories>
@@ -302,23 +364,32 @@
   <entry>
     <title>初次尝试多多指教</title>
     <url>/2021/04/20/%E5%88%9D%E6%AC%A1%E5%B0%9D%E8%AF%95%E8%AF%B7%E5%A4%9A%E5%A4%9A%E6%8C%87%E6%95%99/</url>
-    <content><![CDATA[<h1 id="经济学人翻译10句"><a href="#经济学人翻译10句" class="headerlink" title="经济学人翻译10句"></a>经济学人翻译10句</h1><ol>
-<li><p>Fiona Scott Morton of Yale University, an antitrust expert critical of Google (and an adviser to Apple), notes that the suit does not tackle allegations that Google abuses its market power in digital advertising or the claims that it handicaps potential rivals in specialised searches such as travel.<br>耶鲁大学的反垄断专家Fiona Scott Morton（Apple的顾问）指出，这项诉讼并没有解决谷歌滥用数字广告的市场力量的指控，或者说它阻碍了潜在的竞争对手，如旅游等专业搜索。</p>
+    <content><![CDATA[<h1>经济学人翻译10句</h1>
+<ol>
+<li>
+<p>Fiona Scott Morton of Yale University, an antitrust expert critical of Google (and an adviser to Apple), notes that the suit does not tackle allegations that Google abuses its market power in digital advertising or the claims that it handicaps potential rivals in specialised searches such as travel.<br>
+耶鲁大学的反垄断专家Fiona Scott Morton（Apple的顾问）指出，这项诉讼并没有解决谷歌滥用数字广告的市场力量的指控，或者说它阻碍了潜在的竞争对手，如旅游等专业搜索。</p>
 <p>suit 诉讼</p>
 <p>allegation 指控</p>
 <p>handicap 阻碍</p>
 <p>or 之后为前文的解释说明（百度翻译的好）</p>
 </li>
-<li><p>And she especially attacked the striking down, in 2013, of Section 5 of the Voting Rights Act in Shelby County v Holder, on the supposition that racism had waned enough to discard it.<br>她还特别抨击了2013年谢尔比县诉霍尔德案（Shelby County v Holder）中否决《投票权法》第5条的行为，认为种族主义已经消退到足以抛弃它的程度。</p>
+<li>
+<p>And she especially attacked the striking down, in 2013, of Section 5 of the Voting Rights Act in Shelby County v Holder, on the supposition that racism had waned enough to discard it.<br>
+她还特别抨击了2013年谢尔比县诉霍尔德案（Shelby County v Holder）中否决《投票权法》第5条的行为，认为种族主义已经消退到足以抛弃它的程度。</p>
 <p>the striking down 打击，在此被后面大堆修饰</p>
 <p>on the supposition 本意推断假定之类，在这里释义认为</p>
 <p>wane 减弱，衰退</p>
 </li>
-<li><p>India, Bhutan’s traditional benefactor, did not provide its tiny ally with a full vaccine supply all at once.<br>印度，不丹的传统受惠国，并没有一下子为它的小盟友提供全面的疫苗供应。</p>
+<li>
+<p>India, Bhutan’s traditional benefactor, did not provide its tiny ally with a full vaccine supply all at once.<br>
+印度，不丹的传统受惠国，并没有一下子为它的小盟友提供全面的疫苗供应。</p>
 <p>传统受惠国还行</p>
 <p>benefactor 恩人，捐款人</p>
 </li>
-<li><p>In a series of imaginary missives to Moise, Mr de Waal’s slim new book, “Letters to Camondo”, brings to life the milieu of 19th-century upper-middle-class French Jewry, with its peculiar mix of inner wariness and dynastic chutzpah.<br>在给Moise的一系列虚构的致辞中，de waal先生薄薄的新书《给Camondo的书》，带着内心的谨慎与贵族的朝气独特的杂糅，为我们呈现出了19世纪中上层法国犹太人的生活环境。</p>
+<li>
+<p>In a series of imaginary missives to Moise, Mr de Waal’s slim new book, “Letters to Camondo”, brings to life the milieu of 19th-century upper-middle-class French Jewry, with its peculiar mix of inner wariness and dynastic chutzpah.<br>
+在给Moise的一系列虚构的致辞中，de waal先生薄薄的新书《给Camondo的书》，带着内心的谨慎与贵族的朝气独特的杂糅，为我们呈现出了19世纪中上层法国犹太人的生活环境。</p>
 <p>missive 信函，致辞</p>
 <p>milieu 社会环境，社会背景</p>
 <p>Jewry 犹太人</p>
@@ -326,25 +397,34 @@
 <p>chutzpah 朝气，无所顾忌，敢做敢为</p>
 <p>这个我发现机翻都不咋地，自己尝试翻翻</p>
 </li>
-<li><p>By comparison with such titans, Mr Biden’s spending plans appear more a case of trying to cram in change before the midterms than changing the paradigm.<br>与这些巨头相比，拜登的支出计划似乎更像是试图在中期选举前进行改革，而不是改变模式。</p>
+<li>
+<p>By comparison with such titans, Mr Biden’s spending plans appear more a case of trying to cram in change before the midterms than changing the paradigm.<br>
+与这些巨头相比，拜登的支出计划似乎更像是试图在中期选举前进行改革，而不是改变模式。</p>
 <p>appear 似乎，某些直接翻译成出现，句子意思直接不一样了</p>
 <p>cram in change 翻译为改革</p>
-<p>more .. than 组合的理解显然不对，应该是more在前，更修饰似乎，than在后，意指而不是</p>
+<p>more … than 组合的理解显然不对，应该是more在前，更修饰似乎，than在后，意指而不是</p>
 <p>paradigm 典范，范例，样式，在此为模式</p>
 </li>
-<li><p>That the prince is disenchanted with Jordan’s leaders is hardly a revelation. In 2018 he rebuked the government for mis­managing the public sector and failing to fight corruption.<br>王子对约旦领导人不再抱有幻想，这并不是什么新鲜事。2018年，他指责政府对公共部门管理不当，未能打击腐败。</p>
+<li>
+<p>That the prince is disenchanted with Jordan’s leaders is hardly a revelation. In 2018 he rebuked the government for mis­managing the public sector and failing to fight corruption.<br>
+王子对约旦领导人不再抱有幻想，这并不是什么新鲜事。2018年，他指责政府对公共部门管理不当，未能打击腐败。</p>
 <p>disenchanted 不再着迷的，不再抱幻想的</p>
 <p>revelation 被揭露的真相，解释为新鲜事</p>
 <p>rebuke 指责</p>
 <p>mismanagement 管理不当</p>
 </li>
-<li><p>They would create a new centre a few hundred metres from the existing one, and would loom over the eastern half of the town.<br>他们将在距现有中心几百米的地方新建一个中心，并将在该镇的东半部隐约可见。</p>
+<li>
+<p>They would create a new centre a few hundred metres from the existing one, and would loom over the eastern half of the town.<br>
+他们将在距现有中心几百米的地方新建一个中心，并将在该镇的东半部隐约可见。</p>
 <p>loom over 隐约可见</p>
 <blockquote>
 <p>The new blocks would indeed change the character of Welwyn Garden City. They would create a new centre a few hundred metres from the existing one, and would loom over the eastern half of the town. But the developers have one strong argument. If the inhabitants of Welwyn Garden City do not want tower blocks, they ask, how exactly do they plan to create thousands of new homes?</p>
 </blockquote>
 </li>
-<li><p>“Proliferating Immense Life—A Whole Year per Year”, a digitally projected installation by teamLab, a Japa­nese art collective, is a shimmering cycle of the seasons in which visitors’ hands cause plants to bloom and decay, petals scattering in a balletic display.<br>由日本艺术团体teamLab设计的数码投影装置「繁衍浩瀚的生命－一年一整年」，是四季的闪烁循环，其中游客的手将植物从绽放到腐朽，花瓣在芭蕾舞中散落。<br>proliferating 繁衍</p>
+<li>
+<p>“Proliferating Immense Life—A Whole Year per Year”, a digitally projected installation by teamLab, a Japa­nese art collective, is a shimmering cycle of the seasons in which visitors’ hands cause plants to bloom and decay, petals scattering in a balletic display.<br>
+由日本艺术团体teamLab设计的数码投影装置「繁衍浩瀚的生命－一年一整年」，是四季的闪烁循环，其中游客的手将植物从绽放到腐朽，花瓣在芭蕾舞中散落。<br>
+proliferating 繁衍</p>
 <p>immense 巨大的</p>
 <p>A Whole Year per Year 翻译成一年一整年感觉比较顺</p>
 <p>projected 投影</p>
@@ -352,7 +432,10 @@
 <p>shimmering 闪烁的，发出微弱的闪光</p>
 <p>petal 花瓣</p>
 </li>
-<li><p>As the eu tiptoes in a Hamiltonian direction, it will have to deal<br>with the Calhounian tendency.<br>作为在哈密顿道路上的欧盟翘楚，它将不得不处理少数人政治倾向。</p>
+<li>
+<p>As the eu tiptoes in a Hamiltonian direction, it will have to deal<br>
+with the Calhounian tendency.<br>
+作为在哈密顿道路上的欧盟翘楚，它将不得不处理少数人政治倾向。</p>
 <p>Hamiltonian path 图论术语</p>
 <blockquote>
 <p>由指定的起点前往指定的终点，途中经过所有其他节点且只经过一次。含有图中所有顶点的路径称作哈密顿路径</p>
@@ -360,7 +443,9 @@
 <p>tiptoe 踮起脚尖，在此作名词，翘楚，喻杰出人才</p>
 <p>Calhounian 少数人政治，Calhounian是个人，南北战争年代前后美国政治家，以其维护奴隶制与少数人政治著名</p>
 </li>
-<li><p>The market capitalisation of Sea, another Singapor­ean group that listed in New York in 2017 (and whose name alludes to the shorthand for South-East Asia widely used in the region), has quintupled in the past year, to a mighty $125bn.<br>另一家于在2017年纽约上市的新加坡集团Sea（其名称暗指该地区广泛使用的东南亚简称）的市值在过去一年增加了五倍，高达到1,250亿美元。</p>
+<li>
+<p>The market capitalisation of Sea, another Singapor­ean group that listed in New York in 2017 (and whose name alludes to the shorthand for South-East Asia widely used in the region), has quintupled in the past year, to a mighty $125bn.<br>
+另一家于在2017年纽约上市的新加坡集团Sea（其名称暗指该地区广泛使用的东南亚简称）的市值在过去一年增加了五倍，高达到1,250亿美元。</p>
 <p>capitalisation 市值</p>
 <p>allude 暗指</p>
 <p>quintuple 成为5倍</p>
@@ -378,23 +463,35 @@
   <entry>
     <title>日常在ios/ipados上播放本地音乐(脱离在线播放器)</title>
     <url>/2021/01/30/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8/</url>
-    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>音乐作为现代娱乐生活中的一个部分，在我看来相当重要，而音乐播放软体的选择则令人大费周折，笔者用过网易云，qq音乐，酷狗音乐，apple music， 还有spotify。也经历了从mp3听歌到后来的手机、平板听歌的转变，由于考虑到各方面的因素，首先是歌曲的版权，笔者发现以上播放器的版权无一可以满足笔者对自己喜欢歌曲的需求，尤其是梦想的声音综艺节目上的歌曲在网易云，apple music ，spotify 上均无，而在其他软体上又难以找到笔者已购的独立游戏soundtrack，其次在价格上，国内软体又普遍需要二次购买最新的数字专辑，同样价格也不菲，让本来就不富裕的家庭更是雪上加霜:sob:。</p>
+    <content><![CDATA[<h1>前言</h1>
+<p>音乐作为现代娱乐生活中的一个部分，在我看来相当重要，而音乐播放软体的选择则令人大费周折，笔者用过网易云，qq音乐，酷狗音乐，apple music， 还有spotify。也经历了从mp3听歌到后来的手机、平板听歌的转变，由于考虑到各方面的因素，首先是歌曲的版权，笔者发现以上播放器的版权无一可以满足笔者对自己喜欢歌曲的需求，尤其是梦想的声音综艺节目上的歌曲在网易云，apple music ，spotify 上均无，而在其他软体上又难以找到笔者已购的独立游戏soundtrack，其次在价格上，国内软体又普遍需要二次购买最新的数字专辑，同样价格也不菲，让本来就不富裕的家庭更是雪上加霜😭。</p>
 <p>故而，我选择了先在本地下载然后使用本地播放器的方式进行播放。</p>
-<h1 id="简述"><a href="#简述" class="headerlink" title="简述"></a>简述</h1><p>下载通过酷我音乐破解版windows，上传和播放通过ios/ipados生态下的ever play，即可实现免费听任意歌曲。</p>
-<h1 id="详细内容"><a href="#详细内容" class="headerlink" title="详细内容"></a>详细内容</h1><h2 id="音乐下载器"><a href="#音乐下载器" class="headerlink" title="音乐下载器"></a>音乐下载器</h2><p>酷我音乐破解版windows下载地址：    链接：<a class="link" href="https://pan.baidu.com/s/1MXIpspEHOtW46rbIAeKnmA">https://pan.baidu.com/s/1MXIpspEHOtW46rbIAeKnmA<i class="fas fa-external-link-alt"></i></a><br>                                                            提取码：solo </p>
+<h1>简述</h1>
+<p>下载通过酷我音乐破解版windows，上传和播放通过ios/ipados生态下的ever play，即可实现免费听任意歌曲。</p>
+<h1>详细内容</h1>
+<h2 id="音乐下载器"><a class="header-anchor" href="#音乐下载器">¶</a>音乐下载器</h2>
+<p>酷我音乐破解版windows下载地址：	链接：<a class="link" href="https://pan.baidu.com/s/1MXIpspEHOtW46rbIAeKnmA">https://pan.baidu.com/s/1MXIpspEHOtW46rbIAeKnmA<i class="fas fa-external-link-alt"></i></a><br>
+提取码：solo</p>
 <p>下载完之后安装打开搜索自己喜欢的音乐即可完全免费下载（无需登录）</p>
-<h2 id="音乐播放器"><a href="#音乐播放器" class="headerlink" title="音乐播放器"></a>音乐播放器</h2><h3 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h3><p>ever play下载地址（ios/ipados生态）：链接：<a class="link" href="https://apps.apple.com/cn/app/id1202642773">https://apps.apple.com/cn/app/id1202642773<i class="fas fa-external-link-alt"></i></a></p>
-<h3 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h3><p>ever play是一款免费使用的本地音乐播放软体，其包含付费功能总结就是</p>
+<h2 id="音乐播放器"><a class="header-anchor" href="#音乐播放器">¶</a>音乐播放器</h2>
+<h3 id="下载"><a class="header-anchor" href="#下载">¶</a>下载</h3>
+<p>ever play下载地址（ios/ipados生态）：链接：<a class="link" href="https://apps.apple.com/cn/app/id1202642773">https://apps.apple.com/cn/app/id1202642773<i class="fas fa-external-link-alt"></i></a></p>
+<h3 id="介绍"><a class="header-anchor" href="#介绍">¶</a>介绍</h3>
+<p>ever play是一款免费使用的本地音乐播放软体，其包含付费功能总结就是</p>
 <ol>
 <li>可以播放高清音乐文件（目前还没有使用过该功能，下载的最高音质歌曲也是无法达到该水平的）</li>
 <li>音乐可视化（可以试用，个人感受一般）</li>
 <li>更改专辑封面图片（强迫症可能需要，就像我用过的网易云那样）</li>
 </ol>
-<h3 id="歌曲上传"><a href="#歌曲上传" class="headerlink" title="歌曲上传"></a>歌曲上传</h3><p>有三种上传方式分别是使用电脑iTunes文件共享，AirDrop隔空投送，以及我们接下来单推的Wi-Fi传输。</p>
+<h3 id="歌曲上传"><a class="header-anchor" href="#歌曲上传">¶</a>歌曲上传</h3>
+<p>有三种上传方式分别是使用电脑iTunes文件共享，AirDrop隔空投送，以及我们接下来单推的Wi-Fi传输。</p>
 <ol>
-<li>在ever play 软体中进入设置Wi-Fi传输<br><img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p1.1jnd4h68d0bk.png" alt="p1"></li>
-<li>在同一WiFi的前提下，使用windows浏览器输入以下地址<br><img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p2.3s3dynv303c0.png" alt="p2"></li>
-<li>进入网页后<br><img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p3.372owt8v7bs0.png" alt="p3"></li>
+<li>在ever play 软体中进入设置Wi-Fi传输<br>
+<img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p1.1jnd4h68d0bk.png" alt="p1"></li>
+<li>在同一WiFi的前提下，使用windows浏览器输入以下地址<br>
+<img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p2.3s3dynv303c0.png" alt="p2"></li>
+<li>进入网页后<br>
+<img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p3.372owt8v7bs0.png" alt="p3"></li>
 <li>上传成功之后即可在ios/ipados端听歌了</li>
 </ol>
 ]]></content>
@@ -408,50 +505,84 @@
   <entry>
     <title>电力系统变电站</title>
     <url>/2021/04/05/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%8F%98%E7%94%B5%E6%89%80/</url>
-    <content><![CDATA[<h1 id="电力系统变电站分类"><a href="#电力系统变电站分类" class="headerlink" title="电力系统变电站分类"></a>电力系统变电站分类</h1><h2 id="按地位分"><a href="#按地位分" class="headerlink" title="按地位分"></a>按地位分</h2><h4 id="配图"><a href="#配图" class="headerlink" title="配图"></a>配图</h4><p><img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p1.5cphsl4rhrc0.jpeg" alt="p1"></p>
-<h3 id="枢纽变电所"><a href="#枢纽变电所" class="headerlink" title="枢纽变电所"></a>枢纽变电所</h3><h4 id="作用"><a href="#作用" class="headerlink" title="作用"></a>作用</h4><p>枢纽变电所电压等级高，供电范围广，在系统中处于举足轻重的地位，全所停电后，将引起系统解列，造成大区域停电，甚至造成电力系统瓦解，使社会的运行处于瘫痪状态。</p>
-<h4 id="所处位置"><a href="#所处位置" class="headerlink" title="所处位置"></a>所处位置</h4><p>位于电力系统的枢纽点，连接电力系统中的高压和中压的几个部分， 汇集多个电源。</p>
-<h4 id="常用电压等级"><a href="#常用电压等级" class="headerlink" title="常用电压等级"></a>常用电压等级</h4><p>220kV及以上</p>
+    <content><![CDATA[<h1>电力系统变电站分类</h1>
+<h2 id="按地位分"><a class="header-anchor" href="#按地位分">¶</a>按地位分</h2>
+<h4 id="配图"><a class="header-anchor" href="#配图">¶</a>配图</h4>
+<p><img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p1.5cphsl4rhrc0.jpeg" alt="p1"></p>
+<h3 id="枢纽变电所"><a class="header-anchor" href="#枢纽变电所">¶</a>枢纽变电所</h3>
+<h4 id="作用"><a class="header-anchor" href="#作用">¶</a>作用</h4>
+<p>枢纽变电所电压等级高，供电范围广，在系统中处于举足轻重的地位，全所停电后，将引起系统解列，造成大区域停电，甚至造成电力系统瓦解，使社会的运行处于瘫痪状态。</p>
+<h4 id="所处位置"><a class="header-anchor" href="#所处位置">¶</a>所处位置</h4>
+<p>位于电力系统的枢纽点，连接电力系统中的高压和中压的几个部分， 汇集多个电源。</p>
+<h4 id="常用电压等级"><a class="header-anchor" href="#常用电压等级">¶</a>常用电压等级</h4>
+<p>220kV及以上</p>
 <hr>
-<h3 id="中间变电所"><a href="#中间变电所" class="headerlink" title="中间变电所"></a>中间变电所</h3><h4 id="作用-1"><a href="#作用-1" class="headerlink" title="作用"></a>作用</h4><p>该变电所以交换潮流为主，起系统功率交换的作用，或使长距离输电 线路分段， 一般汇集 2～3 个电源， 同时有降压给当地用户供电， 这样的变电所全所停电后， 将引起区域网络的解列，造成大面积停电。</p>
-<h4 id="所处位置-1"><a href="#所处位置-1" class="headerlink" title="所处位置"></a>所处位置</h4><p>位于系统主干环行线路或系统主要干线的接口处。</p>
-<h4 id="常用电压等级-1"><a href="#常用电压等级-1" class="headerlink" title="常用电压等级"></a>常用电压等级</h4><p>电压等级一般为330～220kV</p>
+<h3 id="中间变电所"><a class="header-anchor" href="#中间变电所">¶</a>中间变电所</h3>
+<h4 id="作用-v2"><a class="header-anchor" href="#作用-v2">¶</a>作用</h4>
+<p>该变电所以交换潮流为主，起系统功率交换的作用，或使长距离输电 线路分段， 一般汇集 2～3 个电源， 同时有降压给当地用户供电， 这样的变电所全所停电后， 将引起区域网络的解列，造成大面积停电。</p>
+<h4 id="所处位置-v2"><a class="header-anchor" href="#所处位置-v2">¶</a>所处位置</h4>
+<p>位于系统主干环行线路或系统主要干线的接口处。</p>
+<h4 id="常用电压等级-v2"><a class="header-anchor" href="#常用电压等级-v2">¶</a>常用电压等级</h4>
+<p>电压等级一般为330～220kV</p>
 <hr>
-<h3 id="地区变电所"><a href="#地区变电所" class="headerlink" title="地区变电所"></a>地区变电所</h3><h4 id="作用-2"><a href="#作用-2" class="headerlink" title="作用"></a>作用</h4><p>高压侧一般为 220~110 干伏，它是对地区用户供电为主的变电所，全所停电后，将使地区中断电源。</p>
-<h4 id="所处位置-2"><a href="#所处位置-2" class="headerlink" title="所处位置"></a>所处位置</h4><p>将远处的高压电力转送到较远的负荷中心，还同时降压后向当地和邻近地区供电。在电网高电压的变电站中，除少数地区为枢纽变电站外，其余均为区域变电站。</p>
-<h4 id="常用电压等级-2"><a href="#常用电压等级-2" class="headerlink" title="常用电压等级"></a>常用电压等级</h4><p>35kV及以上330kV以下</p>
+<h3 id="地区变电所"><a class="header-anchor" href="#地区变电所">¶</a>地区变电所</h3>
+<h4 id="作用-v3"><a class="header-anchor" href="#作用-v3">¶</a>作用</h4>
+<p>高压侧一般为 220~110 干伏，它是对地区用户供电为主的变电所，全所停电后，将使地区中断电源。</p>
+<h4 id="所处位置-v3"><a class="header-anchor" href="#所处位置-v3">¶</a>所处位置</h4>
+<p>将远处的高压电力转送到较远的负荷中心，还同时降压后向当地和邻近地区供电。在电网高电压的变电站中，除少数地区为枢纽变电站外，其余均为区域变电站。</p>
+<h4 id="常用电压等级-v3"><a class="header-anchor" href="#常用电压等级-v3">¶</a>常用电压等级</h4>
+<p>35kV及以上330kV以下</p>
 <hr>
-<h3 id="终端变电所"><a href="#终端变电所" class="headerlink" title="终端变电所"></a>终端变电所</h3><h4 id="作用-3"><a href="#作用-3" class="headerlink" title="作用"></a>作用</h4><p>经降压后直接给用户供电。终端变电所全所停电后，将使用户中断电源。终端变电站是单独建造的终端变电所，是用电单位或者用户前端的第一个变电站，终端变电站出来的电直接供给用户用电设备使用，而不需再次经过变电站变压。</p>
-<h4 id="所处位置-3"><a href="#所处位置-3" class="headerlink" title="所处位置"></a>所处位置</h4><p>处于输电线路的终端，接近负荷点。</p>
-<h4 id="常用电压等级-3"><a href="#常用电压等级-3" class="headerlink" title="常用电压等级"></a>常用电压等级</h4><p>高压侧一般为 35~110 kV，10kV/0.4kV的变压器并不算终端变电站，其属于配电变压器。</p>
+<h3 id="终端变电所"><a class="header-anchor" href="#终端变电所">¶</a>终端变电所</h3>
+<h4 id="作用-v4"><a class="header-anchor" href="#作用-v4">¶</a>作用</h4>
+<p>经降压后直接给用户供电。终端变电所全所停电后，将使用户中断电源。终端变电站是单独建造的终端变电所，是用电单位或者用户前端的第一个变电站，终端变电站出来的电直接供给用户用电设备使用，而不需再次经过变电站变压。</p>
+<h4 id="所处位置-v4"><a class="header-anchor" href="#所处位置-v4">¶</a>所处位置</h4>
+<p>处于输电线路的终端，接近负荷点。</p>
+<h4 id="常用电压等级-v4"><a class="header-anchor" href="#常用电压等级-v4">¶</a>常用电压等级</h4>
+<p>高压侧一般为 35~110 kV，10kV/0.4kV的变压器并不算终端变电站，其属于配电变压器。</p>
 <hr>
-<h2 id="工厂企业内部的车间变电所"><a href="#工厂企业内部的车间变电所" class="headerlink" title="工厂企业内部的车间变电所"></a>工厂企业内部的车间变电所</h2><h4 id="配图-1"><a href="#配图-1" class="headerlink" title="配图"></a>配图</h4><p><img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p2.7hpint4z9cg.png" alt="p2"></p>
-<h4 id="露天变电所"><a href="#露天变电所" class="headerlink" title="露天变电所"></a>露天变电所</h4><p>变压器位于露天地面之上的变电所</p>
-<h4 id="半露天变电所"><a href="#半露天变电所" class="headerlink" title="半露天变电所"></a>半露天变电所</h4><p>变压器位于露天地面之上的变电所，但变压器上方有顶板或挑檐</p>
-<h4 id="附设变电所"><a href="#附设变电所" class="headerlink" title="附设变电所"></a>附设变电所</h4><p>变电所的一面或数面墙与建筑物的墙共用，且变压器室的门和通风窗向建筑物外开</p>
-<h4 id="车间内变电所"><a href="#车间内变电所" class="headerlink" title="车间内变电所"></a>车间内变电所</h4><p>位于车间内部的变电所，且变压器室的门向车间内开</p>
-<h4 id="独立变电所"><a href="#独立变电所" class="headerlink" title="独立变电所"></a>独立变电所</h4><p>为一独立建筑物</p>
-<h4 id="室内变电所"><a href="#室内变电所" class="headerlink" title="室内变电所"></a>室内变电所</h4><p>附设变电所，独立变电所和车间内变电所的总称</p>
-<h2 id="按照用途分"><a href="#按照用途分" class="headerlink" title="按照用途分"></a>按照用途分</h2><ol>
+<h2 id="工厂企业内部的车间变电所"><a class="header-anchor" href="#工厂企业内部的车间变电所">¶</a>工厂企业内部的车间变电所</h2>
+<h4 id="配图-v2"><a class="header-anchor" href="#配图-v2">¶</a>配图</h4>
+<p><img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p2.7hpint4z9cg.png" alt="p2"></p>
+<h4 id="露天变电所"><a class="header-anchor" href="#露天变电所">¶</a>露天变电所</h4>
+<p>变压器位于露天地面之上的变电所</p>
+<h4 id="半露天变电所"><a class="header-anchor" href="#半露天变电所">¶</a>半露天变电所</h4>
+<p>变压器位于露天地面之上的变电所，但变压器上方有顶板或挑檐</p>
+<h4 id="附设变电所"><a class="header-anchor" href="#附设变电所">¶</a>附设变电所</h4>
+<p>变电所的一面或数面墙与建筑物的墙共用，且变压器室的门和通风窗向建筑物外开</p>
+<h4 id="车间内变电所"><a class="header-anchor" href="#车间内变电所">¶</a>车间内变电所</h4>
+<p>位于车间内部的变电所，且变压器室的门向车间内开</p>
+<h4 id="独立变电所"><a class="header-anchor" href="#独立变电所">¶</a>独立变电所</h4>
+<p>为一独立建筑物</p>
+<h4 id="室内变电所"><a class="header-anchor" href="#室内变电所">¶</a>室内变电所</h4>
+<p>附设变电所，独立变电所和车间内变电所的总称</p>
+<h2 id="按照用途分"><a class="header-anchor" href="#按照用途分">¶</a>按照用途分</h2>
+<ol>
 <li>升压变电所</li>
 <li>降压变电所</li>
 </ol>
 <hr>
-<h2 id="按照控制操作方式分"><a href="#按照控制操作方式分" class="headerlink" title="按照控制操作方式分"></a>按照控制操作方式分</h2><ol>
+<h2 id="按照控制操作方式分"><a class="header-anchor" href="#按照控制操作方式分">¶</a>按照控制操作方式分</h2>
+<ol>
 <li>有人值班变电所</li>
 <li>无人值班变电所</li>
 </ol>
 <hr>
-<h2 id="按照结构形式分"><a href="#按照结构形式分" class="headerlink" title="按照结构形式分"></a>按照结构形式分</h2><ol>
-<li><p>室外变电所</p>
+<h2 id="按照结构形式分"><a class="header-anchor" href="#按照结构形式分">¶</a>按照结构形式分</h2>
+<ol>
+<li>
+<p>室外变电所</p>
 </li>
-<li><p>室内变电所</p>
+<li>
+<p>室内变电所</p>
 </li>
-<li><p>箱式变电所</p>
+<li>
+<p>箱式变电所</p>
 <hr>
 </li>
 </ol>
-<h2 id="按照地理条件分"><a href="#按照地理条件分" class="headerlink" title="按照地理条件分"></a>按照地理条件分</h2><ol>
+<h2 id="按照地理条件分"><a class="header-anchor" href="#按照地理条件分">¶</a>按照地理条件分</h2>
+<ol>
 <li>地上变电所</li>
 <li>地下变电所</li>
 </ol>
@@ -464,38 +595,73 @@
       </tags>
   </entry>
   <entry>
-    <title>第一天复习python</title>
-    <url>/2021/01/16/%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%A4%8D%E4%B9%A0python/</url>
-    <content><![CDATA[<h3 id="重新下载pycharm"><a href="#重新下载pycharm" class="headerlink" title="重新下载pycharm"></a>重新下载pycharm</h3><p>对pycharm进行一些设置</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># -*- coding =utf-8 -*-</span></span><br><span class="line"><span class="comment"># @time : 2021/1/16 1:51</span></span><br><span class="line"><span class="comment"># @Author : Rov</span></span><br><span class="line"><span class="comment"># @File : co1.py</span></span><br><span class="line"><span class="comment"># @Software : PyCharm</span></span><br></pre></td></tr></table></figure>
-<h3 id="简单输出"><a href="#简单输出" class="headerlink" title="简单输出"></a>简单输出</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;hello world!&quot;</span>)</span><br><span class="line">a = <span class="number">10</span></span><br><span class="line">print(<span class="string">&quot;这是一个变量&quot;</span>,a)</span><br></pre></td></tr></table></figure>
-<h3 id="关键字"><a href="#关键字" class="headerlink" title="关键字"></a>关键字</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">keyword.kwlist</span><br><span class="line">[<span class="string">&#x27;False&#x27;</span>, <span class="string">&#x27;None&#x27;</span>, <span class="string">&#x27;True&#x27;</span>, <span class="string">&#x27;__peg_parser__&#x27;</span>, <span class="string">&#x27;and&#x27;</span>, <span class="string">&#x27;as&#x27;</span>, <span class="string">&#x27;assert&#x27;</span>, <span class="string">&#x27;async&#x27;</span>, <span class="string">&#x27;await&#x27;</span>, <span class="string">&#x27;break&#x27;</span>, <span class="string">&#x27;class&#x27;</span>, <span class="string">&#x27;continue&#x27;</span>, <span class="string">&#x27;def&#x27;</span>, <span class="string">&#x27;del&#x27;</span>, <span class="string">&#x27;elif&#x27;</span>, <span class="string">&#x27;else&#x27;</span>, <span class="string">&#x27;except&#x27;</span>, <span class="string">&#x27;finally&#x27;</span>, <span class="string">&#x27;for&#x27;</span>, <span class="string">&#x27;from&#x27;</span>, <span class="string">&#x27;global&#x27;</span>, <span class="string">&#x27;if&#x27;</span>, <span class="string">&#x27;import&#x27;</span>, <span class="string">&#x27;in&#x27;</span>, <span class="string">&#x27;is&#x27;</span>, <span class="string">&#x27;lambda&#x27;</span>, <span class="string">&#x27;nonlocal&#x27;</span>, <span class="string">&#x27;not&#x27;</span>, <span class="string">&#x27;or&#x27;</span>, <span class="string">&#x27;pass&#x27;</span>, <span class="string">&#x27;raise&#x27;</span>, <span class="string">&#x27;return&#x27;</span>, <span class="string">&#x27;try&#x27;</span>, <span class="string">&#x27;while&#x27;</span>, <span class="string">&#x27;with&#x27;</span>, <span class="string">&#x27;yield&#x27;</span>]</span><br></pre></td></tr></table></figure>
-<h3 id="输出传值"><a href="#输出传值" class="headerlink" title="输出传值"></a>输出传值</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">age = <span class="number">18</span></span><br><span class="line">print(<span class="string">&quot;我的年纪是:%d岁&quot;</span>%age)</span><br></pre></td></tr></table></figure>
-<p>%d %s很关键（s是字符串）</p>
-<h3 id="格式化输出"><a href="#格式化输出" class="headerlink" title="格式化输出"></a>格式化输出</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;我的名字是%s,我的国籍是%s&quot;</span>%(<span class="string">&quot;小张&quot;</span>,<span class="string">&quot;中国&quot;</span>))</span><br></pre></td></tr></table></figure>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;www&quot;</span>,<span class="string">&quot;baidu&quot;</span>,<span class="string">&quot;com&quot;</span>,sep=<span class="string">&quot;.&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;hello&quot;</span>,end=<span class="string">&quot;&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;world&quot;</span>,end=<span class="string">&quot;\t&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;python&quot;</span>,end=<span class="string">&quot;\n&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;end&quot;</span>)</span><br></pre></td></tr></table></figure>
-<h3 id="输入"><a href="#输入" class="headerlink" title="输入"></a>输入</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a=<span class="built_in">input</span>(<span class="string">&quot;输入：&quot;</span>)</span><br><span class="line">print(<span class="built_in">type</span>(a))</span><br></pre></td></tr></table></figure>
-<p>无论是什么都是字符串</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">&lt;<span class="class"><span class="keyword">class</span> &#x27;<span class="title">str</span>&#x27;&gt;</span></span><br></pre></td></tr></table></figure>
-<h3 id="转化"><a href="#转化" class="headerlink" title="转化"></a>转化</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a=<span class="built_in">int</span>(<span class="string">&quot;123&quot;</span>)</span><br><span class="line">b=a+<span class="number">100</span></span><br><span class="line">print(b)</span><br></pre></td></tr></table></figure>
-<h3 id="运算符"><a href="#运算符" class="headerlink" title="运算符"></a>运算符</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">+ - * / %</span><br><span class="line">== %等于</span><br><span class="line">!= %不等</span><br></pre></td></tr></table></figure>
-<h3 id="逻辑运算符"><a href="#逻辑运算符" class="headerlink" title="逻辑运算符"></a>逻辑运算符</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">and</span> <span class="keyword">or</span> <span class="keyword">not</span> </span><br><span class="line"><span class="keyword">in</span> /<span class="keyword">not</span> <span class="keyword">in</span> </span><br></pre></td></tr></table></figure>
-<h3 id="判断语句"><a href="#判断语句" class="headerlink" title="判断语句"></a>判断语句</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> 判断条件<span class="number">1</span> :</span><br><span class="line">	执行语句<span class="number">1</span></span><br><span class="line"><span class="keyword">elif</span> 判断语句<span class="number">2</span> :</span><br><span class="line">	执行语句<span class="number">2</span></span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">	执行语句<span class="number">3</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>
-<p><strong><em>后面的冒号很关键!!!</em></strong></p>
+    <title>第二天复习python</title>
+    <url>/2021/01/17/%E7%AC%AC%E4%BA%8C%E5%A4%A9%E5%A4%8D%E4%B9%A0python/</url>
+    <content><![CDATA[<h2 id="字符串"><a class="header-anchor" href="#字符串">¶</a>字符串</h2>
+<h3 id="表达方式"><a class="header-anchor" href="#表达方式">¶</a>表达方式</h3>
+<ol>
+<li>
+<p>单引号</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">word = <span class="string">&#x27;字符串&#x27;</span></span><br><span class="line">print(word)</span><br></pre></td></tr></table></figure>
+</li>
+<li>
+<p>双引号</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">sentence =<span class="string">&quot;这是一个句子&quot;</span></span><br><span class="line">print(sentence)</span><br></pre></td></tr></table></figure>
+</li>
+<li>
+<p>三引号</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">paragraphs =<span class="string">&#x27;&#x27;&#x27;</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">        起飞</span></span><br><span class="line"><span class="string">&#x27;&#x27;&#x27;</span></span><br><span class="line">print(paragraphs)<span class="comment">#自动识别制表符空格回车</span></span><br></pre></td></tr></table></figure>
+</li>
+</ol>
+<hr>
+<h3 id="转义字符"><a class="header-anchor" href="#转义字符">¶</a>转义字符</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">my_str =<span class="string">&#x27;I\&#x27;m a student&#x27;</span></span><br><span class="line">print(my_str)</span><br><span class="line">my_str =<span class="string">&quot;Jason said \&quot; I like you \&quot;&quot;</span></span><br><span class="line">print(my_str)</span><br></pre></td></tr></table></figure>
 <blockquote>
-<p>ezpz</p>
+<p>\n \t \&quot; \’</p>
 </blockquote>
-<h3 id="随机数"><a href="#随机数" class="headerlink" title="随机数"></a>随机数</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> random</span><br><span class="line"></span><br><span class="line">x= random.randint(<span class="number">0</span>,<span class="number">2</span>)</span><br><span class="line">print(x)</span><br><span class="line">print(random.uniform(<span class="number">0</span>,<span class="number">2</span>))</span><br></pre></td></tr></table></figure>
-<p>randint：整数</p>
-<p>uniform：小数</p>
-<h3 id="循环语句"><a href="#循环语句" class="headerlink" title="循环语句"></a>循环语句</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">5</span>):</span><br><span class="line">	print(i)</span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">0</span>,<span class="number">10</span>,<span class="number">3</span>):</span><br><span class="line">	print(i)</span><br></pre></td></tr></table></figure>
-<p>如果是</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(a,b)</span><br><span class="line">	print(i)</span><br></pre></td></tr></table></figure>
-<p>则其范围为a~b-1</p>
-<p><strong>对于字符串</strong></p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">name =<span class="string">&quot;be nice&quot;</span></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> name:</span><br><span class="line">    print(i,end=<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
-<p><strong>while</strong></p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">while</span> i&lt;<span class="number">5</span>:</span><br><span class="line">    print(<span class="string">&quot;nice play!&quot;</span>)</span><br><span class="line">    print(<span class="string">&quot;i=%d&quot;</span>%i)</span><br><span class="line">    i+=<span class="number">1</span></span><br><span class="line">print(<span class="string">&quot;pass&quot;</span>)</span><br></pre></td></tr></table></figure>]]></content>
+<h3 id="5种输出方式"><a class="header-anchor" href="#5种输出方式">¶</a>5种输出方式</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">str</span>=<span class="string">&quot;chengdu&quot;</span></span><br><span class="line">print(<span class="built_in">str</span>[<span class="number">0</span>])<span class="comment">#单个</span></span><br><span class="line">print(<span class="built_in">str</span>[<span class="number">0</span>:<span class="number">6</span>])<span class="comment">#0~5</span></span><br><span class="line">print(<span class="built_in">str</span>[<span class="number">1</span>:<span class="number">7</span>:<span class="number">2</span>])<span class="comment">#1~6（隔2）</span></span><br><span class="line">print(<span class="built_in">str</span>[<span class="number">5</span>:])<span class="comment">#后面全部</span></span><br><span class="line">print(<span class="built_in">str</span>[:<span class="number">5</span>])<span class="comment">#前面全部</span></span><br></pre></td></tr></table></figure>
+<h3 id="较为特殊"><a class="header-anchor" href="#较为特殊">¶</a>较为特殊</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="built_in">str</span> + <span class="string">&quot;,你好&quot;</span>)</span><br><span class="line">print((<span class="built_in">str</span> +<span class="string">&#x27;\t&#x27;</span>)* <span class="number">3</span>)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">print(<span class="string">r&quot;hello\nchengdu&quot;</span>) <span class="comment">#r的作用</span></span><br></pre></td></tr></table></figure>
+<p>$$<br>
+easypeasy!<br>
+$$</p>
+<hr>
+<hr>
+<hr>
+<h2 id="列表"><a class="header-anchor" href="#列表">¶</a>列表</h2>
+<h3 id="表达方式-v2"><a class="header-anchor" href="#表达方式-v2">¶</a>表达方式</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">namelist =[]</span><br><span class="line">namelist =[<span class="string">&quot;小张&quot;</span>,<span class="string">&quot;小王&quot;</span>,<span class="string">&quot;小李&quot;</span>]</span><br><span class="line">print(namelist[<span class="number">0</span>])</span><br><span class="line">testlist =[<span class="number">1</span>,<span class="string">&quot;测试&quot;</span>]</span><br><span class="line">print(<span class="built_in">type</span>(testlist[<span class="number">0</span>]))</span><br><span class="line">print(<span class="built_in">type</span>(testlist[<span class="number">1</span>]))</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> name <span class="keyword">in</span> namelist:</span><br><span class="line">    print(name)</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">0</span>,<span class="built_in">len</span>(namelist)):</span><br><span class="line">    print(namelist[i])</span><br></pre></td></tr></table></figure>
+<h3 id="增加"><a class="header-anchor" href="#增加">¶</a>增加</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;---增加前，名单列表的数据&quot;</span>)</span><br><span class="line"><span class="keyword">for</span> name <span class="keyword">in</span> namelist:</span><br><span class="line">    print(name)</span><br><span class="line">nametemp= <span class="built_in">input</span>(<span class="string">&quot;&quot;</span>)</span><br><span class="line">namelist.append(nametemp)</span><br><span class="line"><span class="keyword">for</span> name <span class="keyword">in</span> namelist:</span><br><span class="line">    print(name)</span><br><span class="line">a=[<span class="number">1</span>,<span class="number">2</span>]</span><br><span class="line">b=[<span class="number">3</span>,<span class="number">4</span>]</span><br><span class="line">a.append(b)<span class="comment">#直接在a列表增加一个列表</span></span><br><span class="line">print(a)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a.extend(b)<span class="comment">#把b分解为单个然后加入a</span></span><br><span class="line">print(a)</span><br></pre></td></tr></table></figure>
+<h3 id="插入"><a class="header-anchor" href="#插入">¶</a>插入</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a=[<span class="number">0</span>, <span class="number">1</span> ,<span class="number">2</span>]</span><br><span class="line">a.insert(<span class="number">1</span>,<span class="number">3</span>)<span class="comment">#在1顺序插入3</span></span><br><span class="line">print(a)</span><br></pre></td></tr></table></figure>
+<h3 id="删除"><a class="header-anchor" href="#删除">¶</a>删除</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">moviename =[<span class="string">&quot;theendoffuckingworld&quot;</span>,<span class="string">&quot;the ring of king&quot;</span>,<span class="string">&quot;furious &amp; fast&quot;</span>]</span><br><span class="line">print(moviename)</span><br><span class="line"><span class="keyword">del</span> moviename[<span class="number">2</span>]<span class="comment">#指定删除</span></span><br><span class="line">print(moviename)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">moviename.pop()<span class="comment">#弹栈最后的元素</span></span><br><span class="line">print(moviename)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">moviename.remove(<span class="string">&quot;theendoffuckingworld&quot;</span>)<span class="comment">#遍历删除</span></span><br><span class="line">print(moviename)</span><br><span class="line">moviename=[<span class="string">&quot;theendoffuckingworld&quot;</span>,<span class="string">&quot;the ring of king&quot;</span>,<span class="string">&quot;the ring of king&quot;</span>,<span class="string">&quot;furious &amp; fast&quot;</span>]</span><br><span class="line">print(moviename)</span><br><span class="line">moviename.remove(<span class="string">&quot;the ring of king&quot;</span>)<span class="comment">#遍历删除</span></span><br><span class="line">print(moviename)</span><br></pre></td></tr></table></figure>
+<h3 id="修改"><a class="header-anchor" href="#修改">¶</a>修改</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">moviename[<span class="number">1</span>]=<span class="string">&quot;wuhu&quot;</span></span><br><span class="line">print(moviename)</span><br></pre></td></tr></table></figure>
+<h3 id="查找"><a class="header-anchor" href="#查找">¶</a>查找</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> <span class="string">&quot;wuhu&quot;</span> <span class="keyword">in</span> moviename:</span><br><span class="line">    print(<span class="string">&quot;1&quot;</span>)</span><br><span class="line"><span class="keyword">else</span> :</span><br><span class="line">    print(<span class="string">&quot;0&quot;</span>)</span><br></pre></td></tr></table></figure>
+<h3 id="精确查找"><a class="header-anchor" href="#精确查找">¶</a>精确查找</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a= [<span class="string">&quot;a&quot;</span>,<span class="string">&quot;b&quot;</span>,<span class="string">&quot;c&quot;</span>,<span class="string">&quot;a&quot;</span>,<span class="string">&quot;b&quot;</span>]</span><br><span class="line">print(a.index(<span class="string">&quot;a&quot;</span>,<span class="number">1</span>,<span class="number">4</span>))<span class="comment"># 1~4范围内查找且左闭右开[1,4)</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">0</span>,<span class="number">3</span>): <span class="comment">#[0,3)</span></span><br><span class="line">    print(a[i])</span><br></pre></td></tr></table></figure>
+<h3 id="计数"><a class="header-anchor" href="#计数">¶</a>计数</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(a.count(<span class="string">&quot;b&quot;</span>))</span><br></pre></td></tr></table></figure>
+<h3 id="反转"><a class="header-anchor" href="#反转">¶</a>反转</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a.reverse()</span><br><span class="line">print(a)</span><br></pre></td></tr></table></figure>
+<h3 id="排序"><a class="header-anchor" href="#排序">¶</a>排序</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a.sort()<span class="comment">#升序</span></span><br><span class="line">print(a)</span><br><span class="line">a.sort(reverse=<span class="literal">True</span>)<span class="comment">#降序</span></span><br><span class="line">print(a)</span><br></pre></td></tr></table></figure>
+<h3 id="类似于嵌套"><a class="header-anchor" href="#类似于嵌套">¶</a>类似于嵌套</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">schoolname=[[<span class="string">&quot;1&quot;</span>,<span class="string">&quot;2&quot;</span>],[],[]]</span><br><span class="line">print(schoolname[<span class="number">0</span>][<span class="number">1</span>])</span><br></pre></td></tr></table></figure>
+<h3 id="实例（办公室选人）"><a class="header-anchor" href="#实例（办公室选人）">¶</a>实例（办公室选人）</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> random</span><br><span class="line">print(random.randint(<span class="number">1</span>,<span class="number">3</span>))</span><br><span class="line"></span><br><span class="line">offices =[[],[],[]]</span><br><span class="line">names=[<span class="string">&quot;a&quot;</span>,<span class="string">&quot;b&quot;</span>,<span class="string">&quot;c&quot;</span>,<span class="string">&quot;d&quot;</span>,<span class="string">&quot;e&quot;</span>,<span class="string">&quot;f&quot;</span>,<span class="string">&quot;g&quot;</span>]</span><br><span class="line"><span class="keyword">for</span> name <span class="keyword">in</span> names:</span><br><span class="line">    index = random.randint(<span class="number">0</span>,<span class="number">2</span>)</span><br><span class="line">    offices[index].append(name)</span><br><span class="line">i = <span class="number">1</span></span><br><span class="line"><span class="keyword">for</span> office <span class="keyword">in</span> offices:</span><br><span class="line">    print(<span class="string">&quot;办公室%d人数为：%d&quot;</span>%(i,<span class="built_in">len</span>(office)))</span><br><span class="line">    i+=<span class="number">1</span></span><br><span class="line">    <span class="keyword">for</span> name <span class="keyword">in</span> office:</span><br><span class="line">        print(<span class="string">&quot;%s&quot;</span>%name,end=<span class="string">&quot;\t&quot;</span>)</span><br><span class="line">    print(<span class="string">&quot;\n&quot;</span>)</span><br><span class="line">    print(<span class="string">&quot;-&quot;</span>*<span class="number">20</span>)</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>输出的%d要注意一一对应</p>
+<p>否则会出现TypeError: not all arguments converted during string formatting的低级问题</p>
+</blockquote>
+]]></content>
       <categories>
         <category>爬虫</category>
       </categories>
@@ -504,48 +670,50 @@
       </tags>
   </entry>
   <entry>
-    <title>第二天复习python</title>
-    <url>/2021/01/17/%E7%AC%AC%E4%BA%8C%E5%A4%A9%E5%A4%8D%E4%B9%A0python/</url>
-    <content><![CDATA[<h2 id="字符串"><a href="#字符串" class="headerlink" title="字符串"></a>字符串</h2><h3 id="表达方式"><a href="#表达方式" class="headerlink" title="表达方式"></a>表达方式</h3><ol>
-<li><p>单引号</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">word = <span class="string">&#x27;字符串&#x27;</span></span><br><span class="line">print(word)</span><br></pre></td></tr></table></figure></li>
-<li><p>双引号</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">sentence =<span class="string">&quot;这是一个句子&quot;</span></span><br><span class="line">print(sentence)</span><br></pre></td></tr></table></figure></li>
-<li><p>三引号</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">paragraphs =<span class="string">&#x27;&#x27;&#x27;</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">        起飞</span></span><br><span class="line"><span class="string">&#x27;&#x27;&#x27;</span></span><br><span class="line">print(paragraphs)<span class="comment">#自动识别制表符空格回车</span></span><br></pre></td></tr></table></figure>
-</li>
-</ol>
-<hr>
-<h3 id="转义字符"><a href="#转义字符" class="headerlink" title="转义字符"></a>转义字符</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">my_str =<span class="string">&#x27;I\&#x27;m a student&#x27;</span></span><br><span class="line">print(my_str)</span><br><span class="line">my_str =<span class="string">&quot;Jason said \&quot; I like you \&quot;&quot;</span></span><br><span class="line">print(my_str)</span><br></pre></td></tr></table></figure>
+    <title>第一天复习python</title>
+    <url>/2021/01/16/%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%A4%8D%E4%B9%A0python/</url>
+    <content><![CDATA[<h3 id="重新下载pycharm"><a class="header-anchor" href="#重新下载pycharm">¶</a>重新下载pycharm</h3>
+<p>对pycharm进行一些设置</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># -*- coding =utf-8 -*-</span></span><br><span class="line"><span class="comment"># @time : 2021/1/16 1:51</span></span><br><span class="line"><span class="comment"># @Author : Rov</span></span><br><span class="line"><span class="comment"># @File : co1.py</span></span><br><span class="line"><span class="comment"># @Software : PyCharm</span></span><br></pre></td></tr></table></figure>
+<h3 id="简单输出"><a class="header-anchor" href="#简单输出">¶</a>简单输出</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;hello world!&quot;</span>)</span><br><span class="line">a = <span class="number">10</span></span><br><span class="line">print(<span class="string">&quot;这是一个变量&quot;</span>,a)</span><br></pre></td></tr></table></figure>
+<h3 id="关键字"><a class="header-anchor" href="#关键字">¶</a>关键字</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">keyword.kwlist</span><br><span class="line">[<span class="string">&#x27;False&#x27;</span>, <span class="string">&#x27;None&#x27;</span>, <span class="string">&#x27;True&#x27;</span>, <span class="string">&#x27;__peg_parser__&#x27;</span>, <span class="string">&#x27;and&#x27;</span>, <span class="string">&#x27;as&#x27;</span>, <span class="string">&#x27;assert&#x27;</span>, <span class="string">&#x27;async&#x27;</span>, <span class="string">&#x27;await&#x27;</span>, <span class="string">&#x27;break&#x27;</span>, <span class="string">&#x27;class&#x27;</span>, <span class="string">&#x27;continue&#x27;</span>, <span class="string">&#x27;def&#x27;</span>, <span class="string">&#x27;del&#x27;</span>, <span class="string">&#x27;elif&#x27;</span>, <span class="string">&#x27;else&#x27;</span>, <span class="string">&#x27;except&#x27;</span>, <span class="string">&#x27;finally&#x27;</span>, <span class="string">&#x27;for&#x27;</span>, <span class="string">&#x27;from&#x27;</span>, <span class="string">&#x27;global&#x27;</span>, <span class="string">&#x27;if&#x27;</span>, <span class="string">&#x27;import&#x27;</span>, <span class="string">&#x27;in&#x27;</span>, <span class="string">&#x27;is&#x27;</span>, <span class="string">&#x27;lambda&#x27;</span>, <span class="string">&#x27;nonlocal&#x27;</span>, <span class="string">&#x27;not&#x27;</span>, <span class="string">&#x27;or&#x27;</span>, <span class="string">&#x27;pass&#x27;</span>, <span class="string">&#x27;raise&#x27;</span>, <span class="string">&#x27;return&#x27;</span>, <span class="string">&#x27;try&#x27;</span>, <span class="string">&#x27;while&#x27;</span>, <span class="string">&#x27;with&#x27;</span>, <span class="string">&#x27;yield&#x27;</span>]</span><br></pre></td></tr></table></figure>
+<h3 id="输出传值"><a class="header-anchor" href="#输出传值">¶</a>输出传值</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">age = <span class="number">18</span></span><br><span class="line">print(<span class="string">&quot;我的年纪是:%d岁&quot;</span>%age)</span><br></pre></td></tr></table></figure>
+<p>%d %s很关键（s是字符串）</p>
+<h3 id="格式化输出"><a class="header-anchor" href="#格式化输出">¶</a>格式化输出</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;我的名字是%s,我的国籍是%s&quot;</span>%(<span class="string">&quot;小张&quot;</span>,<span class="string">&quot;中国&quot;</span>))</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;www&quot;</span>,<span class="string">&quot;baidu&quot;</span>,<span class="string">&quot;com&quot;</span>,sep=<span class="string">&quot;.&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;hello&quot;</span>,end=<span class="string">&quot;&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;world&quot;</span>,end=<span class="string">&quot;\t&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;python&quot;</span>,end=<span class="string">&quot;\n&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;end&quot;</span>)</span><br></pre></td></tr></table></figure>
+<h3 id="输入"><a class="header-anchor" href="#输入">¶</a>输入</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a=<span class="built_in">input</span>(<span class="string">&quot;输入：&quot;</span>)</span><br><span class="line">print(<span class="built_in">type</span>(a))</span><br></pre></td></tr></table></figure>
+<p>无论是什么都是字符串</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">&lt;<span class="class"><span class="keyword">class</span> &#x27;<span class="title">str</span>&#x27;&gt;</span></span><br></pre></td></tr></table></figure>
+<h3 id="转化"><a class="header-anchor" href="#转化">¶</a>转化</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a=<span class="built_in">int</span>(<span class="string">&quot;123&quot;</span>)</span><br><span class="line">b=a+<span class="number">100</span></span><br><span class="line">print(b)</span><br></pre></td></tr></table></figure>
+<h3 id="运算符"><a class="header-anchor" href="#运算符">¶</a>运算符</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">+ - * / %</span><br><span class="line">== %等于</span><br><span class="line">!= %不等</span><br></pre></td></tr></table></figure>
+<h3 id="逻辑运算符"><a class="header-anchor" href="#逻辑运算符">¶</a>逻辑运算符</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">and</span> <span class="keyword">or</span> <span class="keyword">not</span> </span><br><span class="line"><span class="keyword">in</span> /<span class="keyword">not</span> <span class="keyword">in</span> </span><br></pre></td></tr></table></figure>
+<h3 id="判断语句"><a class="header-anchor" href="#判断语句">¶</a>判断语句</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> 判断条件<span class="number">1</span> :</span><br><span class="line">	执行语句<span class="number">1</span></span><br><span class="line"><span class="keyword">elif</span> 判断语句<span class="number">2</span> :</span><br><span class="line">	执行语句<span class="number">2</span></span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">	执行语句<span class="number">3</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p><em><strong>后面的冒号很关键!!!</strong></em></p>
 <blockquote>
-<p>\n \t \\” \\’</p>
+<p>ezpz</p>
 </blockquote>
-<h3 id="5种输出方式"><a href="#5种输出方式" class="headerlink" title="5种输出方式"></a>5种输出方式</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">str</span>=<span class="string">&quot;chengdu&quot;</span></span><br><span class="line">print(<span class="built_in">str</span>[<span class="number">0</span>])<span class="comment">#单个</span></span><br><span class="line">print(<span class="built_in">str</span>[<span class="number">0</span>:<span class="number">6</span>])<span class="comment">#0~5</span></span><br><span class="line">print(<span class="built_in">str</span>[<span class="number">1</span>:<span class="number">7</span>:<span class="number">2</span>])<span class="comment">#1~6（隔2）</span></span><br><span class="line">print(<span class="built_in">str</span>[<span class="number">5</span>:])<span class="comment">#后面全部</span></span><br><span class="line">print(<span class="built_in">str</span>[:<span class="number">5</span>])<span class="comment">#前面全部</span></span><br></pre></td></tr></table></figure>
-<h3 id="较为特殊"><a href="#较为特殊" class="headerlink" title="较为特殊"></a>较为特殊</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="built_in">str</span> + <span class="string">&quot;,你好&quot;</span>)</span><br><span class="line">print((<span class="built_in">str</span> +<span class="string">&#x27;\t&#x27;</span>)* <span class="number">3</span>)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">print(<span class="string">r&quot;hello\nchengdu&quot;</span>) <span class="comment">#r的作用</span></span><br></pre></td></tr></table></figure>
-<script type="math/tex; mode=display">
-easypeasy!</script><hr>
-<hr>
-<hr>
-<h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><h3 id="表达方式-1"><a href="#表达方式-1" class="headerlink" title="表达方式"></a>表达方式</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">namelist =[]</span><br><span class="line">namelist =[<span class="string">&quot;小张&quot;</span>,<span class="string">&quot;小王&quot;</span>,<span class="string">&quot;小李&quot;</span>]</span><br><span class="line">print(namelist[<span class="number">0</span>])</span><br><span class="line">testlist =[<span class="number">1</span>,<span class="string">&quot;测试&quot;</span>]</span><br><span class="line">print(<span class="built_in">type</span>(testlist[<span class="number">0</span>]))</span><br><span class="line">print(<span class="built_in">type</span>(testlist[<span class="number">1</span>]))</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> name <span class="keyword">in</span> namelist:</span><br><span class="line">    print(name)</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">0</span>,<span class="built_in">len</span>(namelist)):</span><br><span class="line">    print(namelist[i])</span><br></pre></td></tr></table></figure>
-<h3 id="增加"><a href="#增加" class="headerlink" title="增加"></a>增加</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;---增加前，名单列表的数据&quot;</span>)</span><br><span class="line"><span class="keyword">for</span> name <span class="keyword">in</span> namelist:</span><br><span class="line">    print(name)</span><br><span class="line">nametemp= <span class="built_in">input</span>(<span class="string">&quot;&quot;</span>)</span><br><span class="line">namelist.append(nametemp)</span><br><span class="line"><span class="keyword">for</span> name <span class="keyword">in</span> namelist:</span><br><span class="line">    print(name)</span><br><span class="line">a=[<span class="number">1</span>,<span class="number">2</span>]</span><br><span class="line">b=[<span class="number">3</span>,<span class="number">4</span>]</span><br><span class="line">a.append(b)<span class="comment">#直接在a列表增加一个列表</span></span><br><span class="line">print(a)</span><br></pre></td></tr></table></figure>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a.extend(b)<span class="comment">#把b分解为单个然后加入a</span></span><br><span class="line">print(a)</span><br></pre></td></tr></table></figure>
-<h3 id="插入"><a href="#插入" class="headerlink" title="插入"></a>插入</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a=[<span class="number">0</span>, <span class="number">1</span> ,<span class="number">2</span>]</span><br><span class="line">a.insert(<span class="number">1</span>,<span class="number">3</span>)<span class="comment">#在1顺序插入3</span></span><br><span class="line">print(a)</span><br></pre></td></tr></table></figure>
-<h3 id="删除"><a href="#删除" class="headerlink" title="删除"></a>删除</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">moviename =[<span class="string">&quot;theendoffuckingworld&quot;</span>,<span class="string">&quot;the ring of king&quot;</span>,<span class="string">&quot;furious &amp; fast&quot;</span>]</span><br><span class="line">print(moviename)</span><br><span class="line"><span class="keyword">del</span> moviename[<span class="number">2</span>]<span class="comment">#指定删除</span></span><br><span class="line">print(moviename)</span><br></pre></td></tr></table></figure>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">moviename.pop()<span class="comment">#弹栈最后的元素</span></span><br><span class="line">print(moviename)</span><br></pre></td></tr></table></figure>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">moviename.remove(<span class="string">&quot;theendoffuckingworld&quot;</span>)<span class="comment">#遍历删除</span></span><br><span class="line">print(moviename)</span><br><span class="line">moviename=[<span class="string">&quot;theendoffuckingworld&quot;</span>,<span class="string">&quot;the ring of king&quot;</span>,<span class="string">&quot;the ring of king&quot;</span>,<span class="string">&quot;furious &amp; fast&quot;</span>]</span><br><span class="line">print(moviename)</span><br><span class="line">moviename.remove(<span class="string">&quot;the ring of king&quot;</span>)<span class="comment">#遍历删除</span></span><br><span class="line">print(moviename)</span><br></pre></td></tr></table></figure>
-<h3 id="修改"><a href="#修改" class="headerlink" title="修改"></a>修改</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">moviename[<span class="number">1</span>]=<span class="string">&quot;wuhu&quot;</span></span><br><span class="line">print(moviename)</span><br></pre></td></tr></table></figure>
-<h3 id="查找"><a href="#查找" class="headerlink" title="查找"></a>查找</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> <span class="string">&quot;wuhu&quot;</span> <span class="keyword">in</span> moviename:</span><br><span class="line">    print(<span class="string">&quot;1&quot;</span>)</span><br><span class="line"><span class="keyword">else</span> :</span><br><span class="line">    print(<span class="string">&quot;0&quot;</span>)</span><br></pre></td></tr></table></figure>
-<h3 id="精确查找"><a href="#精确查找" class="headerlink" title="精确查找"></a>精确查找</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a= [<span class="string">&quot;a&quot;</span>,<span class="string">&quot;b&quot;</span>,<span class="string">&quot;c&quot;</span>,<span class="string">&quot;a&quot;</span>,<span class="string">&quot;b&quot;</span>]</span><br><span class="line">print(a.index(<span class="string">&quot;a&quot;</span>,<span class="number">1</span>,<span class="number">4</span>))<span class="comment"># 1~4范围内查找且左闭右开[1,4)</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">0</span>,<span class="number">3</span>): <span class="comment">#[0,3)</span></span><br><span class="line">    print(a[i])</span><br></pre></td></tr></table></figure>
-<h3 id="计数"><a href="#计数" class="headerlink" title="计数"></a>计数</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(a.count(<span class="string">&quot;b&quot;</span>))</span><br></pre></td></tr></table></figure>
-<h3 id="反转"><a href="#反转" class="headerlink" title="反转"></a>反转</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a.reverse()</span><br><span class="line">print(a)</span><br></pre></td></tr></table></figure>
-<h3 id="排序"><a href="#排序" class="headerlink" title="排序"></a>排序</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a.sort()<span class="comment">#升序</span></span><br><span class="line">print(a)</span><br><span class="line">a.sort(reverse=<span class="literal">True</span>)<span class="comment">#降序</span></span><br><span class="line">print(a)</span><br></pre></td></tr></table></figure>
-<h3 id="类似于嵌套"><a href="#类似于嵌套" class="headerlink" title="类似于嵌套"></a>类似于嵌套</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">schoolname=[[<span class="string">&quot;1&quot;</span>,<span class="string">&quot;2&quot;</span>],[],[]]</span><br><span class="line">print(schoolname[<span class="number">0</span>][<span class="number">1</span>])</span><br></pre></td></tr></table></figure>
-<h3 id="实例（办公室选人）"><a href="#实例（办公室选人）" class="headerlink" title="实例（办公室选人）"></a>实例（办公室选人）</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> random</span><br><span class="line">print(random.randint(<span class="number">1</span>,<span class="number">3</span>))</span><br><span class="line"></span><br><span class="line">offices =[[],[],[]]</span><br><span class="line">names=[<span class="string">&quot;a&quot;</span>,<span class="string">&quot;b&quot;</span>,<span class="string">&quot;c&quot;</span>,<span class="string">&quot;d&quot;</span>,<span class="string">&quot;e&quot;</span>,<span class="string">&quot;f&quot;</span>,<span class="string">&quot;g&quot;</span>]</span><br><span class="line"><span class="keyword">for</span> name <span class="keyword">in</span> names:</span><br><span class="line">    index = random.randint(<span class="number">0</span>,<span class="number">2</span>)</span><br><span class="line">    offices[index].append(name)</span><br><span class="line">i = <span class="number">1</span></span><br><span class="line"><span class="keyword">for</span> office <span class="keyword">in</span> offices:</span><br><span class="line">    print(<span class="string">&quot;办公室%d人数为：%d&quot;</span>%(i,<span class="built_in">len</span>(office)))</span><br><span class="line">    i+=<span class="number">1</span></span><br><span class="line">    <span class="keyword">for</span> name <span class="keyword">in</span> office:</span><br><span class="line">        print(<span class="string">&quot;%s&quot;</span>%name,end=<span class="string">&quot;\t&quot;</span>)</span><br><span class="line">    print(<span class="string">&quot;\n&quot;</span>)</span><br><span class="line">    print(<span class="string">&quot;-&quot;</span>*<span class="number">20</span>)</span><br></pre></td></tr></table></figure>
-<blockquote>
-<p>输出的%d要注意一一对应</p>
-<p>否则会出现TypeError: not all arguments converted during string formatting的低级问题</p>
-</blockquote>
-]]></content>
+<h3 id="随机数"><a class="header-anchor" href="#随机数">¶</a>随机数</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> random</span><br><span class="line"></span><br><span class="line">x= random.randint(<span class="number">0</span>,<span class="number">2</span>)</span><br><span class="line">print(x)</span><br><span class="line">print(random.uniform(<span class="number">0</span>,<span class="number">2</span>))</span><br></pre></td></tr></table></figure>
+<p>randint：整数</p>
+<p>uniform：小数</p>
+<h3 id="循环语句"><a class="header-anchor" href="#循环语句">¶</a>循环语句</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">5</span>):</span><br><span class="line">	print(i)</span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">0</span>,<span class="number">10</span>,<span class="number">3</span>):</span><br><span class="line">	print(i)</span><br></pre></td></tr></table></figure>
+<p>如果是</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(a,b)</span><br><span class="line">	print(i)</span><br></pre></td></tr></table></figure>
+<p>则其范围为a~b-1</p>
+<p><strong>对于字符串</strong></p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">name =<span class="string">&quot;be nice&quot;</span></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> name:</span><br><span class="line">    print(i,end=<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
+<p><strong>while</strong></p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">while</span> i&lt;<span class="number">5</span>:</span><br><span class="line">    print(<span class="string">&quot;nice play!&quot;</span>)</span><br><span class="line">    print(<span class="string">&quot;i=%d&quot;</span>%i)</span><br><span class="line">    i+=<span class="number">1</span></span><br><span class="line">print(<span class="string">&quot;pass&quot;</span>)</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>爬虫</category>
       </categories>
