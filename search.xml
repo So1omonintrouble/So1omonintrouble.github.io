@@ -204,6 +204,41 @@
 ]]></content>
   </entry>
   <entry>
+    <title>最近规划</title>
+    <url>/2021/04/20/schedule_2/</url>
+    <content><![CDATA[<h1>最近规划</h1>
+<h2 id="想完成什么"><a class="header-anchor" href="#想完成什么">¶</a>想完成什么</h2>
+<ol>
+<li>提高词汇量，英语论文的阅读能力，作文写作水平</li>
+<li>专业知识掌握：电力系统远动，电力工程基础，电气控制与plc</li>
+<li>写作水平的提升</li>
+</ol>
+<h2 id="感兴趣的东西"><a class="header-anchor" href="#感兴趣的东西">¶</a>感兴趣的东西</h2>
+<ol>
+<li>&lt;越狱&gt;，b站怪味爆米花，天天追，而且还耗时短</li>
+<li>经济学人里面的内容吧，有些句子翻译着翻译着就想大致读读全篇文章，了解一下</li>
+<li>电气控制这门课的电气控制考试内容会出什么电路，要不要把行程开关，速度继电器，电压电压继电器这些感觉比较冷门的器件学学</li>
+<li>想整个可以在批量下载mooc课件的爬虫，但不知道从何下手</li>
+</ol>
+<h2 id="2021-4-20"><a class="header-anchor" href="#2021-4-20">¶</a>2021.4.20</h2>
+<ol>
+<li>完成英语单词</li>
+<li>精读经济学人10句话，一个想法：
+<ol>
+<li>我的notability里面有好多经济学人杂志却都没怎么看过</li>
+<li>背单词时想找个比较典型的例句来加深理解</li>
+<li>于是，啪！两者结合在了一起</li>
+<li>利用notability的索引功能查找想要深入理解的单词，直接找到单词所在句子，复制，粘贴，翻译，记录，一气呵成</li>
+<li>其中不乏翻译成中文也难以理解的句子，这些得靠维基百科，google搜索来进行了解相关典故</li>
+<li>但由于今天的10句话工作量相对较大，所以明天改为5句</li>
+</ol>
+</li>
+<li>电力系统远动开始了一定复习，对于最小码距，码重，纠错以及检错，遥信采集电路等内容有了更好的理解</li>
+<li></li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>专业英语unit8翻译(部分)</title>
     <url>/2021/04/13/translate_unit8/</url>
     <content><![CDATA[<h1>Railway Electric Power Feeding Systems（尚未完整）</h1>
@@ -312,12 +347,31 @@ feeding systems.</p>
 <p>Figure 7 shows the composition of an AC feeding circuit.</p>
 <p>图7显示了交流供电电路的组成。</p>
 <p>It includes feeding AC sub-stations, sectioning posts for feed sectioning, and  sub-sectioning posts for limited sectioning, all located along the tracks.</p>
-<p>它包括进给交流子站、用于给分段供电的分段站和用于有限切片的子切片柱，所有这些都位于轨道上。（这个不明白！！！）</p>
+<p>它包括交流供电变电所、同于给分区供电的分区亭和有限分段的子分区亭，全都位于轨道上。</p>
 <p>The feeding sub-stations feed the two single phases converted from the  three-phase source by a feeding transformer in the opposite track directions,  with a 90° phase offset.</p>
 <p>供电子站在相反的轨道方向上通过供电变压器给三相电源转换过的两个相位差为90°的单相电源进行供电。</p>
 <p>Table 2 shows the feeding voltages and the distances between sub-stations of  various AC feeding systems in Japan.</p>
 <p>表2显示了日本各种交流供电系统的供电电压和子站之间的距离。</p>
 <h3 id="8-4-4-BT-feeding-system"><a class="header-anchor" href="#8-4-4-BT-feeding-system">¶</a>8.4.4 BT feeding system</h3>
+<h2 id="8-5-Overhead-Line-Systems"><a class="header-anchor" href="#8-5-Overhead-Line-Systems">¶</a>8.5 Overhead Line Systems</h2>
+<h3 id="8-5-1-Catenary-Systems"><a class="header-anchor" href="#8-5-1-Catenary-Systems">¶</a>8.5.1 Catenary Systems</h3>
+<p>An electric railway takes its power for the electric motors, lights, air  conditioning, etc, from the overhead line using the pantograph on the roof.</p>
+<p>电气化铁路利用车顶上的受电弓从架空线获取电力用于电动机、电灯、空调等的供电。</p>
+<p>The pantograph is in constant contact with the overhead line (contact wire)  located about 5 m above the rails, whether the train is moving or not.</p>
+<p>无论列车是否移动，受电弓都与轨道上方约5米处的架空线(接触线)保持恒定接触。</p>
+<p>Therefore, the overhead line must always be located within the pantograph range,  and the pantograph must always maintain contact with the overhead line to supply  uninterrupted, good-quality power at all times.</p>
+<p>因此，架空线必须始终位于受电弓范围内，受电弓必须始终与架空线保持接触，以始终提供不间断的高质量电力。</p>
+<p>To meet these requirements, the overhead equipment is generally designed bearing  the following in mind:</p>
+<p>为了满足这些要求，架空设备的设计通常考虑以下几点:</p>
+<p>Must have characteristics meeting train speed and current requirements</p>
+<p>必须具有满足列车速度和当前要求的特性</p>
+<p>Must be at uniform height above rail to optimize pantograph power collecting  characteristics, so entire equipment must have uniform spring constant and  bending rigidity</p>
+<p>为了优化受电弓的集电特性，必须使受电弓处于高于轨道的统一高度，因此整个设备必须具有统一的弹簧系数和抗弯刚度</p>
+<p>uniform 统一的</p>
+<p>Must have minimum vibration and motion to ensure smooth pantograph passage  during high-speed operation or strong winds</p>
+<p>必须使振动和运动幅度最小，以确保受电弓在高速运行或强风中平稳通过</p>
+<p>Must have strength to withstand vibration, corrosion, heat, etc, while  maintaining balance with reliability and operating life span</p>
+<p>必须具有承受振动、腐蚀、高温等环境的能力，同时保持可靠性和运行寿命的平衡</p>
 ]]></content>
       <categories>
         <category>英语</category>
@@ -325,83 +379,6 @@ feeding systems.</p>
       <tags>
         <tag>专业英语</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>日常在ios/ipados上播放本地音乐(脱离在线播放器)</title>
-    <url>/2021/01/30/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8/</url>
-    <content><![CDATA[<h1>前言</h1>
-<p>音乐作为现代娱乐生活中的一个部分，在我看来相当重要，而音乐播放软体的选择则令人大费周折，笔者用过网易云，qq音乐，酷狗音乐，apple music， 还有spotify。也经历了从mp3听歌到后来的手机、平板听歌的转变，由于考虑到各方面的因素，首先是歌曲的版权，笔者发现以上播放器的版权无一可以满足笔者对自己喜欢歌曲的需求，尤其是梦想的声音综艺节目上的歌曲在网易云，apple music ，spotify 上均无，而在其他软体上又难以找到笔者已购的独立游戏soundtrack，其次在价格上，国内软体又普遍需要二次购买最新的数字专辑，同样价格也不菲，让本来就不富裕的家庭更是雪上加霜😭。</p>
-<p>故而，我选择了先在本地下载然后使用本地播放器的方式进行播放。</p>
-<h1>简述</h1>
-<p>下载通过酷我音乐破解版windows，上传和播放通过ios/ipados生态下的ever play，即可实现免费听任意歌曲。</p>
-<h1>详细内容</h1>
-<h2 id="音乐下载器"><a class="header-anchor" href="#音乐下载器">¶</a>音乐下载器</h2>
-<p>酷我音乐破解版windows下载地址：	链接：<a class="link" href="https://pan.baidu.com/s/1MXIpspEHOtW46rbIAeKnmA">https://pan.baidu.com/s/1MXIpspEHOtW46rbIAeKnmA<i class="fas fa-external-link-alt"></i></a><br>
-提取码：solo</p>
-<p>下载完之后安装打开搜索自己喜欢的音乐即可完全免费下载（无需登录）</p>
-<h2 id="音乐播放器"><a class="header-anchor" href="#音乐播放器">¶</a>音乐播放器</h2>
-<h3 id="下载"><a class="header-anchor" href="#下载">¶</a>下载</h3>
-<p>ever play下载地址（ios/ipados生态）：链接：<a class="link" href="https://apps.apple.com/cn/app/id1202642773">https://apps.apple.com/cn/app/id1202642773<i class="fas fa-external-link-alt"></i></a></p>
-<h3 id="介绍"><a class="header-anchor" href="#介绍">¶</a>介绍</h3>
-<p>ever play是一款免费使用的本地音乐播放软体，其包含付费功能总结就是</p>
-<ol>
-<li>可以播放高清音乐文件（目前还没有使用过该功能，下载的最高音质歌曲也是无法达到该水平的）</li>
-<li>音乐可视化（可以试用，个人感受一般）</li>
-<li>更改专辑封面图片（强迫症可能需要，就像我用过的网易云那样）</li>
-</ol>
-<h3 id="歌曲上传"><a class="header-anchor" href="#歌曲上传">¶</a>歌曲上传</h3>
-<p>有三种上传方式分别是使用电脑iTunes文件共享，AirDrop隔空投送，以及我们接下来单推的Wi-Fi传输。</p>
-<ol>
-<li>在ever play 软体中进入设置Wi-Fi传输<br>
-<img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p1.1jnd4h68d0bk.png" alt="p1"></li>
-<li>在同一WiFi的前提下，使用windows浏览器输入以下地址<br>
-<img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p2.3s3dynv303c0.png" alt="p2"></li>
-<li>进入网页后<br>
-<img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p3.372owt8v7bs0.png" alt="p3"></li>
-<li>上传成功之后即可在ios/ipados端听歌了</li>
-</ol>
-]]></content>
-      <categories>
-        <category>practice</category>
-      </categories>
-      <tags>
-        <tag>music</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>最近规划</title>
-    <url>/2021/04/20/schedule_2/</url>
-    <content><![CDATA[<h1>最近规划</h1>
-<h2 id="想完成什么"><a class="header-anchor" href="#想完成什么">¶</a>想完成什么</h2>
-<ol>
-<li>提高词汇量，英语论文的阅读能力，作文写作水平</li>
-<li>专业知识掌握：电力系统远动，电力工程基础，电气控制与plc</li>
-<li>写作水平的提升</li>
-</ol>
-<h2 id="感兴趣的东西"><a class="header-anchor" href="#感兴趣的东西">¶</a>感兴趣的东西</h2>
-<ol>
-<li>&lt;越狱&gt;，b站怪味爆米花，天天追，而且还耗时短</li>
-<li>经济学人里面的内容吧，有些句子翻译着翻译着就想大致读读全篇文章，了解一下</li>
-<li>电气控制这门课的电气控制考试内容会出什么电路，要不要把行程开关，速度继电器，电压电压继电器这些感觉比较冷门的器件学学</li>
-<li>想整个可以在批量下载mooc课件的爬虫，但不知道从何下手</li>
-</ol>
-<h2 id="2021-4-20"><a class="header-anchor" href="#2021-4-20">¶</a>2021.4.20</h2>
-<ol>
-<li>完成英语单词</li>
-<li>精读经济学人10句话，一个想法：
-<ol>
-<li>我的notability里面有好多经济学人杂志却都没怎么看过</li>
-<li>背单词时想找个比较典型的例句来加深理解</li>
-<li>于是，啪！两者结合在了一起</li>
-<li>利用notability的索引功能查找想要深入理解的单词，直接找到单词所在句子，复制，粘贴，翻译，记录，一气呵成</li>
-<li>其中不乏翻译成中文也难以理解的句子，这些得靠维基百科，google搜索来进行了解相关典故</li>
-<li>但由于今天的10句话工作量相对较大，所以明天改为5句</li>
-</ol>
-</li>
-<li>电力系统远动开始了一定复习，对于最小码距，码重，纠错以及检错，遥信采集电路等内容有了更好的理解</li>
-<li></li>
-</ol>
-]]></content>
   </entry>
   <entry>
     <title>电力系统变电站</title>
@@ -576,6 +553,48 @@ Firstly, Secondly, Then, Finally…</p>
       </tags>
   </entry>
   <entry>
+    <title>日常在ios/ipados上播放本地音乐(脱离在线播放器)</title>
+    <url>/2021/01/30/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8/</url>
+    <content><![CDATA[<h1>前言</h1>
+<p>音乐作为现代娱乐生活中的一个部分，在我看来相当重要，而音乐播放软体的选择则令人大费周折，笔者用过网易云，qq音乐，酷狗音乐，apple music， 还有spotify。也经历了从mp3听歌到后来的手机、平板听歌的转变，由于考虑到各方面的因素，首先是歌曲的版权，笔者发现以上播放器的版权无一可以满足笔者对自己喜欢歌曲的需求，尤其是梦想的声音综艺节目上的歌曲在网易云，apple music ，spotify 上均无，而在其他软体上又难以找到笔者已购的独立游戏soundtrack，其次在价格上，国内软体又普遍需要二次购买最新的数字专辑，同样价格也不菲，让本来就不富裕的家庭更是雪上加霜😭。</p>
+<p>故而，我选择了先在本地下载然后使用本地播放器的方式进行播放。</p>
+<h1>简述</h1>
+<p>下载通过酷我音乐破解版windows，上传和播放通过ios/ipados生态下的ever play，即可实现免费听任意歌曲。</p>
+<h1>详细内容</h1>
+<h2 id="音乐下载器"><a class="header-anchor" href="#音乐下载器">¶</a>音乐下载器</h2>
+<p>酷我音乐破解版windows下载地址：	链接：<a class="link" href="https://pan.baidu.com/s/1MXIpspEHOtW46rbIAeKnmA">https://pan.baidu.com/s/1MXIpspEHOtW46rbIAeKnmA<i class="fas fa-external-link-alt"></i></a><br>
+提取码：solo</p>
+<p>下载完之后安装打开搜索自己喜欢的音乐即可完全免费下载（无需登录）</p>
+<h2 id="音乐播放器"><a class="header-anchor" href="#音乐播放器">¶</a>音乐播放器</h2>
+<h3 id="下载"><a class="header-anchor" href="#下载">¶</a>下载</h3>
+<p>ever play下载地址（ios/ipados生态）：链接：<a class="link" href="https://apps.apple.com/cn/app/id1202642773">https://apps.apple.com/cn/app/id1202642773<i class="fas fa-external-link-alt"></i></a></p>
+<h3 id="介绍"><a class="header-anchor" href="#介绍">¶</a>介绍</h3>
+<p>ever play是一款免费使用的本地音乐播放软体，其包含付费功能总结就是</p>
+<ol>
+<li>可以播放高清音乐文件（目前还没有使用过该功能，下载的最高音质歌曲也是无法达到该水平的）</li>
+<li>音乐可视化（可以试用，个人感受一般）</li>
+<li>更改专辑封面图片（强迫症可能需要，就像我用过的网易云那样）</li>
+</ol>
+<h3 id="歌曲上传"><a class="header-anchor" href="#歌曲上传">¶</a>歌曲上传</h3>
+<p>有三种上传方式分别是使用电脑iTunes文件共享，AirDrop隔空投送，以及我们接下来单推的Wi-Fi传输。</p>
+<ol>
+<li>在ever play 软体中进入设置Wi-Fi传输<br>
+<img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p1.1jnd4h68d0bk.png" alt="p1"></li>
+<li>在同一WiFi的前提下，使用windows浏览器输入以下地址<br>
+<img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p2.3s3dynv303c0.png" alt="p2"></li>
+<li>进入网页后<br>
+<img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p3.372owt8v7bs0.png" alt="p3"></li>
+<li>上传成功之后即可在ios/ipados端听歌了</li>
+</ol>
+]]></content>
+      <categories>
+        <category>practice</category>
+      </categories>
+      <tags>
+        <tag>music</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>第一天复习python</title>
     <url>/2021/01/16/%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%A4%8D%E4%B9%A0python/</url>
     <content><![CDATA[<h3 id="重新下载pycharm"><a class="header-anchor" href="#重新下载pycharm">¶</a>重新下载pycharm</h3>
@@ -620,81 +639,6 @@ Firstly, Secondly, Then, Finally…</p>
 <figure class="highlight python"><table><tr><td class="code"><pre><span class="line">name =<span class="string">&quot;be nice&quot;</span></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> name:</span><br><span class="line">    print(i,end=<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
 <p><strong>while</strong></p>
 <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">while</span> i&lt;<span class="number">5</span>:</span><br><span class="line">    print(<span class="string">&quot;nice play!&quot;</span>)</span><br><span class="line">    print(<span class="string">&quot;i=%d&quot;</span>%i)</span><br><span class="line">    i+=<span class="number">1</span></span><br><span class="line">print(<span class="string">&quot;pass&quot;</span>)</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>爬虫</category>
-      </categories>
-      <tags>
-        <tag>python</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>第二天复习python</title>
-    <url>/2021/01/17/%E7%AC%AC%E4%BA%8C%E5%A4%A9%E5%A4%8D%E4%B9%A0python/</url>
-    <content><![CDATA[<h2 id="字符串"><a class="header-anchor" href="#字符串">¶</a>字符串</h2>
-<h3 id="表达方式"><a class="header-anchor" href="#表达方式">¶</a>表达方式</h3>
-<ol>
-<li>
-<p>单引号</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">word = <span class="string">&#x27;字符串&#x27;</span></span><br><span class="line">print(word)</span><br></pre></td></tr></table></figure>
-</li>
-<li>
-<p>双引号</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">sentence =<span class="string">&quot;这是一个句子&quot;</span></span><br><span class="line">print(sentence)</span><br></pre></td></tr></table></figure>
-</li>
-<li>
-<p>三引号</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">paragraphs =<span class="string">&#x27;&#x27;&#x27;</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">        起飞</span></span><br><span class="line"><span class="string">&#x27;&#x27;&#x27;</span></span><br><span class="line">print(paragraphs)<span class="comment">#自动识别制表符空格回车</span></span><br></pre></td></tr></table></figure>
-</li>
-</ol>
-<hr>
-<h3 id="转义字符"><a class="header-anchor" href="#转义字符">¶</a>转义字符</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">my_str =<span class="string">&#x27;I\&#x27;m a student&#x27;</span></span><br><span class="line">print(my_str)</span><br><span class="line">my_str =<span class="string">&quot;Jason said \&quot; I like you \&quot;&quot;</span></span><br><span class="line">print(my_str)</span><br></pre></td></tr></table></figure>
-<blockquote>
-<p>\n \t \&quot; \’</p>
-</blockquote>
-<h3 id="5种输出方式"><a class="header-anchor" href="#5种输出方式">¶</a>5种输出方式</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">str</span>=<span class="string">&quot;chengdu&quot;</span></span><br><span class="line">print(<span class="built_in">str</span>[<span class="number">0</span>])<span class="comment">#单个</span></span><br><span class="line">print(<span class="built_in">str</span>[<span class="number">0</span>:<span class="number">6</span>])<span class="comment">#0~5</span></span><br><span class="line">print(<span class="built_in">str</span>[<span class="number">1</span>:<span class="number">7</span>:<span class="number">2</span>])<span class="comment">#1~6（隔2）</span></span><br><span class="line">print(<span class="built_in">str</span>[<span class="number">5</span>:])<span class="comment">#后面全部</span></span><br><span class="line">print(<span class="built_in">str</span>[:<span class="number">5</span>])<span class="comment">#前面全部</span></span><br></pre></td></tr></table></figure>
-<h3 id="较为特殊"><a class="header-anchor" href="#较为特殊">¶</a>较为特殊</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="built_in">str</span> + <span class="string">&quot;,你好&quot;</span>)</span><br><span class="line">print((<span class="built_in">str</span> +<span class="string">&#x27;\t&#x27;</span>)* <span class="number">3</span>)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">print(<span class="string">r&quot;hello\nchengdu&quot;</span>) <span class="comment">#r的作用</span></span><br></pre></td></tr></table></figure>
-<p>$$<br>
-easypeasy!<br>
-$$</p>
-<hr>
-<hr>
-<hr>
-<h2 id="列表"><a class="header-anchor" href="#列表">¶</a>列表</h2>
-<h3 id="表达方式-v2"><a class="header-anchor" href="#表达方式-v2">¶</a>表达方式</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">namelist =[]</span><br><span class="line">namelist =[<span class="string">&quot;小张&quot;</span>,<span class="string">&quot;小王&quot;</span>,<span class="string">&quot;小李&quot;</span>]</span><br><span class="line">print(namelist[<span class="number">0</span>])</span><br><span class="line">testlist =[<span class="number">1</span>,<span class="string">&quot;测试&quot;</span>]</span><br><span class="line">print(<span class="built_in">type</span>(testlist[<span class="number">0</span>]))</span><br><span class="line">print(<span class="built_in">type</span>(testlist[<span class="number">1</span>]))</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> name <span class="keyword">in</span> namelist:</span><br><span class="line">    print(name)</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">0</span>,<span class="built_in">len</span>(namelist)):</span><br><span class="line">    print(namelist[i])</span><br></pre></td></tr></table></figure>
-<h3 id="增加"><a class="header-anchor" href="#增加">¶</a>增加</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;---增加前，名单列表的数据&quot;</span>)</span><br><span class="line"><span class="keyword">for</span> name <span class="keyword">in</span> namelist:</span><br><span class="line">    print(name)</span><br><span class="line">nametemp= <span class="built_in">input</span>(<span class="string">&quot;&quot;</span>)</span><br><span class="line">namelist.append(nametemp)</span><br><span class="line"><span class="keyword">for</span> name <span class="keyword">in</span> namelist:</span><br><span class="line">    print(name)</span><br><span class="line">a=[<span class="number">1</span>,<span class="number">2</span>]</span><br><span class="line">b=[<span class="number">3</span>,<span class="number">4</span>]</span><br><span class="line">a.append(b)<span class="comment">#直接在a列表增加一个列表</span></span><br><span class="line">print(a)</span><br></pre></td></tr></table></figure>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a.extend(b)<span class="comment">#把b分解为单个然后加入a</span></span><br><span class="line">print(a)</span><br></pre></td></tr></table></figure>
-<h3 id="插入"><a class="header-anchor" href="#插入">¶</a>插入</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a=[<span class="number">0</span>, <span class="number">1</span> ,<span class="number">2</span>]</span><br><span class="line">a.insert(<span class="number">1</span>,<span class="number">3</span>)<span class="comment">#在1顺序插入3</span></span><br><span class="line">print(a)</span><br></pre></td></tr></table></figure>
-<h3 id="删除"><a class="header-anchor" href="#删除">¶</a>删除</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">moviename =[<span class="string">&quot;theendoffuckingworld&quot;</span>,<span class="string">&quot;the ring of king&quot;</span>,<span class="string">&quot;furious &amp; fast&quot;</span>]</span><br><span class="line">print(moviename)</span><br><span class="line"><span class="keyword">del</span> moviename[<span class="number">2</span>]<span class="comment">#指定删除</span></span><br><span class="line">print(moviename)</span><br></pre></td></tr></table></figure>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">moviename.pop()<span class="comment">#弹栈最后的元素</span></span><br><span class="line">print(moviename)</span><br></pre></td></tr></table></figure>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">moviename.remove(<span class="string">&quot;theendoffuckingworld&quot;</span>)<span class="comment">#遍历删除</span></span><br><span class="line">print(moviename)</span><br><span class="line">moviename=[<span class="string">&quot;theendoffuckingworld&quot;</span>,<span class="string">&quot;the ring of king&quot;</span>,<span class="string">&quot;the ring of king&quot;</span>,<span class="string">&quot;furious &amp; fast&quot;</span>]</span><br><span class="line">print(moviename)</span><br><span class="line">moviename.remove(<span class="string">&quot;the ring of king&quot;</span>)<span class="comment">#遍历删除</span></span><br><span class="line">print(moviename)</span><br></pre></td></tr></table></figure>
-<h3 id="修改"><a class="header-anchor" href="#修改">¶</a>修改</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">moviename[<span class="number">1</span>]=<span class="string">&quot;wuhu&quot;</span></span><br><span class="line">print(moviename)</span><br></pre></td></tr></table></figure>
-<h3 id="查找"><a class="header-anchor" href="#查找">¶</a>查找</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> <span class="string">&quot;wuhu&quot;</span> <span class="keyword">in</span> moviename:</span><br><span class="line">    print(<span class="string">&quot;1&quot;</span>)</span><br><span class="line"><span class="keyword">else</span> :</span><br><span class="line">    print(<span class="string">&quot;0&quot;</span>)</span><br></pre></td></tr></table></figure>
-<h3 id="精确查找"><a class="header-anchor" href="#精确查找">¶</a>精确查找</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a= [<span class="string">&quot;a&quot;</span>,<span class="string">&quot;b&quot;</span>,<span class="string">&quot;c&quot;</span>,<span class="string">&quot;a&quot;</span>,<span class="string">&quot;b&quot;</span>]</span><br><span class="line">print(a.index(<span class="string">&quot;a&quot;</span>,<span class="number">1</span>,<span class="number">4</span>))<span class="comment"># 1~4范围内查找且左闭右开[1,4)</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">0</span>,<span class="number">3</span>): <span class="comment">#[0,3)</span></span><br><span class="line">    print(a[i])</span><br></pre></td></tr></table></figure>
-<h3 id="计数"><a class="header-anchor" href="#计数">¶</a>计数</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(a.count(<span class="string">&quot;b&quot;</span>))</span><br></pre></td></tr></table></figure>
-<h3 id="反转"><a class="header-anchor" href="#反转">¶</a>反转</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a.reverse()</span><br><span class="line">print(a)</span><br></pre></td></tr></table></figure>
-<h3 id="排序"><a class="header-anchor" href="#排序">¶</a>排序</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a.sort()<span class="comment">#升序</span></span><br><span class="line">print(a)</span><br><span class="line">a.sort(reverse=<span class="literal">True</span>)<span class="comment">#降序</span></span><br><span class="line">print(a)</span><br></pre></td></tr></table></figure>
-<h3 id="类似于嵌套"><a class="header-anchor" href="#类似于嵌套">¶</a>类似于嵌套</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">schoolname=[[<span class="string">&quot;1&quot;</span>,<span class="string">&quot;2&quot;</span>],[],[]]</span><br><span class="line">print(schoolname[<span class="number">0</span>][<span class="number">1</span>])</span><br></pre></td></tr></table></figure>
-<h3 id="实例（办公室选人）"><a class="header-anchor" href="#实例（办公室选人）">¶</a>实例（办公室选人）</h3>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> random</span><br><span class="line">print(random.randint(<span class="number">1</span>,<span class="number">3</span>))</span><br><span class="line"></span><br><span class="line">offices =[[],[],[]]</span><br><span class="line">names=[<span class="string">&quot;a&quot;</span>,<span class="string">&quot;b&quot;</span>,<span class="string">&quot;c&quot;</span>,<span class="string">&quot;d&quot;</span>,<span class="string">&quot;e&quot;</span>,<span class="string">&quot;f&quot;</span>,<span class="string">&quot;g&quot;</span>]</span><br><span class="line"><span class="keyword">for</span> name <span class="keyword">in</span> names:</span><br><span class="line">    index = random.randint(<span class="number">0</span>,<span class="number">2</span>)</span><br><span class="line">    offices[index].append(name)</span><br><span class="line">i = <span class="number">1</span></span><br><span class="line"><span class="keyword">for</span> office <span class="keyword">in</span> offices:</span><br><span class="line">    print(<span class="string">&quot;办公室%d人数为：%d&quot;</span>%(i,<span class="built_in">len</span>(office)))</span><br><span class="line">    i+=<span class="number">1</span></span><br><span class="line">    <span class="keyword">for</span> name <span class="keyword">in</span> office:</span><br><span class="line">        print(<span class="string">&quot;%s&quot;</span>%name,end=<span class="string">&quot;\t&quot;</span>)</span><br><span class="line">    print(<span class="string">&quot;\n&quot;</span>)</span><br><span class="line">    print(<span class="string">&quot;-&quot;</span>*<span class="number">20</span>)</span><br></pre></td></tr></table></figure>
-<blockquote>
-<p>输出的%d要注意一一对应</p>
-<p>否则会出现TypeError: not all arguments converted during string formatting的低级问题</p>
-</blockquote>
-]]></content>
       <categories>
         <category>爬虫</category>
       </categories>
@@ -800,6 +744,81 @@ proliferating 繁衍</p>
       </categories>
       <tags>
         <tag>经济学人</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第二天复习python</title>
+    <url>/2021/01/17/%E7%AC%AC%E4%BA%8C%E5%A4%A9%E5%A4%8D%E4%B9%A0python/</url>
+    <content><![CDATA[<h2 id="字符串"><a class="header-anchor" href="#字符串">¶</a>字符串</h2>
+<h3 id="表达方式"><a class="header-anchor" href="#表达方式">¶</a>表达方式</h3>
+<ol>
+<li>
+<p>单引号</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">word = <span class="string">&#x27;字符串&#x27;</span></span><br><span class="line">print(word)</span><br></pre></td></tr></table></figure>
+</li>
+<li>
+<p>双引号</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">sentence =<span class="string">&quot;这是一个句子&quot;</span></span><br><span class="line">print(sentence)</span><br></pre></td></tr></table></figure>
+</li>
+<li>
+<p>三引号</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">paragraphs =<span class="string">&#x27;&#x27;&#x27;</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">        起飞</span></span><br><span class="line"><span class="string">&#x27;&#x27;&#x27;</span></span><br><span class="line">print(paragraphs)<span class="comment">#自动识别制表符空格回车</span></span><br></pre></td></tr></table></figure>
+</li>
+</ol>
+<hr>
+<h3 id="转义字符"><a class="header-anchor" href="#转义字符">¶</a>转义字符</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">my_str =<span class="string">&#x27;I\&#x27;m a student&#x27;</span></span><br><span class="line">print(my_str)</span><br><span class="line">my_str =<span class="string">&quot;Jason said \&quot; I like you \&quot;&quot;</span></span><br><span class="line">print(my_str)</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>\n \t \&quot; \’</p>
+</blockquote>
+<h3 id="5种输出方式"><a class="header-anchor" href="#5种输出方式">¶</a>5种输出方式</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">str</span>=<span class="string">&quot;chengdu&quot;</span></span><br><span class="line">print(<span class="built_in">str</span>[<span class="number">0</span>])<span class="comment">#单个</span></span><br><span class="line">print(<span class="built_in">str</span>[<span class="number">0</span>:<span class="number">6</span>])<span class="comment">#0~5</span></span><br><span class="line">print(<span class="built_in">str</span>[<span class="number">1</span>:<span class="number">7</span>:<span class="number">2</span>])<span class="comment">#1~6（隔2）</span></span><br><span class="line">print(<span class="built_in">str</span>[<span class="number">5</span>:])<span class="comment">#后面全部</span></span><br><span class="line">print(<span class="built_in">str</span>[:<span class="number">5</span>])<span class="comment">#前面全部</span></span><br></pre></td></tr></table></figure>
+<h3 id="较为特殊"><a class="header-anchor" href="#较为特殊">¶</a>较为特殊</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="built_in">str</span> + <span class="string">&quot;,你好&quot;</span>)</span><br><span class="line">print((<span class="built_in">str</span> +<span class="string">&#x27;\t&#x27;</span>)* <span class="number">3</span>)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">print(<span class="string">r&quot;hello\nchengdu&quot;</span>) <span class="comment">#r的作用</span></span><br></pre></td></tr></table></figure>
+<p>$$<br>
+easypeasy!<br>
+$$</p>
+<hr>
+<hr>
+<hr>
+<h2 id="列表"><a class="header-anchor" href="#列表">¶</a>列表</h2>
+<h3 id="表达方式-v2"><a class="header-anchor" href="#表达方式-v2">¶</a>表达方式</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">namelist =[]</span><br><span class="line">namelist =[<span class="string">&quot;小张&quot;</span>,<span class="string">&quot;小王&quot;</span>,<span class="string">&quot;小李&quot;</span>]</span><br><span class="line">print(namelist[<span class="number">0</span>])</span><br><span class="line">testlist =[<span class="number">1</span>,<span class="string">&quot;测试&quot;</span>]</span><br><span class="line">print(<span class="built_in">type</span>(testlist[<span class="number">0</span>]))</span><br><span class="line">print(<span class="built_in">type</span>(testlist[<span class="number">1</span>]))</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> name <span class="keyword">in</span> namelist:</span><br><span class="line">    print(name)</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">0</span>,<span class="built_in">len</span>(namelist)):</span><br><span class="line">    print(namelist[i])</span><br></pre></td></tr></table></figure>
+<h3 id="增加"><a class="header-anchor" href="#增加">¶</a>增加</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;---增加前，名单列表的数据&quot;</span>)</span><br><span class="line"><span class="keyword">for</span> name <span class="keyword">in</span> namelist:</span><br><span class="line">    print(name)</span><br><span class="line">nametemp= <span class="built_in">input</span>(<span class="string">&quot;&quot;</span>)</span><br><span class="line">namelist.append(nametemp)</span><br><span class="line"><span class="keyword">for</span> name <span class="keyword">in</span> namelist:</span><br><span class="line">    print(name)</span><br><span class="line">a=[<span class="number">1</span>,<span class="number">2</span>]</span><br><span class="line">b=[<span class="number">3</span>,<span class="number">4</span>]</span><br><span class="line">a.append(b)<span class="comment">#直接在a列表增加一个列表</span></span><br><span class="line">print(a)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a.extend(b)<span class="comment">#把b分解为单个然后加入a</span></span><br><span class="line">print(a)</span><br></pre></td></tr></table></figure>
+<h3 id="插入"><a class="header-anchor" href="#插入">¶</a>插入</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a=[<span class="number">0</span>, <span class="number">1</span> ,<span class="number">2</span>]</span><br><span class="line">a.insert(<span class="number">1</span>,<span class="number">3</span>)<span class="comment">#在1顺序插入3</span></span><br><span class="line">print(a)</span><br></pre></td></tr></table></figure>
+<h3 id="删除"><a class="header-anchor" href="#删除">¶</a>删除</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">moviename =[<span class="string">&quot;theendoffuckingworld&quot;</span>,<span class="string">&quot;the ring of king&quot;</span>,<span class="string">&quot;furious &amp; fast&quot;</span>]</span><br><span class="line">print(moviename)</span><br><span class="line"><span class="keyword">del</span> moviename[<span class="number">2</span>]<span class="comment">#指定删除</span></span><br><span class="line">print(moviename)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">moviename.pop()<span class="comment">#弹栈最后的元素</span></span><br><span class="line">print(moviename)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">moviename.remove(<span class="string">&quot;theendoffuckingworld&quot;</span>)<span class="comment">#遍历删除</span></span><br><span class="line">print(moviename)</span><br><span class="line">moviename=[<span class="string">&quot;theendoffuckingworld&quot;</span>,<span class="string">&quot;the ring of king&quot;</span>,<span class="string">&quot;the ring of king&quot;</span>,<span class="string">&quot;furious &amp; fast&quot;</span>]</span><br><span class="line">print(moviename)</span><br><span class="line">moviename.remove(<span class="string">&quot;the ring of king&quot;</span>)<span class="comment">#遍历删除</span></span><br><span class="line">print(moviename)</span><br></pre></td></tr></table></figure>
+<h3 id="修改"><a class="header-anchor" href="#修改">¶</a>修改</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">moviename[<span class="number">1</span>]=<span class="string">&quot;wuhu&quot;</span></span><br><span class="line">print(moviename)</span><br></pre></td></tr></table></figure>
+<h3 id="查找"><a class="header-anchor" href="#查找">¶</a>查找</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> <span class="string">&quot;wuhu&quot;</span> <span class="keyword">in</span> moviename:</span><br><span class="line">    print(<span class="string">&quot;1&quot;</span>)</span><br><span class="line"><span class="keyword">else</span> :</span><br><span class="line">    print(<span class="string">&quot;0&quot;</span>)</span><br></pre></td></tr></table></figure>
+<h3 id="精确查找"><a class="header-anchor" href="#精确查找">¶</a>精确查找</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a= [<span class="string">&quot;a&quot;</span>,<span class="string">&quot;b&quot;</span>,<span class="string">&quot;c&quot;</span>,<span class="string">&quot;a&quot;</span>,<span class="string">&quot;b&quot;</span>]</span><br><span class="line">print(a.index(<span class="string">&quot;a&quot;</span>,<span class="number">1</span>,<span class="number">4</span>))<span class="comment"># 1~4范围内查找且左闭右开[1,4)</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">0</span>,<span class="number">3</span>): <span class="comment">#[0,3)</span></span><br><span class="line">    print(a[i])</span><br></pre></td></tr></table></figure>
+<h3 id="计数"><a class="header-anchor" href="#计数">¶</a>计数</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(a.count(<span class="string">&quot;b&quot;</span>))</span><br></pre></td></tr></table></figure>
+<h3 id="反转"><a class="header-anchor" href="#反转">¶</a>反转</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a.reverse()</span><br><span class="line">print(a)</span><br></pre></td></tr></table></figure>
+<h3 id="排序"><a class="header-anchor" href="#排序">¶</a>排序</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a.sort()<span class="comment">#升序</span></span><br><span class="line">print(a)</span><br><span class="line">a.sort(reverse=<span class="literal">True</span>)<span class="comment">#降序</span></span><br><span class="line">print(a)</span><br></pre></td></tr></table></figure>
+<h3 id="类似于嵌套"><a class="header-anchor" href="#类似于嵌套">¶</a>类似于嵌套</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">schoolname=[[<span class="string">&quot;1&quot;</span>,<span class="string">&quot;2&quot;</span>],[],[]]</span><br><span class="line">print(schoolname[<span class="number">0</span>][<span class="number">1</span>])</span><br></pre></td></tr></table></figure>
+<h3 id="实例（办公室选人）"><a class="header-anchor" href="#实例（办公室选人）">¶</a>实例（办公室选人）</h3>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> random</span><br><span class="line">print(random.randint(<span class="number">1</span>,<span class="number">3</span>))</span><br><span class="line"></span><br><span class="line">offices =[[],[],[]]</span><br><span class="line">names=[<span class="string">&quot;a&quot;</span>,<span class="string">&quot;b&quot;</span>,<span class="string">&quot;c&quot;</span>,<span class="string">&quot;d&quot;</span>,<span class="string">&quot;e&quot;</span>,<span class="string">&quot;f&quot;</span>,<span class="string">&quot;g&quot;</span>]</span><br><span class="line"><span class="keyword">for</span> name <span class="keyword">in</span> names:</span><br><span class="line">    index = random.randint(<span class="number">0</span>,<span class="number">2</span>)</span><br><span class="line">    offices[index].append(name)</span><br><span class="line">i = <span class="number">1</span></span><br><span class="line"><span class="keyword">for</span> office <span class="keyword">in</span> offices:</span><br><span class="line">    print(<span class="string">&quot;办公室%d人数为：%d&quot;</span>%(i,<span class="built_in">len</span>(office)))</span><br><span class="line">    i+=<span class="number">1</span></span><br><span class="line">    <span class="keyword">for</span> name <span class="keyword">in</span> office:</span><br><span class="line">        print(<span class="string">&quot;%s&quot;</span>%name,end=<span class="string">&quot;\t&quot;</span>)</span><br><span class="line">    print(<span class="string">&quot;\n&quot;</span>)</span><br><span class="line">    print(<span class="string">&quot;-&quot;</span>*<span class="number">20</span>)</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>输出的%d要注意一一对应</p>
+<p>否则会出现TypeError: not all arguments converted during string formatting的低级问题</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>爬虫</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
       </tags>
   </entry>
   <entry>
