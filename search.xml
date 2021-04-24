@@ -13,6 +13,47 @@
 ]]></content>
   </entry>
   <entry>
+    <title>最近规划</title>
+    <url>/2021/04/22/schedule_2/</url>
+    <content><![CDATA[<h1 id="最近规划"><a href="#最近规划" class="headerlink" title="最近规划"></a>最近规划</h1><h2 id="想完成什么"><a href="#想完成什么" class="headerlink" title="想完成什么"></a>想完成什么</h2><ol>
+<li>提高词汇量，英语论文的阅读能力，作文写作水平</li>
+<li>专业知识掌握：电力系统远动，电力工程基础，电气控制与plc</li>
+<li>写作水平的提升</li>
+</ol>
+<h2 id="感兴趣的东西"><a href="#感兴趣的东西" class="headerlink" title="感兴趣的东西"></a>感兴趣的东西</h2><ol>
+<li>&lt;越狱&gt;，b站怪味爆米花，天天追，而且还耗时短</li>
+<li>经济学人里面的内容吧，有些句子翻译着翻译着就想大致读读全篇文章，了解一下</li>
+<li>电气控制这门课的电气控制考试内容会出什么电路，要不要把行程开关，速度继电器，电压电压继电器这些感觉比较冷门的器件学学</li>
+<li>想整个可以在批量下载mooc课件的爬虫，但不知道从何下手</li>
+</ol>
+<h2 id="2021-4-20"><a href="#2021-4-20" class="headerlink" title="2021.4.20"></a>2021.4.20</h2><ol>
+<li>完成英语单词</li>
+<li>精读经济学人10句话，一个想法：<ol>
+<li>我的notability里面有好多经济学人杂志却都没怎么看过</li>
+<li>背单词时想找个比较典型的例句来加深理解</li>
+<li>于是，啪！两者结合在了一起</li>
+<li>利用notability的索引功能查找想要深入理解的单词，直接找到单词所在句子，复制，粘贴，翻译，记录，一气呵成</li>
+<li>其中不乏翻译成中文也难以理解的句子，这些得靠维基百科，google搜索来进行了解相关典故</li>
+<li>但由于今天的10句话工作量相对较大，所以明天改为5句</li>
+</ol>
+</li>
+<li>电力系统远动开始了一定复习，对于最小码距，码重，纠错以及检错，遥信采集电路等内容有了更好的理解</li>
+</ol>
+<h2 id="2021-4-21"><a href="#2021-4-21" class="headerlink" title="2021.4.21"></a>2021.4.21</h2><ol>
+<li>完成英语单词</li>
+<li>经济学人5句话</li>
+<li>专业英语小作业，远动小作业，plc看了看</li>
+</ol>
+<h2 id="2021-4-22"><a href="#2021-4-22" class="headerlink" title="2021.4.22"></a>2021.4.22</h2><ol>
+<li>完成英语单词</li>
+<li>经济学人5句话</li>
+<li>远动中有源触点和无源触点区别在于是否存在电位差；A/D转换中的编码根据0~5V和-5~+5V的不同，而不同，比如0~5V是FFBH，-5~+5对应就是7FBH</li>
+<li>英语竞赛做了套题，感觉还除了大小作文外其他还不错</li>
+<li>plc中长延时可以通过多定时器或者定时器+计数器来实现</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>实时更新记录2021.4.8-2021.4.19 12天</title>
     <url>/2021/04/19/schedule_/</url>
     <content><![CDATA[<h1 id="头脑风暴"><a href="#头脑风暴" class="headerlink" title="头脑风暴"></a>头脑风暴</h1><h2 id="想完成什么"><a href="#想完成什么" class="headerlink" title="想完成什么"></a>想完成什么</h2><ol>
@@ -159,47 +200,6 @@
 <li>i cant finger it out</li>
 </ol>
 </li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>最近规划</title>
-    <url>/2021/04/22/schedule_2/</url>
-    <content><![CDATA[<h1 id="最近规划"><a href="#最近规划" class="headerlink" title="最近规划"></a>最近规划</h1><h2 id="想完成什么"><a href="#想完成什么" class="headerlink" title="想完成什么"></a>想完成什么</h2><ol>
-<li>提高词汇量，英语论文的阅读能力，作文写作水平</li>
-<li>专业知识掌握：电力系统远动，电力工程基础，电气控制与plc</li>
-<li>写作水平的提升</li>
-</ol>
-<h2 id="感兴趣的东西"><a href="#感兴趣的东西" class="headerlink" title="感兴趣的东西"></a>感兴趣的东西</h2><ol>
-<li>&lt;越狱&gt;，b站怪味爆米花，天天追，而且还耗时短</li>
-<li>经济学人里面的内容吧，有些句子翻译着翻译着就想大致读读全篇文章，了解一下</li>
-<li>电气控制这门课的电气控制考试内容会出什么电路，要不要把行程开关，速度继电器，电压电压继电器这些感觉比较冷门的器件学学</li>
-<li>想整个可以在批量下载mooc课件的爬虫，但不知道从何下手</li>
-</ol>
-<h2 id="2021-4-20"><a href="#2021-4-20" class="headerlink" title="2021.4.20"></a>2021.4.20</h2><ol>
-<li>完成英语单词</li>
-<li>精读经济学人10句话，一个想法：<ol>
-<li>我的notability里面有好多经济学人杂志却都没怎么看过</li>
-<li>背单词时想找个比较典型的例句来加深理解</li>
-<li>于是，啪！两者结合在了一起</li>
-<li>利用notability的索引功能查找想要深入理解的单词，直接找到单词所在句子，复制，粘贴，翻译，记录，一气呵成</li>
-<li>其中不乏翻译成中文也难以理解的句子，这些得靠维基百科，google搜索来进行了解相关典故</li>
-<li>但由于今天的10句话工作量相对较大，所以明天改为5句</li>
-</ol>
-</li>
-<li>电力系统远动开始了一定复习，对于最小码距，码重，纠错以及检错，遥信采集电路等内容有了更好的理解</li>
-</ol>
-<h2 id="2021-4-21"><a href="#2021-4-21" class="headerlink" title="2021.4.21"></a>2021.4.21</h2><ol>
-<li>完成英语单词</li>
-<li>经济学人5句话</li>
-<li>专业英语小作业，远动小作业，plc看了看</li>
-</ol>
-<h2 id="2021-4-22"><a href="#2021-4-22" class="headerlink" title="2021.4.22"></a>2021.4.22</h2><ol>
-<li>完成英语单词</li>
-<li>经济学人5句话</li>
-<li>远动中有源触点和无源触点区别在于是否存在电位差；A/D转换中的编码根据0~5V和-5~+5V的不同，而不同，比如0~5V是FFBH，-5~+5对应就是7FBH</li>
-<li>英语竞赛做了套题，感觉还除了大小作文外其他还不错</li>
-<li>plc中长延时可以通过多定时器或者定时器+计数器来实现</li>
 </ol>
 ]]></content>
   </entry>
@@ -479,46 +479,6 @@
       </tags>
   </entry>
   <entry>
-    <title>第一天复习python</title>
-    <url>/2021/01/16/%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%A4%8D%E4%B9%A0python/</url>
-    <content><![CDATA[<h3 id="重新下载pycharm"><a href="#重新下载pycharm" class="headerlink" title="重新下载pycharm"></a>重新下载pycharm</h3><p>对pycharm进行一些设置</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># -*- coding =utf-8 -*-</span></span><br><span class="line"><span class="comment"># @time : 2021/1/16 1:51</span></span><br><span class="line"><span class="comment"># @Author : Rov</span></span><br><span class="line"><span class="comment"># @File : co1.py</span></span><br><span class="line"><span class="comment"># @Software : PyCharm</span></span><br></pre></td></tr></table></figure>
-<h3 id="简单输出"><a href="#简单输出" class="headerlink" title="简单输出"></a>简单输出</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;hello world!&quot;</span>)</span><br><span class="line">a = <span class="number">10</span></span><br><span class="line">print(<span class="string">&quot;这是一个变量&quot;</span>,a)</span><br></pre></td></tr></table></figure>
-<h3 id="关键字"><a href="#关键字" class="headerlink" title="关键字"></a>关键字</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">keyword.kwlist</span><br><span class="line">[<span class="string">&#x27;False&#x27;</span>, <span class="string">&#x27;None&#x27;</span>, <span class="string">&#x27;True&#x27;</span>, <span class="string">&#x27;__peg_parser__&#x27;</span>, <span class="string">&#x27;and&#x27;</span>, <span class="string">&#x27;as&#x27;</span>, <span class="string">&#x27;assert&#x27;</span>, <span class="string">&#x27;async&#x27;</span>, <span class="string">&#x27;await&#x27;</span>, <span class="string">&#x27;break&#x27;</span>, <span class="string">&#x27;class&#x27;</span>, <span class="string">&#x27;continue&#x27;</span>, <span class="string">&#x27;def&#x27;</span>, <span class="string">&#x27;del&#x27;</span>, <span class="string">&#x27;elif&#x27;</span>, <span class="string">&#x27;else&#x27;</span>, <span class="string">&#x27;except&#x27;</span>, <span class="string">&#x27;finally&#x27;</span>, <span class="string">&#x27;for&#x27;</span>, <span class="string">&#x27;from&#x27;</span>, <span class="string">&#x27;global&#x27;</span>, <span class="string">&#x27;if&#x27;</span>, <span class="string">&#x27;import&#x27;</span>, <span class="string">&#x27;in&#x27;</span>, <span class="string">&#x27;is&#x27;</span>, <span class="string">&#x27;lambda&#x27;</span>, <span class="string">&#x27;nonlocal&#x27;</span>, <span class="string">&#x27;not&#x27;</span>, <span class="string">&#x27;or&#x27;</span>, <span class="string">&#x27;pass&#x27;</span>, <span class="string">&#x27;raise&#x27;</span>, <span class="string">&#x27;return&#x27;</span>, <span class="string">&#x27;try&#x27;</span>, <span class="string">&#x27;while&#x27;</span>, <span class="string">&#x27;with&#x27;</span>, <span class="string">&#x27;yield&#x27;</span>]</span><br></pre></td></tr></table></figure>
-<h3 id="输出传值"><a href="#输出传值" class="headerlink" title="输出传值"></a>输出传值</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">age = <span class="number">18</span></span><br><span class="line">print(<span class="string">&quot;我的年纪是:%d岁&quot;</span>%age)</span><br></pre></td></tr></table></figure>
-<p>%d %s很关键（s是字符串）</p>
-<h3 id="格式化输出"><a href="#格式化输出" class="headerlink" title="格式化输出"></a>格式化输出</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;我的名字是%s,我的国籍是%s&quot;</span>%(<span class="string">&quot;小张&quot;</span>,<span class="string">&quot;中国&quot;</span>))</span><br></pre></td></tr></table></figure>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;www&quot;</span>,<span class="string">&quot;baidu&quot;</span>,<span class="string">&quot;com&quot;</span>,sep=<span class="string">&quot;.&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;hello&quot;</span>,end=<span class="string">&quot;&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;world&quot;</span>,end=<span class="string">&quot;\t&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;python&quot;</span>,end=<span class="string">&quot;\n&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;end&quot;</span>)</span><br></pre></td></tr></table></figure>
-<h3 id="输入"><a href="#输入" class="headerlink" title="输入"></a>输入</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a=<span class="built_in">input</span>(<span class="string">&quot;输入：&quot;</span>)</span><br><span class="line">print(<span class="built_in">type</span>(a))</span><br></pre></td></tr></table></figure>
-<p>无论是什么都是字符串</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">&lt;<span class="class"><span class="keyword">class</span> &#x27;<span class="title">str</span>&#x27;&gt;</span></span><br></pre></td></tr></table></figure>
-<h3 id="转化"><a href="#转化" class="headerlink" title="转化"></a>转化</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a=<span class="built_in">int</span>(<span class="string">&quot;123&quot;</span>)</span><br><span class="line">b=a+<span class="number">100</span></span><br><span class="line">print(b)</span><br></pre></td></tr></table></figure>
-<h3 id="运算符"><a href="#运算符" class="headerlink" title="运算符"></a>运算符</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">+ - * / %</span><br><span class="line">== %等于</span><br><span class="line">!= %不等</span><br></pre></td></tr></table></figure>
-<h3 id="逻辑运算符"><a href="#逻辑运算符" class="headerlink" title="逻辑运算符"></a>逻辑运算符</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">and</span> <span class="keyword">or</span> <span class="keyword">not</span> </span><br><span class="line"><span class="keyword">in</span> /<span class="keyword">not</span> <span class="keyword">in</span> </span><br></pre></td></tr></table></figure>
-<h3 id="判断语句"><a href="#判断语句" class="headerlink" title="判断语句"></a>判断语句</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> 判断条件<span class="number">1</span> :</span><br><span class="line">	执行语句<span class="number">1</span></span><br><span class="line"><span class="keyword">elif</span> 判断语句<span class="number">2</span> :</span><br><span class="line">	执行语句<span class="number">2</span></span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">	执行语句<span class="number">3</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>
-<p><strong><em>后面的冒号很关键!!!</em></strong></p>
-<blockquote>
-<p>ezpz</p>
-</blockquote>
-<h3 id="随机数"><a href="#随机数" class="headerlink" title="随机数"></a>随机数</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> random</span><br><span class="line"></span><br><span class="line">x= random.randint(<span class="number">0</span>,<span class="number">2</span>)</span><br><span class="line">print(x)</span><br><span class="line">print(random.uniform(<span class="number">0</span>,<span class="number">2</span>))</span><br></pre></td></tr></table></figure>
-<p>randint：整数</p>
-<p>uniform：小数</p>
-<h3 id="循环语句"><a href="#循环语句" class="headerlink" title="循环语句"></a>循环语句</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">5</span>):</span><br><span class="line">	print(i)</span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">0</span>,<span class="number">10</span>,<span class="number">3</span>):</span><br><span class="line">	print(i)</span><br></pre></td></tr></table></figure>
-<p>如果是</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(a,b)</span><br><span class="line">	print(i)</span><br></pre></td></tr></table></figure>
-<p>则其范围为a~b-1</p>
-<p><strong>对于字符串</strong></p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">name =<span class="string">&quot;be nice&quot;</span></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> name:</span><br><span class="line">    print(i,end=<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
-<p><strong>while</strong></p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">while</span> i&lt;<span class="number">5</span>:</span><br><span class="line">    print(<span class="string">&quot;nice play!&quot;</span>)</span><br><span class="line">    print(<span class="string">&quot;i=%d&quot;</span>%i)</span><br><span class="line">    i+=<span class="number">1</span></span><br><span class="line">print(<span class="string">&quot;pass&quot;</span>)</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>爬虫</category>
-      </categories>
-      <tags>
-        <tag>python</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>第二天复习python</title>
     <url>/2021/01/17/%E7%AC%AC%E4%BA%8C%E5%A4%A9%E5%A4%8D%E4%B9%A0python/</url>
     <content><![CDATA[<h2 id="字符串"><a href="#字符串" class="headerlink" title="字符串"></a>字符串</h2><h3 id="表达方式"><a href="#表达方式" class="headerlink" title="表达方式"></a>表达方式</h3><ol>
@@ -561,6 +521,46 @@ easypeasy!</script><hr>
 <p>否则会出现TypeError: not all arguments converted during string formatting的低级问题</p>
 </blockquote>
 ]]></content>
+      <categories>
+        <category>爬虫</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第一天复习python</title>
+    <url>/2021/01/16/%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%A4%8D%E4%B9%A0python/</url>
+    <content><![CDATA[<h3 id="重新下载pycharm"><a href="#重新下载pycharm" class="headerlink" title="重新下载pycharm"></a>重新下载pycharm</h3><p>对pycharm进行一些设置</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># -*- coding =utf-8 -*-</span></span><br><span class="line"><span class="comment"># @time : 2021/1/16 1:51</span></span><br><span class="line"><span class="comment"># @Author : Rov</span></span><br><span class="line"><span class="comment"># @File : co1.py</span></span><br><span class="line"><span class="comment"># @Software : PyCharm</span></span><br></pre></td></tr></table></figure>
+<h3 id="简单输出"><a href="#简单输出" class="headerlink" title="简单输出"></a>简单输出</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;hello world!&quot;</span>)</span><br><span class="line">a = <span class="number">10</span></span><br><span class="line">print(<span class="string">&quot;这是一个变量&quot;</span>,a)</span><br></pre></td></tr></table></figure>
+<h3 id="关键字"><a href="#关键字" class="headerlink" title="关键字"></a>关键字</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">keyword.kwlist</span><br><span class="line">[<span class="string">&#x27;False&#x27;</span>, <span class="string">&#x27;None&#x27;</span>, <span class="string">&#x27;True&#x27;</span>, <span class="string">&#x27;__peg_parser__&#x27;</span>, <span class="string">&#x27;and&#x27;</span>, <span class="string">&#x27;as&#x27;</span>, <span class="string">&#x27;assert&#x27;</span>, <span class="string">&#x27;async&#x27;</span>, <span class="string">&#x27;await&#x27;</span>, <span class="string">&#x27;break&#x27;</span>, <span class="string">&#x27;class&#x27;</span>, <span class="string">&#x27;continue&#x27;</span>, <span class="string">&#x27;def&#x27;</span>, <span class="string">&#x27;del&#x27;</span>, <span class="string">&#x27;elif&#x27;</span>, <span class="string">&#x27;else&#x27;</span>, <span class="string">&#x27;except&#x27;</span>, <span class="string">&#x27;finally&#x27;</span>, <span class="string">&#x27;for&#x27;</span>, <span class="string">&#x27;from&#x27;</span>, <span class="string">&#x27;global&#x27;</span>, <span class="string">&#x27;if&#x27;</span>, <span class="string">&#x27;import&#x27;</span>, <span class="string">&#x27;in&#x27;</span>, <span class="string">&#x27;is&#x27;</span>, <span class="string">&#x27;lambda&#x27;</span>, <span class="string">&#x27;nonlocal&#x27;</span>, <span class="string">&#x27;not&#x27;</span>, <span class="string">&#x27;or&#x27;</span>, <span class="string">&#x27;pass&#x27;</span>, <span class="string">&#x27;raise&#x27;</span>, <span class="string">&#x27;return&#x27;</span>, <span class="string">&#x27;try&#x27;</span>, <span class="string">&#x27;while&#x27;</span>, <span class="string">&#x27;with&#x27;</span>, <span class="string">&#x27;yield&#x27;</span>]</span><br></pre></td></tr></table></figure>
+<h3 id="输出传值"><a href="#输出传值" class="headerlink" title="输出传值"></a>输出传值</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">age = <span class="number">18</span></span><br><span class="line">print(<span class="string">&quot;我的年纪是:%d岁&quot;</span>%age)</span><br></pre></td></tr></table></figure>
+<p>%d %s很关键（s是字符串）</p>
+<h3 id="格式化输出"><a href="#格式化输出" class="headerlink" title="格式化输出"></a>格式化输出</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;我的名字是%s,我的国籍是%s&quot;</span>%(<span class="string">&quot;小张&quot;</span>,<span class="string">&quot;中国&quot;</span>))</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;www&quot;</span>,<span class="string">&quot;baidu&quot;</span>,<span class="string">&quot;com&quot;</span>,sep=<span class="string">&quot;.&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;hello&quot;</span>,end=<span class="string">&quot;&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;world&quot;</span>,end=<span class="string">&quot;\t&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;python&quot;</span>,end=<span class="string">&quot;\n&quot;</span>)</span><br><span class="line">print(<span class="string">&quot;end&quot;</span>)</span><br></pre></td></tr></table></figure>
+<h3 id="输入"><a href="#输入" class="headerlink" title="输入"></a>输入</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a=<span class="built_in">input</span>(<span class="string">&quot;输入：&quot;</span>)</span><br><span class="line">print(<span class="built_in">type</span>(a))</span><br></pre></td></tr></table></figure>
+<p>无论是什么都是字符串</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">&lt;<span class="class"><span class="keyword">class</span> &#x27;<span class="title">str</span>&#x27;&gt;</span></span><br></pre></td></tr></table></figure>
+<h3 id="转化"><a href="#转化" class="headerlink" title="转化"></a>转化</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a=<span class="built_in">int</span>(<span class="string">&quot;123&quot;</span>)</span><br><span class="line">b=a+<span class="number">100</span></span><br><span class="line">print(b)</span><br></pre></td></tr></table></figure>
+<h3 id="运算符"><a href="#运算符" class="headerlink" title="运算符"></a>运算符</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">+ - * / %</span><br><span class="line">== %等于</span><br><span class="line">!= %不等</span><br></pre></td></tr></table></figure>
+<h3 id="逻辑运算符"><a href="#逻辑运算符" class="headerlink" title="逻辑运算符"></a>逻辑运算符</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">and</span> <span class="keyword">or</span> <span class="keyword">not</span> </span><br><span class="line"><span class="keyword">in</span> /<span class="keyword">not</span> <span class="keyword">in</span> </span><br></pre></td></tr></table></figure>
+<h3 id="判断语句"><a href="#判断语句" class="headerlink" title="判断语句"></a>判断语句</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> 判断条件<span class="number">1</span> :</span><br><span class="line">	执行语句<span class="number">1</span></span><br><span class="line"><span class="keyword">elif</span> 判断语句<span class="number">2</span> :</span><br><span class="line">	执行语句<span class="number">2</span></span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">	执行语句<span class="number">3</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p><strong><em>后面的冒号很关键!!!</em></strong></p>
+<blockquote>
+<p>ezpz</p>
+</blockquote>
+<h3 id="随机数"><a href="#随机数" class="headerlink" title="随机数"></a>随机数</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> random</span><br><span class="line"></span><br><span class="line">x= random.randint(<span class="number">0</span>,<span class="number">2</span>)</span><br><span class="line">print(x)</span><br><span class="line">print(random.uniform(<span class="number">0</span>,<span class="number">2</span>))</span><br></pre></td></tr></table></figure>
+<p>randint：整数</p>
+<p>uniform：小数</p>
+<h3 id="循环语句"><a href="#循环语句" class="headerlink" title="循环语句"></a>循环语句</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">5</span>):</span><br><span class="line">	print(i)</span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">0</span>,<span class="number">10</span>,<span class="number">3</span>):</span><br><span class="line">	print(i)</span><br></pre></td></tr></table></figure>
+<p>如果是</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(a,b)</span><br><span class="line">	print(i)</span><br></pre></td></tr></table></figure>
+<p>则其范围为a~b-1</p>
+<p><strong>对于字符串</strong></p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">name =<span class="string">&quot;be nice&quot;</span></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> name:</span><br><span class="line">    print(i,end=<span class="string">&quot;&quot;</span>)</span><br></pre></td></tr></table></figure>
+<p><strong>while</strong></p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">while</span> i&lt;<span class="number">5</span>:</span><br><span class="line">    print(<span class="string">&quot;nice play!&quot;</span>)</span><br><span class="line">    print(<span class="string">&quot;i=%d&quot;</span>%i)</span><br><span class="line">    i+=<span class="number">1</span></span><br><span class="line">print(<span class="string">&quot;pass&quot;</span>)</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>爬虫</category>
       </categories>
@@ -683,6 +683,48 @@ easypeasy!</script><hr>
       </tags>
   </entry>
   <entry>
+    <title>经济学人第4天</title>
+    <url>/2021/04/23/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%AC%AC4%E5%A4%A9/</url>
+    <content><![CDATA[<ol>
+<li><p>Relevance is not the same as fast growth, which may prove elusive given  competition from aws and others. But it is better than the digital dustbin of  obscurity.<br>相关性不同于快速增长，考虑到来自aws和其他公司的竞争，快速增长可能难以捉摸。但总比默默无闻的数字垃圾箱好。</p>
+<p>elusive 难以捉摸的</p>
+</li>
+<li><p>Mr Miller boasted that his firm sealed a wellbore in the North Sea with cement  in a process that was, for the first time, fully automated.<br>米勒先生炫耀道，他的公司在北海首次以完全自动化的方式用水泥密封了一个钻井孔。</p>
+<p>wellbore 钻井孔</p>
+<p>cement 水泥，巩固，加强</p>
+</li>
+<li><p>A career retrospective that filled the galleries at Tate Britain in 2017 (before  a worldwide tour) brought home how much work she had made over 30 years, freeing  her to set off in a new direction.<br>2017年，泰特英国美术馆举办的一场职业回顾展(在全球巡演之前)使她深刻认识到她30多年来所做的工作，让她可以自由地走向新的方向。</p>
+<p>bring home 深刻认识到 ，make understandable and clear</p>
+<p>retrospective 回顾的，怀旧的，可追溯的</p>
+</li>
+<li><p>A scheme to trace supply chains known as ITSCI run by the International Tin  Association based in London and an American charity, Pact, helped bring  tentative buyers back to Congo.<br>总部设在伦敦的国际锡业协会和美国慈善机构Pact经营的名为ITSCI的供应链追踪计划，帮助将暂定的买家带回刚果。</p>
+<p>a scheme to trace supply chains 供应链追踪计划</p>
+<p>tentative 试验性的，暂定的，踌躇的</p>
+<blockquote>
+<p>ITSCI官网</p>
+<p>ITSCI works to achieve avoidance of conflict financing, human rights abuses, or other risks such as bribery in mineral supply chains. Our reference is the OECD Due Diligence Guidance and the OECD has confirmed our standards are 100% aligned with the guidance; see <a class="link" href="https://www.itsci.org/2018/07/11/itsci-achieves-highest-rating-in-independent-oecd-alignment-study/">here.<i class="fas fa-external-link-alt"></i></a><br>Our monitored supply chains allow metal users to source responsibly and avoid total disengagement from high risk areas, while ensuring that miners continue to benefit from responsible business opportunity.<br>By making available unique and credible information to businesses, government authorities and civil society participation in ITSCI allows them to take appropriate and effective decisions on due diligence and steps towards progressive improvement.<br>Sharing of our detailed and credible information, which is generated to a common standard by a range of appropriate experts, encourages accountability of all stakeholders, and as a result, reduces business risk and increases opportunity for all.<br>ITSCI currently focuses on Burundi, Democratic Republic of Congo, Rwanda and Uganda.</p>
+<p>ITSCI致力于避免冲突融资、侵犯人权或其他风险，如矿产供应链中的贿赂。我们的参考是OECD尽职调查指南，OECD已确认我们的标准与指南100%一致；看这里。</p>
+<p>我们监控的供应链允许金属用户负责任地采购，避免完全脱离高风险地区，同时确保矿工继续受益于负责任的商机。</p>
+<p>通过向企业提供独特和可信的信息，政府当局和民间社会参与ITSCI使它们能够就尽职调查和逐步改进的步骤作出适当和有效的决定。</p>
+<p>分享我们的详细和可信的信息，这些信息是由一系列适当的专家按照共同的标准生成的，鼓励所有利益相关者承担责任，从而降低业务风险，增加所有人的机会。</p>
+<p>ITSCI目前的工作重点在于布隆迪、刚果民主共和国、卢旺达和乌干达。</p>
+</blockquote>
+</li>
+<li><p>Last year the country was shaken by months of protest by people fed up with  decades of ingrained corruption, political meddling in the judiciary and  arrogant oligarchs.<br>去年，几个月的抗议动摇了这个国家，抗议的人群厌倦了几十年根深蒂固的腐败、对司法的政治干预和傲慢的寡头政治。</p>
+<p>ingrained 根深蒂固的</p>
+<p>political meddling 政治干预</p>
+<p>oligarch 寡头政治的执政者</p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>英语</category>
+      </categories>
+      <tags>
+        <tag>经济学人</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>经济学人第3天</title>
     <url>/2021/04/22/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%AC%AC3%E5%A4%A9/</url>
     <content><![CDATA[<ol>
@@ -747,48 +789,6 @@ easypeasy!</script><hr>
 <p>abstract: Cliodynamics (etymologically from Clio, one of the nine muses (that of  history), and dynamics (the study of temporally varying processes)) is a new  multidisciplinary area of research focused at mathematical modeling of  historical dynamics.Peter Turchin Arise cliodynamics, 2008 Nature (3 July 2008)  </p>
 <p>摘要:cliodynamics (Clio, the nine muses of history, and dynamics (the study of  temporally varying processes，时间变化过程的研究)是一个新的多学科研究领域，专注于历史动力学的数学建模。Peter Turchin  Arise cliodynamics, 2008 Nature(2008年7月3日)</p>
 </blockquote>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>英语</category>
-      </categories>
-      <tags>
-        <tag>经济学人</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>经济学人第4天</title>
-    <url>/2021/04/23/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%AC%AC4%E5%A4%A9/</url>
-    <content><![CDATA[<ol>
-<li><p>Relevance is not the same as fast growth, which may prove elusive given  competition from aws and others. But it is better than the digital dustbin of  obscurity.<br>相关性不同于快速增长，考虑到来自aws和其他公司的竞争，快速增长可能难以捉摸。但总比默默无闻的数字垃圾箱好。</p>
-<p>elusive 难以捉摸的</p>
-</li>
-<li><p>Mr Miller boasted that his firm sealed a wellbore in the North Sea with cement  in a process that was, for the first time, fully automated.<br>米勒先生炫耀道，他的公司在北海首次以完全自动化的方式用水泥密封了一个钻井孔。</p>
-<p>wellbore 钻井孔</p>
-<p>cement 水泥，巩固，加强</p>
-</li>
-<li><p>A career retrospective that filled the galleries at Tate Britain in 2017 (before  a worldwide tour) brought home how much work she had made over 30 years, freeing  her to set off in a new direction.<br>2017年，泰特英国美术馆举办的一场职业回顾展(在全球巡演之前)使她深刻认识到她30多年来所做的工作，让她可以自由地走向新的方向。</p>
-<p>bring home 深刻认识到 ，make understandable and clear</p>
-<p>retrospective 回顾的，怀旧的，可追溯的</p>
-</li>
-<li><p>A scheme to trace supply chains known as ITSCI run by the International Tin  Association based in London and an American charity, Pact, helped bring  tentative buyers back to Congo.<br>总部设在伦敦的国际锡业协会和美国慈善机构Pact经营的名为ITSCI的供应链追踪计划，帮助将暂定的买家带回刚果。</p>
-<p>a scheme to trace supply chains 供应链追踪计划</p>
-<p>tentative 试验性的，暂定的，踌躇的</p>
-<blockquote>
-<p>ITSCI官网</p>
-<p>ITSCI works to achieve avoidance of conflict financing, human rights abuses, or other risks such as bribery in mineral supply chains. Our reference is the OECD Due Diligence Guidance and the OECD has confirmed our standards are 100% aligned with the guidance; see <a class="link" href="https://www.itsci.org/2018/07/11/itsci-achieves-highest-rating-in-independent-oecd-alignment-study/">here.<i class="fas fa-external-link-alt"></i></a><br>Our monitored supply chains allow metal users to source responsibly and avoid total disengagement from high risk areas, while ensuring that miners continue to benefit from responsible business opportunity.<br>By making available unique and credible information to businesses, government authorities and civil society participation in ITSCI allows them to take appropriate and effective decisions on due diligence and steps towards progressive improvement.<br>Sharing of our detailed and credible information, which is generated to a common standard by a range of appropriate experts, encourages accountability of all stakeholders, and as a result, reduces business risk and increases opportunity for all.<br>ITSCI currently focuses on Burundi, Democratic Republic of Congo, Rwanda and Uganda.</p>
-<p>ITSCI致力于避免冲突融资、侵犯人权或其他风险，如矿产供应链中的贿赂。我们的参考是OECD尽职调查指南，OECD已确认我们的标准与指南100%一致；看这里。</p>
-<p>我们监控的供应链允许金属用户负责任地采购，避免完全脱离高风险地区，同时确保矿工继续受益于负责任的商机。</p>
-<p>通过向企业提供独特和可信的信息，政府当局和民间社会参与ITSCI使它们能够就尽职调查和逐步改进的步骤作出适当和有效的决定。</p>
-<p>分享我们的详细和可信的信息，这些信息是由一系列适当的专家按照共同的标准生成的，鼓励所有利益相关者承担责任，从而降低业务风险，增加所有人的机会。</p>
-<p>ITSCI目前的工作重点在于布隆迪、刚果民主共和国、卢旺达和乌干达。</p>
-</blockquote>
-</li>
-<li><p>Last year the country was shaken by months of protest by people fed up with  decades of ingrained corruption, political meddling in the judiciary and  arrogant oligarchs.<br>去年，几个月的抗议动摇了这个国家，抗议的人群厌倦了几十年根深蒂固的腐败、对司法的政治干预和傲慢的寡头政治。</p>
-<p>ingrained 根深蒂固的</p>
-<p>political meddling 政治干预</p>
-<p>oligarch 寡头政治的执政者</p>
 </li>
 </ol>
 ]]></content>
