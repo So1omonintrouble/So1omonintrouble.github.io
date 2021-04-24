@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>About</title>
-    <url>/2021/01/13/index/</url>
-    <content><![CDATA[<h2 id="作者介绍"><a class="header-anchor" href="#作者介绍">¶</a>作者介绍</h2>
-<p>学生，现就读于兰州交通大学电气工程及其自动化专业本科，对计算机的学习有着浓厚的兴趣。</p>
-<h2 id="创建目的"><a class="header-anchor" href="#创建目的">¶</a>创建目的</h2>
-<ol>
-<li><strong>为更深刻的学习</strong><br>
-笔者认为学习知识不能使单方面的由老师教授，学生接受，而是应有学生在接受过老师的讲授之后，再由自己亲身地去输出传达的知识，以使自己对知识本身有着更深刻的了解（即相当于学生本身也成为了老师）</li>
-<li><strong>为个人的坚持</strong><br>
-笔者虽对电脑学习有着比较高昂的兴趣，类似于爬虫，机器学习，python，matlab算法等等，网上学习的复杂性使得笔者很难搞清楚自己究竟想要哪一个方面的学习，而dota2，csgo的“学习”又让笔者耗费了大量的时间，故想尝试通过自己输出知识来强迫自己坚持学习</li>
-<li><strong>为知识的共享</strong><br>
-就拿专业课知识来讲，现在的，近一学期的专业课知识，对笔者来讲，有太多的知识点在baidu，在Google是找不到的，多数情况下出现问题，只能通过问老师，问学长学姐，论坛等待回答等这些比较不容易快速得到答案的方式来解决问题，而如果我们建立自己专业课的常见或日常问题在各个搜索引擎上的索引，是不是就可以更方便的帮助到他人，帮助当自己呢？</li>
-</ol>
-<h2 id="对未来的期望"><a class="header-anchor" href="#对未来的期望">¶</a>对未来的期望</h2>
-<p>目前的网页只是暂时的，希望过不了多久，我的网页也可以像网上那些大牛一样，先把头像做出来，评论，对话框，背景，动态什么的一一都有，那样的话，也就差不多成型了。</p>
-]]></content>
-  </entry>
-  <entry>
     <title>实时更新记录2021.4.8-2021.4.19 12天</title>
     <url>/2021/04/19/schedule_/</url>
     <content><![CDATA[<h1>头脑风暴</h1>
@@ -204,51 +186,21 @@
 ]]></content>
   </entry>
   <entry>
-    <title>最近规划</title>
-    <url>/2021/04/22/schedule_2/</url>
-    <content><![CDATA[<h1>最近规划</h1>
-<h2 id="想完成什么"><a class="header-anchor" href="#想完成什么">¶</a>想完成什么</h2>
+    <title>About</title>
+    <url>/2021/01/13/index/</url>
+    <content><![CDATA[<h2 id="作者介绍"><a class="header-anchor" href="#作者介绍">¶</a>作者介绍</h2>
+<p>学生，现就读于兰州交通大学电气工程及其自动化专业本科，对计算机的学习有着浓厚的兴趣。</p>
+<h2 id="创建目的"><a class="header-anchor" href="#创建目的">¶</a>创建目的</h2>
 <ol>
-<li>提高词汇量，英语论文的阅读能力，作文写作水平</li>
-<li>专业知识掌握：电力系统远动，电力工程基础，电气控制与plc</li>
-<li>写作水平的提升</li>
+<li><strong>为更深刻的学习</strong><br>
+笔者认为学习知识不能使单方面的由老师教授，学生接受，而是应有学生在接受过老师的讲授之后，再由自己亲身地去输出传达的知识，以使自己对知识本身有着更深刻的了解（即相当于学生本身也成为了老师）</li>
+<li><strong>为个人的坚持</strong><br>
+笔者虽对电脑学习有着比较高昂的兴趣，类似于爬虫，机器学习，python，matlab算法等等，网上学习的复杂性使得笔者很难搞清楚自己究竟想要哪一个方面的学习，而dota2，csgo的“学习”又让笔者耗费了大量的时间，故想尝试通过自己输出知识来强迫自己坚持学习</li>
+<li><strong>为知识的共享</strong><br>
+就拿专业课知识来讲，现在的，近一学期的专业课知识，对笔者来讲，有太多的知识点在baidu，在Google是找不到的，多数情况下出现问题，只能通过问老师，问学长学姐，论坛等待回答等这些比较不容易快速得到答案的方式来解决问题，而如果我们建立自己专业课的常见或日常问题在各个搜索引擎上的索引，是不是就可以更方便的帮助到他人，帮助当自己呢？</li>
 </ol>
-<h2 id="感兴趣的东西"><a class="header-anchor" href="#感兴趣的东西">¶</a>感兴趣的东西</h2>
-<ol>
-<li>&lt;越狱&gt;，b站怪味爆米花，天天追，而且还耗时短</li>
-<li>经济学人里面的内容吧，有些句子翻译着翻译着就想大致读读全篇文章，了解一下</li>
-<li>电气控制这门课的电气控制考试内容会出什么电路，要不要把行程开关，速度继电器，电压电压继电器这些感觉比较冷门的器件学学</li>
-<li>想整个可以在批量下载mooc课件的爬虫，但不知道从何下手</li>
-</ol>
-<h2 id="2021-4-20"><a class="header-anchor" href="#2021-4-20">¶</a>2021.4.20</h2>
-<ol>
-<li>完成英语单词</li>
-<li>精读经济学人10句话，一个想法：
-<ol>
-<li>我的notability里面有好多经济学人杂志却都没怎么看过</li>
-<li>背单词时想找个比较典型的例句来加深理解</li>
-<li>于是，啪！两者结合在了一起</li>
-<li>利用notability的索引功能查找想要深入理解的单词，直接找到单词所在句子，复制，粘贴，翻译，记录，一气呵成</li>
-<li>其中不乏翻译成中文也难以理解的句子，这些得靠维基百科，google搜索来进行了解相关典故</li>
-<li>但由于今天的10句话工作量相对较大，所以明天改为5句</li>
-</ol>
-</li>
-<li>电力系统远动开始了一定复习，对于最小码距，码重，纠错以及检错，遥信采集电路等内容有了更好的理解</li>
-</ol>
-<h2 id="2021-4-21"><a class="header-anchor" href="#2021-4-21">¶</a>2021.4.21</h2>
-<ol>
-<li>完成英语单词</li>
-<li>经济学人5句话</li>
-<li>专业英语小作业，远动小作业，plc看了看</li>
-</ol>
-<h2 id="2021-4-22"><a class="header-anchor" href="#2021-4-22">¶</a>2021.4.22</h2>
-<ol>
-<li>完成英语单词</li>
-<li>经济学人5句话</li>
-<li>远动中有源触点和无源触点区别在于是否存在电位差；A/D转换中的编码根据0<sub>5V和-5</sub>+5V的不同，而不同，比如0<sub>5V是FFBH，-5</sub>+5对应就是7FBH</li>
-<li>英语竞赛做了套题，感觉还除了大小作文外其他还不错</li>
-<li>plc中长延时可以通过多定时器或者定时器+计数器来实现</li>
-</ol>
+<h2 id="对未来的期望"><a class="header-anchor" href="#对未来的期望">¶</a>对未来的期望</h2>
+<p>目前的网页只是暂时的，希望过不了多久，我的网页也可以像网上那些大牛一样，先把头像做出来，评论，对话框，背景，动态什么的一一都有，那样的话，也就差不多成型了。</p>
 ]]></content>
   </entry>
   <entry>
@@ -394,46 +346,52 @@ feeding systems.</p>
       </tags>
   </entry>
   <entry>
-    <title>日常在ios/ipados上播放本地音乐(脱离在线播放器)</title>
-    <url>/2021/01/30/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8/</url>
-    <content><![CDATA[<h1>前言</h1>
-<p>音乐作为现代娱乐生活中的一个部分，在我看来相当重要，而音乐播放软体的选择则令人大费周折，笔者用过网易云，qq音乐，酷狗音乐，apple music， 还有spotify。也经历了从mp3听歌到后来的手机、平板听歌的转变，由于考虑到各方面的因素，首先是歌曲的版权，笔者发现以上播放器的版权无一可以满足笔者对自己喜欢歌曲的需求，尤其是梦想的声音综艺节目上的歌曲在网易云，apple music ，spotify 上均无，而在其他软体上又难以找到笔者已购的独立游戏soundtrack，其次在价格上，国内软体又普遍需要二次购买最新的数字专辑，同样价格也不菲，让本来就不富裕的家庭更是雪上加霜😭。</p>
-<p>故而，我选择了先在本地下载然后使用本地播放器的方式进行播放。</p>
-<h1>简述</h1>
-<p>下载通过酷我音乐破解版windows，上传和播放通过ios/ipados生态下的ever play，即可实现免费听任意歌曲。</p>
-<h1>详细内容</h1>
-<h2 id="音乐下载器"><a class="header-anchor" href="#音乐下载器">¶</a>音乐下载器</h2>
-<p>酷我音乐破解版windows下载地址：	链接：<a class="link" href="https://pan.baidu.com/s/1MXIpspEHOtW46rbIAeKnmA">https://pan.baidu.com/s/1MXIpspEHOtW46rbIAeKnmA<i class="fas fa-external-link-alt"></i></a><br>
-提取码：solo</p>
-<p>下载完之后安装打开搜索自己喜欢的音乐即可完全免费下载（无需登录）</p>
-<h2 id="音乐播放器"><a class="header-anchor" href="#音乐播放器">¶</a>音乐播放器</h2>
-<h3 id="下载"><a class="header-anchor" href="#下载">¶</a>下载</h3>
-<p>ever play下载地址（ios/ipados生态）：链接：<a class="link" href="https://apps.apple.com/cn/app/id1202642773">https://apps.apple.com/cn/app/id1202642773<i class="fas fa-external-link-alt"></i></a></p>
-<h3 id="介绍"><a class="header-anchor" href="#介绍">¶</a>介绍</h3>
-<p>ever play是一款免费使用的本地音乐播放软体，其包含付费功能总结就是</p>
+    <title>最近规划</title>
+    <url>/2021/04/22/schedule_2/</url>
+    <content><![CDATA[<h1>最近规划</h1>
+<h2 id="想完成什么"><a class="header-anchor" href="#想完成什么">¶</a>想完成什么</h2>
 <ol>
-<li>可以播放高清音乐文件（目前还没有使用过该功能，下载的最高音质歌曲也是无法达到该水平的）</li>
-<li>音乐可视化（可以试用，个人感受一般）</li>
-<li>更改专辑封面图片（强迫症可能需要，就像我用过的网易云那样）</li>
+<li>提高词汇量，英语论文的阅读能力，作文写作水平</li>
+<li>专业知识掌握：电力系统远动，电力工程基础，电气控制与plc</li>
+<li>写作水平的提升</li>
 </ol>
-<h3 id="歌曲上传"><a class="header-anchor" href="#歌曲上传">¶</a>歌曲上传</h3>
-<p>有三种上传方式分别是使用电脑iTunes文件共享，AirDrop隔空投送，以及我们接下来单推的Wi-Fi传输。</p>
+<h2 id="感兴趣的东西"><a class="header-anchor" href="#感兴趣的东西">¶</a>感兴趣的东西</h2>
 <ol>
-<li>在ever play 软体中进入设置Wi-Fi传输<br>
-<img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p1.1jnd4h68d0bk.png" alt="p1"></li>
-<li>在同一WiFi的前提下，使用windows浏览器输入以下地址<br>
-<img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p2.3s3dynv303c0.png" alt="p2"></li>
-<li>进入网页后<br>
-<img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p3.372owt8v7bs0.png" alt="p3"></li>
-<li>上传成功之后即可在ios/ipados端听歌了</li>
+<li>&lt;越狱&gt;，b站怪味爆米花，天天追，而且还耗时短</li>
+<li>经济学人里面的内容吧，有些句子翻译着翻译着就想大致读读全篇文章，了解一下</li>
+<li>电气控制这门课的电气控制考试内容会出什么电路，要不要把行程开关，速度继电器，电压电压继电器这些感觉比较冷门的器件学学</li>
+<li>想整个可以在批量下载mooc课件的爬虫，但不知道从何下手</li>
+</ol>
+<h2 id="2021-4-20"><a class="header-anchor" href="#2021-4-20">¶</a>2021.4.20</h2>
+<ol>
+<li>完成英语单词</li>
+<li>精读经济学人10句话，一个想法：
+<ol>
+<li>我的notability里面有好多经济学人杂志却都没怎么看过</li>
+<li>背单词时想找个比较典型的例句来加深理解</li>
+<li>于是，啪！两者结合在了一起</li>
+<li>利用notability的索引功能查找想要深入理解的单词，直接找到单词所在句子，复制，粘贴，翻译，记录，一气呵成</li>
+<li>其中不乏翻译成中文也难以理解的句子，这些得靠维基百科，google搜索来进行了解相关典故</li>
+<li>但由于今天的10句话工作量相对较大，所以明天改为5句</li>
+</ol>
+</li>
+<li>电力系统远动开始了一定复习，对于最小码距，码重，纠错以及检错，遥信采集电路等内容有了更好的理解</li>
+</ol>
+<h2 id="2021-4-21"><a class="header-anchor" href="#2021-4-21">¶</a>2021.4.21</h2>
+<ol>
+<li>完成英语单词</li>
+<li>经济学人5句话</li>
+<li>专业英语小作业，远动小作业，plc看了看</li>
+</ol>
+<h2 id="2021-4-22"><a class="header-anchor" href="#2021-4-22">¶</a>2021.4.22</h2>
+<ol>
+<li>完成英语单词</li>
+<li>经济学人5句话</li>
+<li>远动中有源触点和无源触点区别在于是否存在电位差；A/D转换中的编码根据0<sub>5V和-5</sub>+5V的不同，而不同，比如0<sub>5V是FFBH，-5</sub>+5对应就是7FBH</li>
+<li>英语竞赛做了套题，感觉还除了大小作文外其他还不错</li>
+<li>plc中长延时可以通过多定时器或者定时器+计数器来实现</li>
 </ol>
 ]]></content>
-      <categories>
-        <category>practice</category>
-      </categories>
-      <tags>
-        <tag>music</tag>
-      </tags>
   </entry>
   <entry>
     <title>电力系统变电站</title>
@@ -525,6 +483,48 @@ feeding systems.</p>
       </categories>
       <tags>
         <tag>电力工程基础</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>日常在ios/ipados上播放本地音乐(脱离在线播放器)</title>
+    <url>/2021/01/30/%E6%97%A5%E5%B8%B8%E5%9C%A8ios-ipados%E4%B8%8A%E6%92%AD%E6%94%BE%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90-%E8%84%B1%E7%A6%BB%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE%E5%99%A8/</url>
+    <content><![CDATA[<h1>前言</h1>
+<p>音乐作为现代娱乐生活中的一个部分，在我看来相当重要，而音乐播放软体的选择则令人大费周折，笔者用过网易云，qq音乐，酷狗音乐，apple music， 还有spotify。也经历了从mp3听歌到后来的手机、平板听歌的转变，由于考虑到各方面的因素，首先是歌曲的版权，笔者发现以上播放器的版权无一可以满足笔者对自己喜欢歌曲的需求，尤其是梦想的声音综艺节目上的歌曲在网易云，apple music ，spotify 上均无，而在其他软体上又难以找到笔者已购的独立游戏soundtrack，其次在价格上，国内软体又普遍需要二次购买最新的数字专辑，同样价格也不菲，让本来就不富裕的家庭更是雪上加霜😭。</p>
+<p>故而，我选择了先在本地下载然后使用本地播放器的方式进行播放。</p>
+<h1>简述</h1>
+<p>下载通过酷我音乐破解版windows，上传和播放通过ios/ipados生态下的ever play，即可实现免费听任意歌曲。</p>
+<h1>详细内容</h1>
+<h2 id="音乐下载器"><a class="header-anchor" href="#音乐下载器">¶</a>音乐下载器</h2>
+<p>酷我音乐破解版windows下载地址：	链接：<a class="link" href="https://pan.baidu.com/s/1MXIpspEHOtW46rbIAeKnmA">https://pan.baidu.com/s/1MXIpspEHOtW46rbIAeKnmA<i class="fas fa-external-link-alt"></i></a><br>
+提取码：solo</p>
+<p>下载完之后安装打开搜索自己喜欢的音乐即可完全免费下载（无需登录）</p>
+<h2 id="音乐播放器"><a class="header-anchor" href="#音乐播放器">¶</a>音乐播放器</h2>
+<h3 id="下载"><a class="header-anchor" href="#下载">¶</a>下载</h3>
+<p>ever play下载地址（ios/ipados生态）：链接：<a class="link" href="https://apps.apple.com/cn/app/id1202642773">https://apps.apple.com/cn/app/id1202642773<i class="fas fa-external-link-alt"></i></a></p>
+<h3 id="介绍"><a class="header-anchor" href="#介绍">¶</a>介绍</h3>
+<p>ever play是一款免费使用的本地音乐播放软体，其包含付费功能总结就是</p>
+<ol>
+<li>可以播放高清音乐文件（目前还没有使用过该功能，下载的最高音质歌曲也是无法达到该水平的）</li>
+<li>音乐可视化（可以试用，个人感受一般）</li>
+<li>更改专辑封面图片（强迫症可能需要，就像我用过的网易云那样）</li>
+</ol>
+<h3 id="歌曲上传"><a class="header-anchor" href="#歌曲上传">¶</a>歌曲上传</h3>
+<p>有三种上传方式分别是使用电脑iTunes文件共享，AirDrop隔空投送，以及我们接下来单推的Wi-Fi传输。</p>
+<ol>
+<li>在ever play 软体中进入设置Wi-Fi传输<br>
+<img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p1.1jnd4h68d0bk.png" alt="p1"></li>
+<li>在同一WiFi的前提下，使用windows浏览器输入以下地址<br>
+<img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p2.3s3dynv303c0.png" alt="p2"></li>
+<li>进入网页后<br>
+<img src="https://cdn.jsdelivr.net/gh/So1omonintrouble/image@master/20210415/p3.372owt8v7bs0.png" alt="p3"></li>
+<li>上传成功之后即可在ios/ipados端听歌了</li>
+</ol>
+]]></content>
+      <categories>
+        <category>practice</category>
+      </categories>
+      <tags>
+        <tag>music</tag>
       </tags>
   </entry>
   <entry>
@@ -735,6 +735,64 @@ $$</p>
       </tags>
   </entry>
   <entry>
+    <title>经济学人第4天</title>
+    <url>/2021/04/23/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%AC%AC4%E5%A4%A9/</url>
+    <content><![CDATA[<ol>
+<li>
+<p>Relevance is not the same as fast growth, which may prove elusive given  competition from aws and others. But it is better than the digital dustbin of  obscurity.<br>
+相关性不同于快速增长，考虑到来自aws和其他公司的竞争，快速增长可能难以捉摸。但总比默默无闻的数字垃圾箱好。</p>
+<p>elusive 难以捉摸的</p>
+</li>
+<li>
+<p>Mr Miller boasted that his firm sealed a wellbore in the North Sea with cement  in a process that was, for the first time, fully automated.<br>
+米勒先生炫耀道，他的公司在北海首次以完全自动化的方式用水泥密封了一个钻井孔。</p>
+<p>wellbore 钻井孔</p>
+<p>cement 水泥，巩固，加强</p>
+</li>
+<li>
+<p>A career retrospective that filled the galleries at Tate Britain in 2017 (before  a worldwide tour) brought home how much work she had made over 30 years, freeing  her to set off in a new direction.<br>
+2017年，泰特英国美术馆举办的一场职业回顾展(在全球巡演之前)使她深刻认识到她30多年来所做的工作，让她可以自由地走向新的方向。</p>
+<p>bring home 深刻认识到 ，make understandable and clear</p>
+<p>retrospective 回顾的，怀旧的，可追溯的</p>
+</li>
+<li>
+<p>A scheme to trace supply chains known as ITSCI run by the International Tin  Association based in London and an American charity, Pact, helped bring  tentative buyers back to Congo.<br>
+总部设在伦敦的国际锡业协会和美国慈善机构Pact经营的名为ITSCI的供应链追踪计划，帮助将暂定的买家带回刚果。</p>
+<p>a scheme to trace supply chains 供应链追踪计划</p>
+<p>tentative 试验性的，暂定的，踌躇的</p>
+<blockquote>
+<p>ITSCI官网</p>
+<p>ITSCI works to achieve avoidance of conflict financing, human rights abuses, or other risks such as bribery in mineral supply chains. Our reference is the OECD Due Diligence Guidance and the OECD has confirmed our standards are 100% aligned with the guidance; see <a class="link" href="https://www.itsci.org/2018/07/11/itsci-achieves-highest-rating-in-independent-oecd-alignment-study/">here.<i class="fas fa-external-link-alt"></i></a><br>
+Our monitored supply chains allow metal users to source responsibly and avoid total disengagement from high risk areas, while ensuring that miners continue to benefit from responsible business opportunity.<br>
+By making available unique and credible information to businesses, government authorities and civil society participation in ITSCI allows them to take appropriate and effective decisions on due diligence and steps towards progressive improvement.<br>
+Sharing of our detailed and credible information, which is generated to a common standard by a range of appropriate experts, encourages accountability of all stakeholders, and as a result, reduces business risk and increases opportunity for all.<br>
+ITSCI currently focuses on Burundi, Democratic Republic of Congo, Rwanda and Uganda.</p>
+</blockquote>
+<blockquote>
+<p>ITSCI致力于避免冲突融资、侵犯人权或其他风险，如矿产供应链中的贿赂。我们的参考是OECD尽职调查指南，OECD已确认我们的标准与指南100%一致；看这里。</p>
+<p>我们监控的供应链允许金属用户负责任地采购，避免完全脱离高风险地区，同时确保矿工继续受益于负责任的商机。</p>
+<p>通过向企业提供独特和可信的信息，政府当局和民间社会参与ITSCI使它们能够就尽职调查和逐步改进的步骤作出适当和有效的决定。</p>
+<p>分享我们的详细和可信的信息，这些信息是由一系列适当的专家按照共同的标准生成的，鼓励所有利益相关者承担责任，从而降低业务风险，增加所有人的机会。</p>
+<p>ITSCI目前的工作重点在于布隆迪、刚果民主共和国、卢旺达和乌干达。</p>
+</blockquote>
+</li>
+<li>
+<p>Last year the country was shaken by months of protest by people fed up with  decades of ingrained corruption, political meddling in the judiciary and  arrogant oligarchs.<br>
+去年，几个月的抗议动摇了这个国家，抗议的人群厌倦了几十年根深蒂固的腐败、对司法的政治干预和傲慢的寡头政治。</p>
+<p>ingrained 根深蒂固的</p>
+<p>political meddling 政治干预</p>
+<p>oligarch 寡头政治的执政者</p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>英语</category>
+      </categories>
+      <tags>
+        <tag>经济学人</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>初次尝试多多指教</title>
     <url>/2021/04/20/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%AC%AC1%E5%A4%A9/</url>
     <content><![CDATA[<h1>经济学人翻译10句</h1>
@@ -835,46 +893,47 @@ proliferating 繁衍</p>
       </tags>
   </entry>
   <entry>
-    <title>经济学人第2天</title>
-    <url>/2021/04/21/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%AC%AC2%E5%A4%A9/</url>
-    <content><![CDATA[<h1>第二天</h1>
-<h2 id="经济学人5句"><a class="header-anchor" href="#经济学人5句">¶</a>经济学人5句</h2>
-<ol>
+    <title>经济学人第5天</title>
+    <url>/2021/04/24/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%AC%AC5%E5%A4%A9/</url>
+    <content><![CDATA[<ol>
 <li>
-<p>She spoke for all Egypt’s women as they struggled in silent subordination,<br>
-shouting “I insist on it!”, until, sometimes, she got through.<br>
-她为所有挣扎在沉默服从中的埃及妇女发声，大喊“我坚持这样做！”，直到有时，她的书通过了审查。<br>
-这句话来源一篇介绍一名埃及女作家的文章，该句前文介绍她写了不下50本争取女性权利的书，其中不乏对于野蛮的真相的阐述，由于当局的审查大部分无法出版，因而这里的got through解释为主角写的书通过了审查。</p>
-<p>subordination 从属，次级</p>
-</li>
-<li>
-<p>He accused him of being so enslaved to the left that he was pushing the left-wing policies, such as Medicare for All and the Green New Deal, that belonged to the Democratic rivals he trounced in his party’s primaries.<br>
-他指责特朗普是左派的奴隶，以至于他推行左翼政策，如全民医疗保险和绿色新政，这些政策都属于他在党内初选中击败的民主党对手。</p>
-<p>enslave 奴役，受奴役</p>
-<p>后面半句全在修饰left-wing policies，也就是特朗普民主党对手的左翼政策</p>
-<p>trounce 击溃，彻底打败</p>
-</li>
-<li>
-<p>In­stead, this fine novel is reminiscent of “A Change of Climate”, Hilary Mantel’s novel of 1994, with its shifting perspectives and emphasis on a single, life­ altering event.<br>
-相反，这部优秀的小说以其视角的转换和对一单独改变生活的故事的强调让人不禁想起Hilary Mantel 1994年的小说《气候的变化》。<br>
-reminiscent of sb/sth 使回忆起</p>
-<p>我觉得把with 内容提前更好翻译</p>
-</li>
-<li>
-<p>Support for militant groups is not a bargaining chip for Iran: it is an ideological imperative and the core of its security doctrine.<br>
-对激进组织的支持并不是伊朗讨价还价的筹码：而是意识形态上的当务之急，也是伊朗安全主义的核心。</p>
-<p>militant 有翻译直接翻成武装组织，是不对的，这句话的上下文讲伊朗的核协议，背景是</p>
+<p>The companies have also improved their scrutiny of far-flung countries, after  criticism of their earlier negligence in places such as Myanmar, where Facebook  played a “determining role” in the violence against Rohingya Muslims, according  to the un (see Asia section).<br>
+根据联合国(见亚洲部分)的说法，这些公司还改善了对遥远国家的审查，此前有人批评它们早先在缅甸等地的疏忽，脸书在针对罗辛亚穆斯林的暴力事件中扮演了“决定性角色”。</p>
+<p>scrutiny 审查</p>
+<p>far-flung 遥远的；广泛的；广布的</p>
+<p>negligence 疏忽</p>
 <blockquote>
-<p>2020年1月5日，伊朗政府在<a class="link" href="https://zh.wikipedia.org/wiki/%E8%81%96%E5%9F%8E%E6%97%85">圣城旅<i class="fas fa-external-link-alt"></i></a>领袖<a class="link" href="https://zh.wikipedia.org/wiki/%E5%8D%A1%E8%A5%BF%E5%A7%86%C2%B7%E8%98%87%E8%90%8A%E6%9B%BC%E5%B0%BC">卡西姆·苏莱曼尼<i class="fas fa-external-link-alt"></i></a>于<a class="link" href="https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%A0%BC%E8%BE%BE">巴格达<i class="fas fa-external-link-alt"></i></a>被美军<a class="link" href="https://zh.wikipedia.org/wiki/2020%E5%B9%B4%E5%B7%B4%E6%A0%BC%E8%BE%BE%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA%E7%A9%BA%E8%A2%AD">刺杀<i class="fas fa-external-link-alt"></i></a>后宣布，伊朗暂停履行伊朗核问题全面协议第五阶段对伊限制措施，伊朗持有离心机的数量将不再有任何限制，伊朗核問題全面協議，雖然伊朗宣布它將不再遵守該協議的限制，但將繼續與國際原子能機構進行協調，從而有可能恢復合規性。</p>
+<p>In July a Facebook post emerged of a Buddhist woman being raped, supposedly by a Muslim man. In retaliation an angry, vengeful mob of 300 people started throwing stones and bricks at a tea stall. The mob went on to attack Muslim shops and vehicles and shouted slogans in Muslim residential areas.[<a class="link" href="https://en.wikipedia.org/wiki/Persecution_of_Muslims_in_Myanmar#cite_note-67">67]<i class="fas fa-external-link-alt"></i></a> Two men – one Buddhist and one Muslim – were killed.[<a class="link" href="https://en.wikipedia.org/wiki/Persecution_of_Muslims_in_Myanmar#cite_note-channelnewsasia-68">68]<i class="fas fa-external-link-alt"></i></a>[<a class="link" href="https://en.wikipedia.org/wiki/Persecution_of_Muslims_in_Myanmar#cite_note-MandalayCurfew-69">69]<i class="fas fa-external-link-alt"></i></a> Roughly a dozen people were injured.[<a class="link" href="https://en.wikipedia.org/wiki/Persecution_of_Muslims_in_Myanmar#cite_note-70">70]<i class="fas fa-external-link-alt"></i></a> A curfew was imposed on 3 July.[<a class="link" href="https://en.wikipedia.org/wiki/Persecution_of_Muslims_in_Myanmar#cite_note-channelnewsasia-68">68]<i class="fas fa-external-link-alt"></i></a>[<a class="link" href="https://en.wikipedia.org/wiki/Persecution_of_Muslims_in_Myanmar#cite_note-MandalayCurfew-69">69]<i class="fas fa-external-link-alt"></i></a><br>
+可能是这件事 导致“determining role”</p>
 </blockquote>
-<p>意思差不多是伊朗研发核武器完全就是为了自我保护，并没有存在什么武装组织。</p>
 </li>
 <li>
-<p>A court hearing for Aung San Suu Kyi, Myanmar’s deposed leader, had to be adjourned because of prob­lems with the internet, which the army has shut down.<br>
-缅甸被罢免领导人昂山素季的法庭听证会因网络问题不得不休庭，而网络由其军方关闭。</p>
-<p>hearing 听证会</p>
-<p>adjourn 休庭</p>
-<p>这句前文讲的是缅甸的军事政变，军队向抗议政变的示威者开枪，二百多人死亡，其中有一名7岁女孩。而这个网络问题，到底是存在网络突发故障还是军方阻碍听证会的进行而切断网络导致的休庭有待商榷</p>
+<p>Hers is hardly the first career to be capsized by old tweets. Neera Tanden was  supposed to become Joe Biden’s head of the Office of Management and Budget.<br>
+她的职业生涯并不是第一次被历史推文所颠覆。Neera Tanden应该成为Joe Biden的管理和预算办公室主任。</p>
+<p>capsize 翻车</p>
+</li>
+<li>
+<p>His cadre of experienced appointees (see graphic overleaf ) will immediately  wield the tools of the administrative state to undo much of the damage of the  Trump era.<br>
+他由经验丰富的被任命者组成的干部(见背页图片)将立即运用国家行政工具来消除特朗普时代的大部分损失。</p>
+<p>cadre 干部</p>
+<p>undo 取消，解开，破坏，扰乱</p>
+</li>
+<li>
+<p>Mr Biden is clinging to a bare one- or two-point lead there, but the picture in  the Senate is different: Cal Cunningham, a former state legislator, soldier and  businessman, is polling well ahead of Mr Biden and leads Thom Tillis, a rather unloved Republican incumbent, by six points.<br>
+拜登在这方面上只领先一两个百分点，但参议院的情况不同:前州议员、军人和商人Cal  Cunningham在民调中遥遥领先于拜登，并以6个百分点领先于相当不受欢迎的现任共和党人汤姆·提利斯(Thom Tillis)。</p>
+<p>poll 民调</p>
+<p>incumbent 现任的</p>
+<p>biden和Thom Tillis 并列</p>
+</li>
+<li>
+<p>Mr Turchin’s analysis of the structural forces governing societies is an  intriguing explanation of political unrest. But cliodynamics need not be  destiny.<br>
+图尔钦对统治社会的结构性力量的分析，为政治动荡提供了一个有趣的解释。但历史动力学不一定就是命运。</p>
+<p>governing societies 治理社会</p>
+<p>intriguing 有趣的，迷人的</p>
+<blockquote>
+<p>abstract: Cliodynamics (etymologically from Clio, one of the nine muses (that of  history), and dynamics (the study of temporally varying processes)) is a new  multidisciplinary area of research focused at mathematical modeling of  historical dynamics.Peter Turchin Arise cliodynamics, 2008 Nature (3 July 2008)</p>
+<p>摘要:cliodynamics (Clio, the nine muses of history, and dynamics (the study of  temporally varying processes，时间变化过程的研究)是一个新的多学科研究领域，专注于历史动力学的数学建模。Peter Turchin  Arise cliodynamics, 2008 Nature(2008年7月3日)</p>
+</blockquote>
 </li>
 </ol>
 ]]></content>
@@ -930,105 +989,46 @@ reminiscent of sb/sth 使回忆起</p>
       </tags>
   </entry>
   <entry>
-    <title>经济学人第5天</title>
-    <url>/2021/04/24/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%AC%AC5%E5%A4%A9/</url>
-    <content><![CDATA[<ol>
+    <title>经济学人第2天</title>
+    <url>/2021/04/21/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%AC%AC2%E5%A4%A9/</url>
+    <content><![CDATA[<h1>第二天</h1>
+<h2 id="经济学人5句"><a class="header-anchor" href="#经济学人5句">¶</a>经济学人5句</h2>
+<ol>
 <li>
-<p>The companies have also improved their scrutiny of far-flung countries, after  criticism of their earlier negligence in places such as Myanmar, where Facebook  played a “determining role” in the violence against Rohingya Muslims, according  to the un (see Asia section).<br>
-根据联合国(见亚洲部分)的说法，这些公司还改善了对遥远国家的审查，此前有人批评它们早先在缅甸等地的疏忽，脸书在针对罗辛亚穆斯林的暴力事件中扮演了“决定性角色”。</p>
-<p>scrutiny 审查</p>
-<p>far-flung 遥远的；广泛的；广布的</p>
-<p>negligence 疏忽</p>
+<p>She spoke for all Egypt’s women as they struggled in silent subordination,<br>
+shouting “I insist on it!”, until, sometimes, she got through.<br>
+她为所有挣扎在沉默服从中的埃及妇女发声，大喊“我坚持这样做！”，直到有时，她的书通过了审查。<br>
+这句话来源一篇介绍一名埃及女作家的文章，该句前文介绍她写了不下50本争取女性权利的书，其中不乏对于野蛮的真相的阐述，由于当局的审查大部分无法出版，因而这里的got through解释为主角写的书通过了审查。</p>
+<p>subordination 从属，次级</p>
+</li>
+<li>
+<p>He accused him of being so enslaved to the left that he was pushing the left-wing policies, such as Medicare for All and the Green New Deal, that belonged to the Democratic rivals he trounced in his party’s primaries.<br>
+他指责特朗普是左派的奴隶，以至于他推行左翼政策，如全民医疗保险和绿色新政，这些政策都属于他在党内初选中击败的民主党对手。</p>
+<p>enslave 奴役，受奴役</p>
+<p>后面半句全在修饰left-wing policies，也就是特朗普民主党对手的左翼政策</p>
+<p>trounce 击溃，彻底打败</p>
+</li>
+<li>
+<p>In­stead, this fine novel is reminiscent of “A Change of Climate”, Hilary Mantel’s novel of 1994, with its shifting perspectives and emphasis on a single, life­ altering event.<br>
+相反，这部优秀的小说以其视角的转换和对一单独改变生活的故事的强调让人不禁想起Hilary Mantel 1994年的小说《气候的变化》。<br>
+reminiscent of sb/sth 使回忆起</p>
+<p>我觉得把with 内容提前更好翻译</p>
+</li>
+<li>
+<p>Support for militant groups is not a bargaining chip for Iran: it is an ideological imperative and the core of its security doctrine.<br>
+对激进组织的支持并不是伊朗讨价还价的筹码：而是意识形态上的当务之急，也是伊朗安全主义的核心。</p>
+<p>militant 有翻译直接翻成武装组织，是不对的，这句话的上下文讲伊朗的核协议，背景是</p>
 <blockquote>
-<p>In July a Facebook post emerged of a Buddhist woman being raped, supposedly by a Muslim man. In retaliation an angry, vengeful mob of 300 people started throwing stones and bricks at a tea stall. The mob went on to attack Muslim shops and vehicles and shouted slogans in Muslim residential areas.[<a class="link" href="https://en.wikipedia.org/wiki/Persecution_of_Muslims_in_Myanmar#cite_note-67">67]<i class="fas fa-external-link-alt"></i></a> Two men – one Buddhist and one Muslim – were killed.[<a class="link" href="https://en.wikipedia.org/wiki/Persecution_of_Muslims_in_Myanmar#cite_note-channelnewsasia-68">68]<i class="fas fa-external-link-alt"></i></a>[<a class="link" href="https://en.wikipedia.org/wiki/Persecution_of_Muslims_in_Myanmar#cite_note-MandalayCurfew-69">69]<i class="fas fa-external-link-alt"></i></a> Roughly a dozen people were injured.[<a class="link" href="https://en.wikipedia.org/wiki/Persecution_of_Muslims_in_Myanmar#cite_note-70">70]<i class="fas fa-external-link-alt"></i></a> A curfew was imposed on 3 July.[<a class="link" href="https://en.wikipedia.org/wiki/Persecution_of_Muslims_in_Myanmar#cite_note-channelnewsasia-68">68]<i class="fas fa-external-link-alt"></i></a>[<a class="link" href="https://en.wikipedia.org/wiki/Persecution_of_Muslims_in_Myanmar#cite_note-MandalayCurfew-69">69]<i class="fas fa-external-link-alt"></i></a><br>
-可能是这件事 导致“determining role”</p>
+<p>2020年1月5日，伊朗政府在<a class="link" href="https://zh.wikipedia.org/wiki/%E8%81%96%E5%9F%8E%E6%97%85">圣城旅<i class="fas fa-external-link-alt"></i></a>领袖<a class="link" href="https://zh.wikipedia.org/wiki/%E5%8D%A1%E8%A5%BF%E5%A7%86%C2%B7%E8%98%87%E8%90%8A%E6%9B%BC%E5%B0%BC">卡西姆·苏莱曼尼<i class="fas fa-external-link-alt"></i></a>于<a class="link" href="https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%A0%BC%E8%BE%BE">巴格达<i class="fas fa-external-link-alt"></i></a>被美军<a class="link" href="https://zh.wikipedia.org/wiki/2020%E5%B9%B4%E5%B7%B4%E6%A0%BC%E8%BE%BE%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA%E7%A9%BA%E8%A2%AD">刺杀<i class="fas fa-external-link-alt"></i></a>后宣布，伊朗暂停履行伊朗核问题全面协议第五阶段对伊限制措施，伊朗持有离心机的数量将不再有任何限制，伊朗核問題全面協議，雖然伊朗宣布它將不再遵守該協議的限制，但將繼續與國際原子能機構進行協調，從而有可能恢復合規性。</p>
 </blockquote>
+<p>意思差不多是伊朗研发核武器完全就是为了自我保护，并没有存在什么武装组织。</p>
 </li>
 <li>
-<p>Hers is hardly the first career to be capsized by old tweets. Neera Tanden was  supposed to become Joe Biden’s head of the Office of Management and Budget.<br>
-她的职业生涯并不是第一次被历史推文所颠覆。Neera Tanden应该成为Joe Biden的管理和预算办公室主任。</p>
-<p>capsize 翻车</p>
-</li>
-<li>
-<p>His cadre of experienced appointees (see graphic overleaf ) will immediately  wield the tools of the administrative state to undo much of the damage of the  Trump era.<br>
-他由经验丰富的被任命者组成的干部(见背页图片)将立即运用国家行政工具来消除特朗普时代的大部分损失。</p>
-<p>cadre 干部</p>
-<p>undo 取消，解开，破坏，扰乱</p>
-</li>
-<li>
-<p>Mr Biden is clinging to a bare one- or two-point lead there, but the picture in  the Senate is different: Cal Cunningham, a former state legislator, soldier and  businessman, is polling well ahead of Mr Biden and leads Thom Tillis, a rather unloved Republican incumbent, by six points.<br>
-拜登在这方面上只领先一两个百分点，但参议院的情况不同:前州议员、军人和商人Cal  Cunningham在民调中遥遥领先于拜登，并以6个百分点领先于相当不受欢迎的现任共和党人汤姆·提利斯(Thom Tillis)。</p>
-<p>poll 民调</p>
-<p>incumbent 现任的</p>
-<p>biden和Thom Tillis 并列</p>
-</li>
-<li>
-<p>Mr Turchin’s analysis of the structural forces governing societies is an  intriguing explanation of political unrest. But cliodynamics need not be  destiny.<br>
-图尔钦对统治社会的结构性力量的分析，为政治动荡提供了一个有趣的解释。但历史动力学不一定就是命运。</p>
-<p>governing societies 治理社会</p>
-<p>intriguing 有趣的，迷人的</p>
-<blockquote>
-<p>abstract: Cliodynamics (etymologically from Clio, one of the nine muses (that of  history), and dynamics (the study of temporally varying processes)) is a new  multidisciplinary area of research focused at mathematical modeling of  historical dynamics.Peter Turchin Arise cliodynamics, 2008 Nature (3 July 2008)</p>
-<p>摘要:cliodynamics (Clio, the nine muses of history, and dynamics (the study of  temporally varying processes，时间变化过程的研究)是一个新的多学科研究领域，专注于历史动力学的数学建模。Peter Turchin  Arise cliodynamics, 2008 Nature(2008年7月3日)</p>
-</blockquote>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>英语</category>
-      </categories>
-      <tags>
-        <tag>经济学人</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>经济学人第4天</title>
-    <url>/2021/04/23/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%AC%AC4%E5%A4%A9/</url>
-    <content><![CDATA[<ol>
-<li>
-<p>Relevance is not the same as fast growth, which may prove elusive given  competition from aws and others. But it is better than the digital dustbin of  obscurity.<br>
-相关性不同于快速增长，考虑到来自aws和其他公司的竞争，快速增长可能难以捉摸。但总比默默无闻的数字垃圾箱好。</p>
-<p>elusive 难以捉摸的</p>
-</li>
-<li>
-<p>Mr Miller boasted that his firm sealed a wellbore in the North Sea with cement  in a process that was, for the first time, fully automated.<br>
-米勒先生炫耀道，他的公司在北海首次以完全自动化的方式用水泥密封了一个钻井孔。</p>
-<p>wellbore 钻井孔</p>
-<p>cement 水泥，巩固，加强</p>
-</li>
-<li>
-<p>A career retrospective that filled the galleries at Tate Britain in 2017 (before  a worldwide tour) brought home how much work she had made over 30 years, freeing  her to set off in a new direction.<br>
-2017年，泰特英国美术馆举办的一场职业回顾展(在全球巡演之前)使她深刻认识到她30多年来所做的工作，让她可以自由地走向新的方向。</p>
-<p>bring home 深刻认识到 ，make understandable and clear</p>
-<p>retrospective 回顾的，怀旧的，可追溯的</p>
-</li>
-<li>
-<p>A scheme to trace supply chains known as ITSCI run by the International Tin  Association based in London and an American charity, Pact, helped bring  tentative buyers back to Congo.<br>
-总部设在伦敦的国际锡业协会和美国慈善机构Pact经营的名为ITSCI的供应链追踪计划，帮助将暂定的买家带回刚果。</p>
-<p>a scheme to trace supply chains 供应链追踪计划</p>
-<p>tentative 试验性的，暂定的，踌躇的</p>
-<blockquote>
-<p>ITSCI官网</p>
-<p>ITSCI works to achieve avoidance of conflict financing, human rights abuses, or other risks such as bribery in mineral supply chains. Our reference is the OECD Due Diligence Guidance and the OECD has confirmed our standards are 100% aligned with the guidance; see <a class="link" href="https://www.itsci.org/2018/07/11/itsci-achieves-highest-rating-in-independent-oecd-alignment-study/">here.<i class="fas fa-external-link-alt"></i></a><br>
-Our monitored supply chains allow metal users to source responsibly and avoid total disengagement from high risk areas, while ensuring that miners continue to benefit from responsible business opportunity.<br>
-By making available unique and credible information to businesses, government authorities and civil society participation in ITSCI allows them to take appropriate and effective decisions on due diligence and steps towards progressive improvement.<br>
-Sharing of our detailed and credible information, which is generated to a common standard by a range of appropriate experts, encourages accountability of all stakeholders, and as a result, reduces business risk and increases opportunity for all.<br>
-ITSCI currently focuses on Burundi, Democratic Republic of Congo, Rwanda and Uganda.</p>
-</blockquote>
-<blockquote>
-<p>ITSCI致力于避免冲突融资、侵犯人权或其他风险，如矿产供应链中的贿赂。我们的参考是OECD尽职调查指南，OECD已确认我们的标准与指南100%一致；看这里。</p>
-<p>我们监控的供应链允许金属用户负责任地采购，避免完全脱离高风险地区，同时确保矿工继续受益于负责任的商机。</p>
-<p>通过向企业提供独特和可信的信息，政府当局和民间社会参与ITSCI使它们能够就尽职调查和逐步改进的步骤作出适当和有效的决定。</p>
-<p>分享我们的详细和可信的信息，这些信息是由一系列适当的专家按照共同的标准生成的，鼓励所有利益相关者承担责任，从而降低业务风险，增加所有人的机会。</p>
-<p>ITSCI目前的工作重点在于布隆迪、刚果民主共和国、卢旺达和乌干达。</p>
-</blockquote>
-</li>
-<li>
-<p>Last year the country was shaken by months of protest by people fed up with  decades of ingrained corruption, political meddling in the judiciary and  arrogant oligarchs.<br>
-去年，几个月的抗议动摇了这个国家，抗议的人群厌倦了几十年根深蒂固的腐败、对司法的政治干预和傲慢的寡头政治。</p>
-<p>ingrained 根深蒂固的</p>
-<p>political meddling 政治干预</p>
-<p>oligarch 寡头政治的执政者</p>
+<p>A court hearing for Aung San Suu Kyi, Myanmar’s deposed leader, had to be adjourned because of prob­lems with the internet, which the army has shut down.<br>
+缅甸被罢免领导人昂山素季的法庭听证会因网络问题不得不休庭，而网络由其军方关闭。</p>
+<p>hearing 听证会</p>
+<p>adjourn 休庭</p>
+<p>这句前文讲的是缅甸的军事政变，军队向抗议政变的示威者开枪，二百多人死亡，其中有一名7岁女孩。而这个网络问题，到底是存在网络突发故障还是军方阻碍听证会的进行而切断网络导致的休庭有待商榷</p>
 </li>
 </ol>
 ]]></content>
